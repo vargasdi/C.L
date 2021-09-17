@@ -53,7 +53,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=infantiles&ch=tooncast&k=S
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=109&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", BABY TV 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=116&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg/revision/latest?cb=20100602093349", BABY FIRST
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png", BABY FIRST
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
@@ -116,11 +116,11 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=146&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=139&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Fox_Action_logo.svg/1280px-Fox_Action_logo.svg.png", FOX ACTION
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=336&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Fox_Premium_Cinema_2017.svg/revision/latest?cb=20200510180604&path-prefix=es", FOX CINEMA 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/T9yLcft5XIcpVSe-VCm75rDRNoVq57fftZ5n7Nl-rTssKpDEbBb3gVWmCPoBiQxvaM7_Ie_N02FwYl4YU9sbByJBf1xMiRJR", FOX CINEMA 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1729&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/1280px-Fox_life_logo.svg.png", FOX LIFE
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=77&p=3&k=srregio&f=.m3u8   
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Fox_Premium_Classics_2017.svg/revision/latest?cb=20200109020844&path-prefix=es", FOX CLASSICS 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/2MM617u7bvhbYXUgS0JgbRNZLSPBPzaOCNT3xvhOAnnP6NpMSPtBGKPvReZpPgp_VkqBIxgRfs0FQ0UYzqsSBvjjv96gWXpZuhg", FOX CLASSICS 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
