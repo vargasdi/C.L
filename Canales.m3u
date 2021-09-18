@@ -279,7 +279,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2274&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo.jpg", TVMAS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", CANAL DEL CONGRESO
+#EXTINF:-1 tvg-logo="https://www.canaldelcongreso.gob.mx/timeline/assets/CanalFBlanco.png", CANAL DEL CONGRESO
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png", MULTIMEDIOS CDMX
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2352&p=3&k=srregio&f=.m3u8  
@@ -287,21 +287,21 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2352&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://www.academiatv.es/wp-content/uploads/2020/07/academiatv-1.png", ACADEMIA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Multimedios_Televisi%C3%B3n_2015.svg/revision/latest?cb=20210723184654&path-prefix=es", MULTIMEDIOS HD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/c6/06/cb/c606cb664c4a644e9d875c279e11dc20.png", MULTIMEDIOS HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2882&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=217&p=3&k=srregio&f=.m3u8   
 
 *** CINE ***
-#EXTINF:-1 tvg-logo="", I SAT  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/1200px-I.Sat_logo.svg.png", I SAT  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=135&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", EUROPA CHANNEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png", EUROPA CHANNEL 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=136&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", FILMS & ARTS
+#EXTINF:-1 tvg-logo="https://fa-media.s3.amazonaws.com/web/lrzyg4sx0q_fa_share.jpg", FILMS & ARTS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=137&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", FXM SD 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1013533204937166848/0s_RxpUI_400x400.jpg", FXM SD 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=332&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="", MORBIDO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Logo_Morbido_sello.jpg", MORBIDO
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=140&p=3&k=srregio&f=.m3u8  
 
 *** ENTRETENIMIENTO ***
