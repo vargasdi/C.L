@@ -10,6 +10,8 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=184&p=3&k=srregio&f=.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=7&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=70&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=322&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
@@ -26,6 +28,8 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=32&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO INTERNACIONAL HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=85&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p4QIQIF7hJB7BCmnMtfRBtoBPyYtg0iTdedRbsRkIjMkRRc5_mw-1PS5iHKT3YujwD0-=s85", UNICABLE
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1499&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=83&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA
@@ -253,41 +257,39 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=27&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=32&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Televisi%C3%B3n_Mexiquense.jpg", MEXIQUENSE TV
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=44&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=70&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Az_Mundo_2014-2018.png/revision/latest?cb=20191211171851&path-prefix=es", AZ MUNDO
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=84&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD (2)
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=317&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, IMAGEN TV  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MULTIMEDIOS MTY
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/797/402/png-clipart-multimedios-television-television-channel-monterrey-music-logo-television-logo.png", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2305&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, APREDNE TV
+#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2019/11/Aprende-TV-en-vivo-Online.png", APREDNE TV
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=401&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, MULTIMEDIOS CDMX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png", MULTIMEDIOS CDMX
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1253&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, MVS TV
+#EXTINF:-1 tvg-logo="https://mvstv.com/mvstv-en-vivo_frame/pl/loadermvs.jpg", MVS TV
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2149&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TVC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Tvc_2003.png", TVC
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2156&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1, CANAL 4 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png", CANAL 4 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2274&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CANAL 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo_La_8.svg/1200px-Logo_La_8.svg.png", CANAL 8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2307&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, TVMAS
+#EXTINF:-1 tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/TVMas-Logo.jpg", TVMAS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2324&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1, CANAL DEL CONGRESO
+#EXTINF:-1 tvg-logo="", CANAL DEL CONGRESO
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2331&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", MULTIMEDIOS CDMX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png", MULTIMEDIOS CDMX
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2352&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", IMAGEN TV HD  
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png", IMAGEN TV HD  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2606&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", ACADEMIA
+#EXTINF:-1 tvg-logo="https://www.academiatv.es/wp-content/uploads/2020/07/academiatv-1.png", ACADEMIA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", MULTIMEDIOS HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Multimedios_Televisi%C3%B3n_2015.svg/revision/latest?cb=20210723184654&path-prefix=es", MULTIMEDIOS HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2882&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="", VH1 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=217&p=3&k=srregio&f=.m3u8   
 
 *** CINE ***
@@ -303,27 +305,26 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=332&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=140&p=3&k=srregio&f=.m3u8  
 
 *** ENTRETENIMIENTO ***
-#EXTINF:-1 tvg-logo="", SUNDANCE TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png", SUNDANCE TV
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=69&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="", GLITZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1200px-Logo_Glitz.svg.png", GLITZ
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=76&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="", GOURMET 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Elgourmetlogo2015.png", GOURMET 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=74&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="", TRUTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", TRUTV
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=79&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="", LIFETIME 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1200px-Logo_Lifetime_2020.svg.png", LIFETIME 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=94&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="", ANTENA 3
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Antena-3-Logo-2014.png", ANTENA 3
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=199&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", TRUTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png", TRUTV HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=215&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", HOLA TV HD
+#EXTINF:-1 tvg-logo="https://selectra.mx/sites/default/files/styles/_default/public/images/logos/hola-tv-350x183.png?itok=GhMKBfhw", HOLA TV HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=219&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="", COMEDY CENTRAL SD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Comedy_Central_2011_Logo.png/revision/latest?cb=20151004062805&path-prefix=es", COMEDY CENTRAL SD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=341&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="", UNICABLE
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1499&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="", MAS CHIC
+ 
+#EXTINF:-1 tvg-logo="https://grilla.naturytv.net/wp-content/uploads/2020/09/MasChic.png", MAS CHIC
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1842&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/televisa-deportes-network-tdn-logo.png", TUDN
@@ -371,7 +372,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=194&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=196&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/1200px-HLN_%28TV_network%29_2017_logo.svg.png", HLN
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=197&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Deutsche_Welle_symbol_2012.svg", DW 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/DW-TV_German_Logo.png", DW 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=203&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1024px-Russia-today-logo.svg.png", RT
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=999&p=3&k=srregio&f=.m3u8  
