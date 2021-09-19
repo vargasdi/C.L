@@ -85,7 +85,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hbo&k=SrRegio&f
 ##EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO 2 
 http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hbo2&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO PLUS 
-http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hboplus&k=SrRegio&f=.m3u8
+https://blackghost.live/play/megapro-928.php?c=59&token=dh8vY1n8W0&play=esplayer|User-Agent=esplayer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",HBO FAMILY 
 http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hbofamily&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",HBO SIGNATURE 
