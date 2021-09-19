@@ -227,7 +227,10 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2375&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png", CURIOSITY STREAM
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2594&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2594&p=3&k=srregio&f=.m3u8 
+
+#EXTINF:-1 group-title="Lista 04",Peliculas 24/7
+https://swzmjanqjsqkybjd.wzcdn774.net:8443/hls/4612rwe.m3u8?s=HJYodGVjAImalYG5vxpBdw&e=1632031370
  
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
