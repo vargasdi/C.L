@@ -1,0 +1,613 @@
+#EXTM3U
+
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
+http://regioplay.xyz/php/SR_REGIO_130921_/multimedios.php?f=.m3u8
+#EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
+https://regioplay.xyz/php/SR_REGIO_130921_/wowtv.php
+#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", NET TV
+http://regioplay.xyz/php/SR_REGIO_130921_/nettv.php?f=.m3u8
+#EXTINF:-1  tvg-id="Lista TV", Star Channel
+https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", LA 2
+https://rtvelivestreamv3.akamaized.net/la2_main_dvr.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", RT ESPANOL
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ESTRELLA TV
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1,A&E
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=1|User-Agent=megaplayer
+#EXTINF:-1,AXN
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=2|User-Agent=megaplayer
+#EXTINF:-1,Animal Planet
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=3|User-Agent=megaplayer
+#EXTINF:-1,Az Corazon
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=4|User-Agent=megaplayer
+#EXTINF:-1,Az Mundo
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=5|User-Agent=megaplayer
+#EXTINF:-1,AMC
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=6|User-Agent=megaplayer
+#EXTINF:-1,Antena 3 Internacional
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=7|User-Agent=megaplayer
+#EXTINF:-1,BBC World
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=8|User-Agent=megaplayer
+#EXTINF:-1,Baby TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=9|User-Agent=megaplayer
+#EXTINF:-1,Bloomberg
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=10|User-Agent=megaplayer
+#EXTINF:-1,CNN Espanol
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=11|User-Agent=megaplayer
+#EXTINF:-1,CNN Internacional
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=12|User-Agent=megaplayer
+#EXTINF:-1,Cable Noticias
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=13|User-Agent=megaplayer
+#EXTINF:-1,Canal Claro
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=14|User-Agent=megaplayer
+#EXTINF:-1,Caracol
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=16|User-Agent=megaplayer
+#EXTINF:-1,Caracol Internacional
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=17|User-Agent=megaplayer
+#EXTINF:-1,Cartoon Network
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=18|User-Agent=megaplayer
+#EXTINF:-1,Cine Canal
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=19|User-Agent=megaplayer
+#EXTINF:-1,Cine Latino
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=20|User-Agent=megaplayer
+#EXTINF:-1,Cinema Dinamita
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=21|User-Agent=megaplayer
+#EXTINF:-1,Cinema Plus
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=22|User-Agent=megaplayer
+#EXTINF:-1,City TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=23|User-Agent=megaplayer
+#EXTINF:-1,Claro Cinema
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=24|User-Agent=megaplayer
+#EXTINF:-1,Claro Music 2
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=26|User-Agent=megaplayer
+#EXTINF:-1,Claro Sports
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=27|User-Agent=megaplayer
+#EXTINF:-1,Claro Sports Latinoamerica
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=28|User-Agent=megaplayer
+#EXTINF:-1,Comedy Central
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=29|User-Agent=megaplayer
+#EXTINF:-1,DHE
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=31|User-Agent=megaplayer
+#EXTINF:-1,DW
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=32|User-Agent=megaplayer
+#EXTINF:-1,Concert Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=30|User-Agent=megaplayer
+#EXTINF:-1,DW America
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=33|User-Agent=megaplayer
+#EXTINF:-1,De Pelicula Plus
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=34|User-Agent=megaplayer
+#EXTINF:-1,Discovery Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=36|User-Agent=megaplayer
+#EXTINF:-1,Discovery Home and Health
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=37|User-Agent=megaplayer
+#EXTINF:-1,Discovery Kids
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=38|User-Agent=megaplayer
+#EXTINF:-1,Discovery Science
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=39|User-Agent=megaplayer
+#EXTINF:-1,Discovery Turbo
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=41|User-Agent=megaplayer
+#EXTINF:-1,Discovery World
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=42|User-Agent=megaplayer
+#EXTINF:-1,Discovery Theater
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=40|User-Agent=megaplayer
+#EXTINF:-1,Disney
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=43|User-Agent=megaplayer
+#EXTINF:-1,Disney JR
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=44|User-Agent=megaplayer
+#EXTINF:-1,Disney XD
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=45|User-Agent=megaplayer
+#EXTINF:-1,E !
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=46|User-Agent=megaplayer
+#EXTINF:-1,El Gourmet
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=47|User-Agent=megaplayer
+#EXTINF:-1,Mas Chic
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=48|User-Agent=megaplayer
+#EXTINF:-1,MTV Hits
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=49|User-Agent=megaplayer
+#EXTINF:-1,MTV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=50|User-Agent=megaplayer
+#EXTINF:-1,Lifetime
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=51|User-Agent=megaplayer
+#EXTINF:-1,Investigation Discovery
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=52|User-Agent=megaplayer
+#EXTINF:-1,I.Sat
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=53|User-Agent=megaplayer
+#EXTINF:-1,Hola TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=54|User-Agent=megaplayer
+#EXTINF:-1,H2
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=55|User-Agent=megaplayer
+#EXTINF:-1,History Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=56|User-Agent=megaplayer
+#EXTINF:-1,HTV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=57|User-Agent=megaplayer
+#EXTINF:-1,HLN
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=58|User-Agent=megaplayer
+#EXTINF:-1,HBO plus
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=59|User-Agent=megaplayer
+#EXTINF:-1,HBO Subtitulado
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=60|User-Agent=megaplayer
+#EXTINF:-1,HBO Signature
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=61|User-Agent=megaplayer
+#EXTINF:-1,HBO Family
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=62|User-Agent=megaplayer
+#EXTINF:-1,HBO 2
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=63|User-Agent=megaplayer
+#EXTINF:-1,HBO
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=64|User-Agent=megaplayer
+#EXTINF:-1,Golf Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=65|User-Agent=megaplayer
+#EXTINF:-1,Golden Premium
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=66|User-Agent=megaplayer
+#EXTINF:-1,Golden
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=67|User-Agent=megaplayer
+#EXTINF:-1,Glitz
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=68|User-Agent=megaplayer
+#EXTINF:-1,Fx Movie Mex
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=69|User-Agent=megaplayer
+#EXTINF:-1,France 24
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=71|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 3 Sur
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=72|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 2 MX
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=74|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 2 Sur
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=75|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 1 Sur
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=76|User-Agent=megaplayer
+#EXTINF:-1,Fox Sports 1 MX
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=77|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Series Subtitulado
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=78|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Series
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=79|User-Agent=megaplayer
+#EXTINF:-1,Fox News
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=80|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Movies
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=81|User-Agent=megaplayer
+#EXTINF:-1,Fox Life Mex
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=82|User-Agent=megaplayer
+#EXTINF:-1,Fox Life
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=83|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Family
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=84|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Comedy
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=85|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Classics
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=86|User-Agent=megaplayer
+#EXTINF:-1,Fox Cinema Subtitulado
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=87|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Cinema
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=88|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Action MX
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=89|User-Agent=megaplayer
+#EXTINF:-1,Fox Premium Action
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=90|User-Agent=megaplayer
+#EXTINF:-1,Fox
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=91|User-Agent=megaplayer
+#EXTINF:-1,FX
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=92|User-Agent=megaplayer
+#EXTINF:-1,Euro Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=93|User-Agent=megaplayer
+#EXTINF:-1,Espn Plus Sur
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=94|User-Agent=megaplayer
+#EXTINF:-1,Espn 3 Sur
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=95|User-Agent=megaplayer
+#EXTINF:-1,Espn 2 Sur
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=96|User-Agent=megaplayer
+#EXTINF:-1,Espn 1 Sur
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=97|User-Agent=megaplayer
+#EXTINF:-1,Win Sports
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=98|User-Agent=megaplayer
+#EXTINF:-1,Warner Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=99|User-Agent=megaplayer
+#EXTINF:-1,Vh1 Classic
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=100|User-Agent=megaplayer
+#EXTINF:-1,Vh1
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=101|User-Agent=megaplayer
+#EXTINF:-1,Univision
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=102|User-Agent=megaplayer
+#EXTINF:-1,Universal Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=103|User-Agent=megaplayer
+#EXTINF:-1,Unicable
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=104|User-Agent=megaplayer
+#EXTINF:-1,Tru TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=105|User-Agent=megaplayer
+#EXTINF:-1,Tve
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=106|User-Agent=megaplayer
+#EXTINF:-1,Tooncast
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=107|User-Agent=megaplayer
+#EXTINF:-1,Telemundo
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=108|User-Agent=megaplayer
+#EXTINF:-1,TNT Series
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=109|User-Agent=megaplayer
+#EXTINF:-1,TNT
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=110|User-Agent=megaplayer
+#EXTINF:-1,TLC
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=111|User-Agent=megaplayer
+#EXTINF:-1,TCM
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=112|User-Agent=megaplayer
+#EXTINF:-1,TBS
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=113|User-Agent=megaplayer
+#EXTINF:-1,Sundance Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=114|User-Agent=megaplayer
+#EXTINF:-1,Studio Universal
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=115|User-Agent=megaplayer
+#EXTINF:-1,Space
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=116|User-Agent=megaplayer
+#EXTINF:-1,Sony
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=117|User-Agent=megaplayer
+#EXTINF:-1,RCN Telenovelas
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=118|User-Agent=megaplayer
+#EXTINF:-1,Pasiones
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=119|User-Agent=megaplayer
+#EXTINF:-1,Paramount Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=120|User-Agent=megaplayer
+#EXTINF:-1,Nickelodeon
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=121|User-Agent=megaplayer
+#EXTINF:-1,Nick Jr
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=122|User-Agent=megaplayer
+#EXTINF:-1,Nick 2
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=123|User-Agent=megaplayer
+#EXTINF:-1,Nat Geo Wild
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=124|User-Agent=megaplayer
+#EXTINF:-1,Nat Geo Mex
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=125|User-Agent=megaplayer
+#EXTINF:-1,Nat Geo Kids Mex
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=126|User-Agent=megaplayer
+#EXTINF:-1,Nat Geo Kids
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=127|User-Agent=megaplayer
+#EXTINF:-1,National Geographic Channel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=128|User-Agent=megaplayer
+#EXTINF:-1,Multipremier
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=129|User-Agent=megaplayer
+#EXTINF:-1,Mtv Live
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=130|User-Agent=megaplayer
+#EXTINF:-1,HBO Pop
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=131|User-Agent=megaplayer
+#EXTINF:-1,HBO Xtreme
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=132|User-Agent=megaplayer
+#EXTINF:-1,HBO Mundi
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=133|User-Agent=megaplayer
+#EXTINF:-1,MX | Azteca 7
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=134|User-Agent=megaplayer
+#EXTINF:-1,MX | Azteca Uno
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=135|User-Agent=megaplayer
+#EXTINF:-1,MX | ADN 40
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=136|User-Agent=megaplayer
+#EXTINF:-1,MX | Az Clic
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=139|User-Agent=megaplayer
+#EXTINF:-1,MX | Az Cinema
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=140|User-Agent=megaplayer
+#EXTINF:-1,MX | A3 Series
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=141|User-Agent=megaplayer
+#EXTINF:-1,MX | Antena 3
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=142|User-Agent=megaplayer
+#EXTINF:-1,MX | Aym Sports
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=143|User-Agent=megaplayer
+#EXTINF:-1,MX | Canal 5
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=144|User-Agent=megaplayer
+#EXTINF:-1,MX | Las Estrellas
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=145|User-Agent=megaplayer
+#EXTINF:-1,MX | Galatv
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=146|User-Agent=megaplayer
+#EXTINF:-1,MX | Foro TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=147|User-Agent=megaplayer
+#EXTINF:-1,MX | Europa Europa
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=148|User-Agent=megaplayer
+#EXTINF:-1,MX | Distrito Comedia
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=149|User-Agent=megaplayer
+#EXTINF:-1,MX | Multimedios
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=150|User-Agent=megaplayer
+#EXTINF:-1,MX | Televisa MTY
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=151|User-Agent=megaplayer
+#EXTINF:-1,MX | Garage TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=152|User-Agent=megaplayer
+#EXTINF:-1,MX | Congreso de la Unión
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=153|User-Agent=megaplayer
+#EXTINF:-1,MX | Imagen TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=154|User-Agent=megaplayer
+#EXTINF:-1,MX | Latin American Sports
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=155|User-Agent=megaplayer
+#EXTINF:-1,MX | Teleritmo
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=156|User-Agent=megaplayer
+#EXTINF:-1,MX | Milenio TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=157|User-Agent=megaplayer
+#EXTINF:-1,MX | Espn Plus
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=160|User-Agent=megaplayer
+#EXTINF:-1,MX | Espn
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=161|User-Agent=megaplayer
+#EXTINF:-1,MX | Espn 2
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=162|User-Agent=megaplayer
+#EXTINF:-1,MX | Fox Sports 3
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=165|User-Agent=megaplayer
+#EXTINF:-1,MX | RT Noticias
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=166|User-Agent=megaplayer
+#EXTINF:-1,MX | Espn 3
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=167|User-Agent=megaplayer
+#EXTINF:-1,MX | RT en Espanol
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=168|User-Agent=megaplayer
+#EXTINF:-1,MX | Tl Novelas
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=169|User-Agent=megaplayer
+#EXTINF:-1,MX | A Plus
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=170|User-Agent=megaplayer
+#EXTINF:-1,MX | Cinemax
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=171|User-Agent=megaplayer
+#EXTINF:-1,MX | Nicktoons
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=172|User-Agent=megaplayer
+#EXTINF:-1,MX | Bandamax
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=173|User-Agent=megaplayer
+#EXTINF:-1,MX | Food Network
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=174|User-Agent=megaplayer
+#EXTINF:-1,MX | Boomerang
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=176|User-Agent=megaplayer
+#EXTINF:-1,MX | Ingenio TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=177|User-Agent=megaplayer
+#EXTINF:-1,MX | Ritmoson
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=178|User-Agent=megaplayer
+#EXTINF:-1,MX | Telehit
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=179|User-Agent=megaplayer
+#EXTINF:-1,MX | TVC
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=180|User-Agent=megaplayer
+#EXTINF:-1,MX | TVC Deportes
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=181|User-Agent=megaplayer
+#EXTINF:-1,MX | Telefórmula
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=182|User-Agent=megaplayer
+#EXTINF:-1,MX | Golden
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=183|User-Agent=megaplayer
+#EXTINF:-1,MX | Golden Edge
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=184|User-Agent=megaplayer
+#EXTINF:-1,Bein Sports
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=185|User-Agent=megaplayer
+#EXTINF:-1,Directv Sports Plus
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=186|User-Agent=megaplayer
+#EXTINF:-1,Directv Sports
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=187|User-Agent=megaplayer
+#EXTINF:-1,Directv Sports 2
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=188|User-Agent=megaplayer
+#EXTINF:-1,Univision UDN
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=189|User-Agent=megaplayer
+#EXTINF:-1,Univision TDN
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=190|User-Agent=megaplayer
+#EXTINF:-1,PE | TV Peru
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=191|User-Agent=megaplayer
+#EXTINF:-1,PE | Peru Magico
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=192|User-Agent=megaplayer
+#EXTINF:-1,PE | Panamericana
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=193|User-Agent=megaplayer
+#EXTINF:-1,PE | Movistar Deportes
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=194|User-Agent=megaplayer
+#EXTINF:-1,PE | Gol Peru
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=195|User-Agent=megaplayer
+#EXTINF:-1,COL | Trece
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=198|User-Agent=megaplayer
+#EXTINF:-1,COL | RCN Internacional
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=200|User-Agent=megaplayer
+#EXTINF:-1,COL | RCN
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=201|User-Agent=megaplayer
+#EXTINF:-1,COL | Caracol 2
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=204|User-Agent=megaplayer
+#EXTINF:-1,COL | Caracol
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=205|User-Agent=megaplayer
+#EXTINF:-1,CL | Fox Sports
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=211|User-Agent=megaplayer
+#EXTINF:-1,CL | Chilevision
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=212|User-Agent=megaplayer
+#EXTINF:-1,CL | CDO Premium
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=213|User-Agent=megaplayer
+#EXTINF:-1,CL | CDO Basico
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=214|User-Agent=megaplayer
+#EXTINF:-1,CL | CDF Premium
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=215|User-Agent=megaplayer
+#EXTINF:-1,CL | CDF Basico
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=216|User-Agent=megaplayer
+#EXTINF:-1,CL | CDF
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=217|User-Agent=megaplayer
+#EXTINF:-1,AR | TNT Sports
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=219|User-Agent=megaplayer
+#EXTINF:-1,Wobi
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=337|User-Agent=megaplayer
+#EXTINF:-1,VH1 HD
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=336|User-Agent=megaplayer
+#EXTINF:-1,Start TVE
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=335|User-Agent=megaplayer
+#EXTINF:-1,TV Mas
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=334|User-Agent=megaplayer
+#EXTINF:-1,MVS
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=333|User-Agent=megaplayer
+#EXTINF:-1,Golden Plus
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=327|User-Agent=megaplayer
+#EXTINF:-1,Discovery Civilization
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=325|User-Agent=megaplayer
+#EXTINF:-1,De Pelicula
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=324|User-Agent=megaplayer
+#EXTINF:-1,Gol TV Internacional
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=338|User-Agent=megaplayer
+#EXTINF:-1,Tigo Sports 1
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=339|User-Agent=megaplayer
+#EXTINF:-1,Tigo Sports py
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=340|User-Agent=megaplayer
+#EXTINF:-1,Tigo Sports 3
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=341|User-Agent=megaplayer
+#EXTINF:-1,Estrella tv
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=342|User-Agent=megaplayer
+#EXTINF:-1,Bein sports ñ T
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=343|User-Agent=megaplayer
+#EXTINF:-1,Fightbox
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=346|User-Agent=megaplayer
+#EXTINF:-1,Fight Time
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=347|User-Agent=megaplayer
+#EXTINF:-1,MLB Network
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=349|User-Agent=megaplayer
+#EXTINF:-1,Motorsports TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=350|User-Agent=megaplayer
+#EXTINF:-1,RedBull
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=351|User-Agent=megaplayer
+#EXTINF:-1,UFC TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=353|User-Agent=megaplayer
+#EXTINF:-1,Bitme
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=354|User-Agent=megaplayer
+#EXTINF:-1,Locomotion
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=355|User-Agent=megaplayer
+#EXTINF:-1,movistar liga de Campeones
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=357|User-Agent=megaplayer
+#EXTINF:-1,nueve mx
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=356|User-Agent=megaplayer
+#EXTINF:-1,ISAT
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=369|User-Agent=megaplayer
+#EXTINF:-1,Film&Arts
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=370|User-Agent=megaplayer
+#EXTINF:-1,Syfy
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=371|User-Agent=megaplayer
+#EXTINF:-1,Ultra Tainment
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=373|User-Agent=megaplayer
+#EXTINF:-1,Win Sports+
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=374|User-Agent=megaplayer
+#EXTINF:-1,MX | EDUCA canal 1
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=376|User-Agent=megaplayer
+#EXTINF:-1,MX | EDUCA canal 2
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=377|User-Agent=megaplayer
+#EXTINF:-1,MX | EDUCA canal 3
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=378|User-Agent=megaplayer
+#EXTINF:-1,Canal Once
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=380|User-Agent=megaplayer
+#EXTINF:-1,Once Niños
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=381|User-Agent=megaplayer
+#EXTINF:-1,afizzionados
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=382|User-Agent=megaplayer
+#EXTINF:-1,Fox Deportes
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=384|User-Agent=megaplayer
+#EXTINF:-1,HGTV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=385|User-Agent=megaplayer
+#EXTINF:-1,Lazy Town
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=235|User-Agent=megaplayer
+#EXTINF:-1,Barnie y sus amigos
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=236|User-Agent=megaplayer
+#EXTINF:-1,Dora la exploradora
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=237|User-Agent=megaplayer
+#EXTINF:-1,PJ Masks
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=238|User-Agent=megaplayer
+#EXTINF:-1,caillou
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=239|User-Agent=megaplayer
+#EXTINF:-1,Jorge el Curioso
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=240|User-Agent=megaplayer
+#EXTINF:-1,peppa pig
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=241|User-Agent=megaplayer
+#EXTINF:-1,happy tree friends
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=242|User-Agent=megaplayer
+#EXTINF:-1,Los picapiedras
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=243|User-Agent=megaplayer
+#EXTINF:-1,Le temes a la oscuridad
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=244|User-Agent=megaplayer
+#EXTINF:-1,Pantera Rosa 80s
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=245|User-Agent=megaplayer
+#EXTINF:-1,Correcaminos
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=246|User-Agent=megaplayer
+#EXTINF:-1,Power Rangers
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=247|User-Agent=megaplayer
+#EXTINF:-1,Cuentos Hermanos Grimm
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=248|User-Agent=megaplayer
+#EXTINF:-1,Robotech
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=249|User-Agent=megaplayer
+#EXTINF:-1,Estrenos 2018
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=250|User-Agent=megaplayer
+#EXTINF:-1,El Chapulin Colorado
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=251|User-Agent=megaplayer
+#EXTINF:-1,Death Note
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=252|User-Agent=megaplayer
+#EXTINF:-1,CSI Miami
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=253|User-Agent=megaplayer
+#EXTINF:-1,Alf
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=254|User-Agent=megaplayer
+#EXTINF:-1,X-men 90s
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=255|User-Agent=megaplayer
+#EXTINF:-1,Vete a la Versh
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=256|User-Agent=megaplayer
+#EXTINF:-1,The Walking Dead
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=257|User-Agent=megaplayer
+#EXTINF:-1,Super campeones
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=258|User-Agent=megaplayer
+#EXTINF:-1,strangerthings
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=259|User-Agent=megaplayer
+#EXTINF:-1,Spiderman 80s
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=260|User-Agent=megaplayer
+#EXTINF:-1,Sounth Park
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=261|User-Agent=megaplayer
+#EXTINF:-1,Smallville
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=262|User-Agent=megaplayer
+#EXTINF:-1,Shera
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=263|User-Agent=megaplayer
+#EXTINF:-1,Señor de los cielos
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=264|User-Agent=megaplayer
+#EXTINF:-1,Sailormoon
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=265|User-Agent=megaplayer
+#EXTINF:-1,Pokemon
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=266|User-Agent=megaplayer
+#EXTINF:-1,Pinky y Cerebro
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=267|User-Agent=megaplayer
+#EXTINF:-1,Peliculas Terror
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=268|User-Agent=megaplayer
+#EXTINF:-1,Pablo Escobar
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=269|User-Agent=megaplayer
+#EXTINF:-1,Naruto
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=270|User-Agent=megaplayer
+#EXTINF:-1,Mazinger Z
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=271|User-Agent=megaplayer
+#EXTINF:-1,Malcolm el de enmedio
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=272|User-Agent=megaplayer
+#EXTINF:-1,Luis Miguel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=273|User-Agent=megaplayer
+#EXTINF:-1,Los Thundercats
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=275|User-Agent=megaplayer
+#EXTINF:-1,Los Simpsons
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=276|User-Agent=megaplayer
+#EXTINF:-1,La Rosa de Guadalupe
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=277|User-Agent=megaplayer
+#EXTINF:-1,Heman
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=278|User-Agent=megaplayer
+#EXTINF:-1,Game Of Throne
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=279|User-Agent=megaplayer
+#EXTINF:-1,Futurama
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=280|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball Z
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=281|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball Super
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=282|User-Agent=megaplayer
+#EXTINF:-1,Dragon Ball GT
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=283|User-Agent=megaplayer
+#EXTINF:-1,Dragon ball
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=284|User-Agent=megaplayer
+#EXTINF:-1,Dinosaurios
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=285|User-Agent=megaplayer
+#EXTINF:-1,Coraje el perro cobarde
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=286|User-Agent=megaplayer
+#EXTINF:-1,Años Maravillosos
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=287|User-Agent=megaplayer
+#EXTINF:-1,La casa de papel
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=288|User-Agent=megaplayer
+#EXTINF:-1,El chema
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=289|User-Agent=megaplayer
+#EXTINF:-1,El chavo
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=290|User-Agent=megaplayer
+#EXTINF:-1,caballerosdel zodiaco
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=291|User-Agent=megaplayer
+#EXTINF:-1,Breaking bad
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=292|User-Agent=megaplayer
+#EXTINF:-1,Bob Esponja 24/7
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=293|User-Agent=megaplayer
+#EXTINF:-1,BEIN LA LIGA
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=313|User-Agent=megaplayer
+#EXTINF:-1,LA LIGA TV
+http://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=314|User-Agent=megaplayer
