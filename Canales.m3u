@@ -24,7 +24,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1783&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2312&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/lmb/images/1/15/A_logo.png/revision/latest?cb=20170909222155&path-prefix=es", A+ 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Xn4QkhtzCRBcrYxvews9fMnVxwyGFGPqwr_EEqWUIUv2yfI3Cv8pieHm46aUaO9eVCZejZ3W9PlpnFe2D1G7d6puj3BvG1NphZhNPe_S", TELEFORMULA
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/WaaeKH1pEvtmm_7_fL7CxaJ8VcpffisXRDOPz6wTnozLCTXoHFzuFTQmMnQZ7mx6zOSbO6u8Eg9ilkcoMMrdxSj_vkteC2kakHmzgZvJ", TELEFORMULA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=32&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO INTERNACIONAL HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=85&p=3&k=srregio&f=.m3u8
@@ -32,7 +32,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=85&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1499&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=83&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png", DISTRITO COMEDIA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg", DISTRITO COMEDIA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=78&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Comedy_Central_2011_Logo.png/revision/latest?cb=20151004062805&path-prefix=es", COMEDY CENTRAL
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=340&p=3&k=srregio&f=.m3u8
