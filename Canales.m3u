@@ -72,7 +72,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=201&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=205&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://images.vectorhq.com/images/previews/8ea/universal-logo-psd-456169.png", UNIVERSAL HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=207&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cca90b4b-f550-4552-b64a-4b200b5b0634/dedpon1-c6f65e6e-9a28-4aff-a1a3-20351bc83c3b.png/v1/fill/w_1920,h_1080,strp/fx_logo_chrome_2008_2013_by_danielmedia20_dedpon1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2NjYTkwYjRiLWY1NTAtNDU1Mi1iNjRhLTRiMjAwYjViMDYzNFwvZGVkcG9uMS1jNmY2NWU2ZS05YTI4LTRhZmYtYTFhMy0yMDM1MWJjODNjM2IucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cfEyD9UgY7XDqZSh09NXAhN-Iv0CmI7nYScnJCDGOGw", FX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=209&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=48&p=3&k=srregio&f=.m3u8
@@ -115,19 +115,19 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=77&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png", TBS SD  
+#EXTINF:-1 tvg-logo="https://brandemia.org/contenido/subidas/2015/11/tbs-cabecera-960x474.jpg", TBS SD  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=81&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=131&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png", STUDIO UNIVERSAL
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=132&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png", CINECANAL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Cinecanal_2016.svg/revision/latest/scale-to-width-down/350?cb=20200325142424&path-prefix=es", CINECANAL
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=149&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=158&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=328&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Logo-Paramount-Pictures.png", PARAMOUNT CHANNEL 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Paramount_Plus_2017.svg/revision/latest?cb=20200918172032&path-prefix=es", PARAMOUNT CHANNEL 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1726&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png", AZ CINEMA 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
