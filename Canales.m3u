@@ -72,7 +72,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=201&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=205&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://images.vectorhq.com/images/previews/8ea/universal-logo-psd-456169.png", UNIVERSAL HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=207&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flaguia.tv%2Fcanales%2Ffx-movies&psig=AOvVaw2_6sQQmdbWKnj5I3SZzk90&ust=1632409754468000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDMxbDukvMCFQAAAAAdAAAAABAf", FX HD
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cca90b4b-f550-4552-b64a-4b200b5b0634/dedpon1-c6f65e6e-9a28-4aff-a1a3-20351bc83c3b.png/v1/fill/w_1920,h_1080,strp/fx_logo_chrome_2008_2013_by_danielmedia20_dedpon1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2NjYTkwYjRiLWY1NTAtNDU1Mi1iNjRhLTRiMjAwYjViMDYzNFwvZGVkcG9uMS1jNmY2NWU2ZS05YTI4LTRhZmYtYTFhMy0yMDM1MWJjODNjM2IucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cfEyD9UgY7XDqZSh09NXAhN-Iv0CmI7nYScnJCDGOGw", FX HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=209&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=48&p=3&k=srregio&f=.m3u8
@@ -85,33 +85,33 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=138&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/2560px-A%26E_Network_logo.svg.png", A&E
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=62&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=64&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA + 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=121&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png", GOLDEN +
+#EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/goldenpremier_estandar.jpg", GOLDEN +
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=122&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Canal_Golden_logo.svg/1200px-Canal_Golden_logo.svg.png", GOLDEN
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg", GOLDEN
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=123&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png", TNT 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=126&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=71&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=128&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Cv4SMb4DAN9v5gsO5cE4z95bsEkzWgsHVK6a2Ge-CFPrajo8IwiEEGwLcBAkfaxozNwezd7cGPI8FLNHNxTejW10MsRojD51", FOX MOVIES 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sESxFOo90Ps/maxresdefault.jpg", FOX MOVIES 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=146&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/9cQfwscrlNsiBlynNMkIVpbcQ8ldyrDiYdP019L3jk8KkIayORMdGqmuuYXUh0jvqTegfXZ98xJGNzBO5AeJ6dtWJ4WvjTZO", FOX SERIES
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/RzLsrCViTEcvCPVX5AoDl6y9abPMaeqbYuCUHU6IcnB_bR-s0Hcc_Oukm-pgHeu81HIt7qBKy8kNTqRBJUdt_ZxMCmuU1AGd", FOX SERIES
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=139&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/Xdg9lHhSshnbafKhpJGRMgv1I60mgzXCP19N2F4b0molpV3jQuAp8y6Z4Nk0meGu7YLl1mDSsWz3mO_JToO0Yuab0OnFKqJx", FOX ACTION
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/LPDrBAwh0qHY_RtjKrc3wssA9VFR_-rVJVwYBAzfyCl2ADvgpqAJOKfu4psRN5P8TBL8G2maTa9sdPXozeCD4WF4hBw_9jbj", FOX ACTION
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=336&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/T9yLcft5XIcpVSe-VCm75rDRNoVq57fftZ5n7Nl-rTssKpDEbBb3gVWmCPoBiQxvaM7_Ie_N02FwYl4YU9sbByJBf1xMiRJR", FOX CINEMA 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-QK8-QSqPHvE/XCXFWc0F34I/AAAAAAAAB6I/DB3kq-6TMCEYdQPv8Zk6sxB9KgBjFG-CwCLcBGAs/s320/logo_foxcinema.png", FOX CINEMA 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1729&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/SZhDxhfvdr9y35WvDqd6jTsajtvijQ512N7RdqPGAP5zVxqKvJxqIF226N1nwOaCokJzdNm0aBRPDINzg3JgHZT6-WNEWQ", FOX LIFE
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeDCJ-ORJWKYHKK7jyvBtKQSqFlgav7vYqQ&usqp=CAU", FOX LIFE
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=77&p=3&k=srregio&f=.m3u8   
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/2MM617u7bvhbYXUgS0JgbRNZLSPBPzaOCNT3xvhOAnnP6NpMSPtBGKPvReZpPgp_VkqBIxgRfs0FQ0UYzqsSBvjjv96gWXpZuhg", FOX CLASSICS 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/XevC4EC-wQsoZsn24jwbyikUVK3Q1PA1IpAPmXt7Apwv4ldke89GiC4gFnPTxcTvM4O0oXFJLgdXeVkY70sgPL59tY7qstqrVdo", FOX CLASSICS 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
