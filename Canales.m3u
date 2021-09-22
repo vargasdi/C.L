@@ -1,7 +1,8 @@
 #EXTM3U
 
 ** principales **
-
+#EXTINF:-1,Dragon ball
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/191_.m3u8?token=CPNGMRCOCG7385knSmuYQw&expires=1632281262&ip=177.231.26.201
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1942&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
