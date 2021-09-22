@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1942&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
