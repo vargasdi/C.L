@@ -85,9 +85,10 @@ https://vsd74.mycdn.me/hls/1509538335303.m3u8/sig/bihWl3otc0k/expires/1632500967
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
 https://vsd74.mycdn.me/hls/1626898238036.m3u8/sig/S120bAny0bw/expires/1632510985537/srcIp/177.231.26.201/urls/185.226.53.46/clientType/0/srcAg/CHROME_ANDROID/mid/2781415677524/1626898238036_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/3dgzjbpy.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg", HBO signature
-https://raw.githubusercontent.com/vargasdi/Canal/main/HBO.m3u
+https://vsd90.mycdn.me/hls/1509536762439.m3u8/sig/UomUACAuc28/expires/1632512012897/srcIp/177.231.26.201/urls/185.226.53.52/clientType/0/srcAg/CHROME_ANDROID/mid/4514052906567/1509536762439_high/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/hbo-xtreme/poster_resize_192X288.jpg", HBO XTREME
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
@@ -105,7 +106,9 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=126&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=71&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=128&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=128&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sESxFOo90Ps/maxresdefault.jpg", FOX FUN
+https://vsd90.mycdn.me/hls/1626918095444.m3u8/sig/KX36pMUWhvE/expires/1632512090692/srcIp/177.231.26.201/urls/45.136.21.84/clientType/0/srcAg/CHROME_ANDROID/mid/2781435010644/1626918095444_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sESxFOo90Ps/maxresdefault.jpg", FOX MOVIES 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=146&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/RzLsrCViTEcvCPVX5AoDl6y9abPMaeqbYuCUHU6IcnB_bR-s0Hcc_Oukm-pgHeu81HIt7qBKy8kNTqRBJUdt_ZxMCmuU1AGd", FOX SERIES
