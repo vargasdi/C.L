@@ -65,6 +65,9 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2373&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://image.api.playstation.com/vulcan/img/cfn/11307AuFZKrw6DorTNAC3WdWnAKpEx70fOdGFLJgROeERlzQLhhUi7N1ttK_O6tq-_Kp-D9FEbVIJ0btI5-gfeGPN9Ib8vhy.png", DRAGON BALL z
 https://vsd74.mycdn.me/hls/1543232817735.m3u8/sig/Kf8zBLOmWdA/expires/1632513975793/srcIp/177.231.26.201/urls/45.136.22.52/clientType/0/srcAg/CHROME_ANDROID/mid/4543550660167/1543232817735_high/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
+https://vsd90.mycdn.me/hls/1595334855239.m3u8/sig/jw10iVTIx7M/expires/1632514168770/srcIp/177.231.26.201/urls/45.136.21.86/clientType/0/srcAg/CHROME_ANDROID/mid/4590363418183/1595334855239_high/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png", FOX HD 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=201&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/470px-Warner_Bros._%282019%29_logo.svg.png", WARNER HD 
