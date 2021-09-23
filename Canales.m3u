@@ -86,6 +86,8 @@ https://vsd74.mycdn.me/hls/1509538335303.m3u8/sig/bihWl3otc0k/expires/1632500967
 https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/mfobze65eqg.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
 https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/3dgzjbpy.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO signatura
+https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/g05mnm.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
