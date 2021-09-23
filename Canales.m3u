@@ -83,7 +83,9 @@ https://vsd90.mycdn.me/hls/1509539842631.m3u8/sig/DSPcJK9Excs/expires/1632499016
 #EXTINF:-1 tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png", HBO 2
 https://vsd74.mycdn.me/hls/1509538335303.m3u8/sig/bihWl3otc0k/expires/1632500967521/srcIp/177.231.26.201/urls/45.136.21.56/clientType/0/srcAg/CHROME_ANDROID/mid/4514055593543/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/mfobze65eqg.m3u8?s=rYXOvdT1uUThYqzzSvfsEw&e=1632442883
+https://vsd63.mycdn.me/hls/1626898238036.m3u8/sig/fpZZYHlzznA/expires/1632508384378/srcIp/177.231.26.201/urls/185.226.53.46/clientType/0/srcAg/SAFARI_IPAD_IOS7/mid/2781415677524/1626898238036_medium/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
+https://vsd90.mycdn.me/hls/1509536762439.m3u8/sig/YsuP7JUMdEw/expires/1632508585794/srcIp/177.231.26.201/urls/185.226.53.52/clientType/0/srcAg/SAFARI_IPAD_IOS7/mid/4514052906567/1509536762439_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
