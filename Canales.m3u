@@ -41,7 +41,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=340&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=111&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=112&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/22/CN2_Logo-0.png/revision/latest?cb=20160213024101", CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/22/CN2_Logo-0.png/revision/latest?cb=20160213024101", CARTOON NETWORK 2
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=113&p=3&k=srregio&f=.m3u8
