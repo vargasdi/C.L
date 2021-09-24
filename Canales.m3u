@@ -71,7 +71,7 @@ https://vsd74.mycdn.me/hls/1543232817735.m3u8/sig/Kf8zBLOmWdA/expires/1632513975
 https://vsd90.mycdn.me/hls/1595334855239.m3u8/sig/jw10iVTIx7M/expires/1632514168770/srcIp/177.231.26.201/urls/45.136.21.86/clientType/0/srcAg/CHROME_ANDROID/mid/4590363418183/1595334855239_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png", FOX HD 
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=201&p=3&k=srregio&f=.m3u8
+https://raw.githubusercontent.com/vargasdi/C.L/main/fox.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/470px-Warner_Bros._%282019%29_logo.svg.png", WARNER HD 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=205&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://images.vectorhq.com/images/previews/8ea/universal-logo-psd-456169.png", UNIVERSAL HD
