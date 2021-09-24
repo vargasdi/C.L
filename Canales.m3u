@@ -11,7 +11,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=70&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=322&p=3&k=srregio&f=.m3u8
+https://vsd90.mycdn.me/hls/1477124753926.m3u8/sig/37TZQR0CDmw/expires/1632592161394/srcIp/177.231.26.201/urls/185.226.52.63/clientType/0/srcAg/CHROME_ANDROID/mid/3033598205446/1477124753926_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1784&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5 HD
