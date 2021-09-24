@@ -7,11 +7,11 @@ https://mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO HD
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=7&p=3&k=srregio&f=.m3u8
+https://mdstrm.com/live-stream-gdai/609b243156cca108312822a6/linear/hls/pa/event/_Y0luNhIRZuzMuUkEbL7_w/stream/2c0f0bce-ae2f-430a-890b-dc26af57fc89:TUL/master.m3u8?uid=vO7hgnO9Vz33EWyIjwQUmlGHNWb7jGZy&sid=cgsWQJMHpX88pDJra7k3XfQwaJwv3XSg&pid=56KTt7yaIyVckvAWRWT4grgoUZ1Vwb3X&an=screen&at=web-app&av=v5.2.181&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=408x230&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=70&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD
-https://vsd90.mycdn.me/hls/1477124753926.m3u8/sig/37TZQR0CDmw/expires/1632592161394/srcIp/177.231.26.201/urls/185.226.52.63/clientType/0/srcAg/CHROME_ANDROID/mid/3033598205446/1477124753926_low/index.m3u8
+https://mdstrm.com/live-stream-gdai/609ad46a7a441137107d7a81/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/9a913e8d-95c9-4ea3-9510-fe52ce2df464:TUL/master.m3u8?uid=vO7hgnO9Vz33EWyIjwQUmlGHNWb7jGZy&sid=cgsWQJMHpX88pDJra7k3XfQwaJwv3XSg&pid=t05zeNHztxvcmZP0Xf1ckeOfM45cYDiM&an=screen&at=web-app&av=v5.2.181&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=408x230&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
 https://raw.githubusercontent.com/vargasdi/C.L/main/tv.m3u
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5 HD
