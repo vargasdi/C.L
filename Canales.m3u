@@ -1,21 +1,25 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1942&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
 https://live2.canaloncelive.tv/livepkgr3/cepro/chunklist_w1805307119.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=184&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
 https://mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/ab808d8b-015d-464d-a020-0f6b945739f4:TUL/master.m3u8?uid=vO7hgnO9Vz33EWyIjwQUmlGHNWb7jGZy&sid=cgsWQJMHpX88pDJra7k3XfQwaJwv3XSg&pid=l8Ya3LxI3mMF9mHhzYVOxJWWM7aZC8Kn&an=screen&at=web-app&av=v5.2.181&ref=https%3A%2F%2Flive.adn40.mx%2F&res=432x243&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO HD
-https://mdstrm.com/live-stream-gdai/609b243156cca108312822a6/linear/hls/pa/event/_Y0luNhIRZuzMuUkEbL7_w/stream/2c0f0bce-ae2f-430a-890b-dc26af57fc89:TUL/master.m3u8?uid=vO7hgnO9Vz33EWyIjwQUmlGHNWb7jGZy&sid=cgsWQJMHpX88pDJra7k3XfQwaJwv3XSg&pid=56KTt7yaIyVckvAWRWT4grgoUZ1Vwb3X&an=screen&at=web-app&av=v5.2.181&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=408x230&without_cookies=false&dnt=true
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
-https://vsd74.mycdn.me/hls/1315112880646.m3u8/sig/lBrLMcW_mxM/expires/1632595199103/srcIp/177.231.26.201/urls/45.136.21.58/clientType/0/srcAg/CHROME_ANDROID/mid/2894729256454/video.m3u8?p
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=70&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD
-https://mdstrm.com/live-stream-gdai/609ad46a7a441137107d7a81/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/9a913e8d-95c9-4ea3-9510-fe52ce2df464:TUL/master.m3u8?uid=vO7hgnO9Vz33EWyIjwQUmlGHNWb7jGZy&sid=cgsWQJMHpX88pDJra7k3XfQwaJwv3XSg&pid=t05zeNHztxvcmZP0Xf1ckeOfM45cYDiM&an=screen&at=web-app&av=v5.2.181&ref=https%3A%2F%2Fwww.tvazteca.com%2F&res=408x230&without_cookies=false&dnt=true
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=322&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtMEcsCendJPnUlhcC03W876hiOFj61Do1NPeG6_JhJMOydpWK3KH12wtvHFWXVRRm54gJHuchBr4aY31LEekY7QRZzsFIlYJkVL3ByaqB2J27Ofx9kWuqsmxVSFnbc9wsZyamO1f6JVDGJBBe-yWMDUGLC2xrG5S3R8ld6IDjnA3Wa1f1rc4A0jKcMn-XrwNubfZijgTqdBrSyvOpFxFO19fbsJotCtSNXDK7j1wL66u24sJuin-nZ8XHoc08-vk1KNYrQKGf_AFkw3YD-QgvWXy0pp5m4quK5h68r3HRT82Q9ufoaXEDLx2ya2AOdXWStgnr4XIY4Td3yRyi-Mf_LLwmBQfsg5Gu8G3aSXDufLOXue3y4nBlxBwq3EB1qFXAMmwISbj0EBYuXxC1xrXgjbacO9qJ1szBayOoc6dfZeYBic87zEvbVe3tB3WwhYPin3MqjxXaY7PSjQmpxPCMVZRXVmJ4HFYTyRGuXfRlkKgMI9zzNjKFvM1UpHgbcIvDoCxp2s_FdJZdzkI6y1cIvefE1gjBCM1WuzsvOX_uoc9AFnBsqSE37kNs9hAM2HzPeEVWrS5A9QrAZy7XMr_mZh03Q2QFaRef-S3LXwqDC6l67SKc7A18ELxiSnSW0no8c0qrYrf5Jel22uEHY2R_Sebs2DCweLwtPVlFGL7_sjSqeRa4e1b5nCBn0duZbqH0Ub24NcxDxugqXY2qYVSJwshbevNpM19fTC5g5yMuyYhFp_LY8k40D_xmzd55syGTFBs81F60CnpcpaE_YuE9-DsgiYZBIQKgDOuIzpt7M7RTdYZ-z1khoMowoIm-R2f7_18V7Q.m3u8
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1784&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5 HD
-https://vsd63.mycdn.me/hls/1477128751622.m3u8/sig/hkg2Lx4s0N0/expires/1632591552564/srcIp/177.231.26.201/urls/45.136.21.81/clientType/0/srcAg/CHROME_ANDROID/mid/3033602792966/video.m3u8?p
+https://vsd63.mycdn.me/hls/1477128751622.m3u8/sig/hkg2Lx4s0N0/expires/1632591552564/srcIp/177.231.26.201/urls/45.136.21.81/clientType/0/srcAg/CHROME_ANDROID/mid/3033602792966/1477128751622_high/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1JegKzPM66w/Xu6fHV_srpI/AAAAAAAAJ7o/XvFb74Lryj8u1TYUdv9kK2Ryx0j1TgL5gCLcBGAsYHQ/s1600/el-nueve.png", NU9VE HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1783&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png", TELEVISA PUEBLA
@@ -25,11 +29,13 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png", TELEFORMULA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=32&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO INTERNACIONAL HD
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=85&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO INTERNACIONAL HD
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtYEeEpqskcdhquC-fQPCJ3OLisqBjsB1n0KSLkZA8eXOtXhKOhJenHhwFY93j_SvXYMYYfIOICVQlWroJJo3J4O7oHF8vwnx-BRBeeLZj9pGEKluPnup-o5-elmuukDQB3YrwvYrTmhXIRgPrDygf-DFxjth08YJLpwssSI2diunUIZnzOL6GKVQhA6fyH5QtK5sVT2zHYlVXvQB4NQL5u6-Q3i_1rqsa8qIlxptAjB4bvq-iRqs5VOgZJXB34KDsMofQd8NrYB-G9DBMyJxk4y_UlqEWZvGTwALARobgPK5BItaFguZau7Z5rmY3eN2jHGItEgeqvHf-anK1O3Wu-6M7CY3_B43y9oqtL0eiLKrotCdp9l1bZFUfJ3TnUHrxOy1B78okaZVDiqyaz9htt3Pgz7HdRJIpu2r7RkaFcc_bFP3C7ZSoNH2fsZIPd1k0jWlsDUBEgPZtaqUAuVF2MZPq-bQyaCfV3iduGgzLZJHmzaiGGYUy30OvaplYfNM7Na1OEA3W2lDg2vbErQv9U06lgMvCJ9_jarsEHg9-ceIruNl7X_YYn7_iMT2ps4Im3SLEYveqZT2NxehuqvimsXaSMgarDpUyaUNs534Sz3oG5S67NdHSB9bbcXJnvvwRZBZcPtpbnT6cre7PP39QErgHG93GS8yKkZ7KOJpb5_GPCvo9JrO4krHKvwXLJbYOdRccW5MCZCvWta2DTk2fwM6Tm9Q9HJvflqa4ce9LRr8Nl4z4N_gjYBiDJb35quA_WSATR6pXaRjg6Gkuq-Z6yusXZZKgSgDhIQd2IgSKUoawumaS20Pl2yRxoMSiO-ZkOoonoTlHBn.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p4QIQIF7hJB7BCmnMtfRBtoBPyYtg0iTdedRbsRkIjMkRRc5_mw-1PS5iHKT3YujwD0-=s85", UNICABLE
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/8569n.m3u8?s=omWeH-jnxO2QV2ttu7EJaA&e=1632530662
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1499&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtQEfwKySBGaERUXFKuYys0k5FqBJMnQ_QpABrNqoViFkXSvWlHv3DfdOGyUwejeDU4dVBquLcQ5CFHd18fVrjVbqFX6xiZ2CUZr18G0o_hpbU9q3PK9FXD_JPixzP8XxI5wjGgzjqxopoVrEgXx-vPF4V-a5dxOzB9vzCg-MjLwMH1TkEYpVN6nYIXMcOgwB4H68O4m876o3bK9E3MkV_80c483xCoFHhEehBNzl-Bv7XjWoBLIYWcvRmfR7bqODtgnp5gcIFt9DeqeQfzdtsUxQAJVMFQ-CZA__oQN4ah_BaNq9arlPKFG-S9RNwGW0Rj6iyZD_LwqQNYQ4TnQ9_qc5rW528r5Kx2OLR5COstHOV-Uu6wH4TPLFad3eBOMEY35L0k1TruRz0HA9Avghh5ac5dYaNtFbEJ7c9yLy_RLZIPAeSk8Ag0t3teu3YxDgOJqnURENkUtF3DuyunQ0uLCo9W5qFCAFQUOR_rJ5FBTnBoF_PrqnEad2K9XDTi87zTZRU0ERyZR7jUOqyG2bDcwkM98e0CyZ-jxGMLQ9PZsoiTNrI093fT0pzJCuXdlmmjkX19lVqCyVeM0j_a-rGtrS082BWy6eB6J381TVo6Shd70d5OcJe84ccRTMn0QSoF5zu3HegagCJw-7QgbaUsrJDJfMWJTcFNCCi4GYo6WQ75m1tHt9B6Sk6zx0_ceKfbuqq9EJHRFEgeZwOIlvAj9lF6_vFNGlCfUJpW63ttxq_Q0iF7EUE5G4XEgXXHp87DpJOVE367Z-tSRNXpEcilCPpPGSNsSECukUg-zhXmqFN-vnLjcvRYaDLQokoRTRbh1eYybVw.m3u8
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=83&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/97ffb33/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F71%2Fb5%2Fb93e57c9437a97e58145775a548b%2Fgenerico-placeholder-distrito-comedia.png", DISTRITO COMEDIA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=78&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
@@ -71,7 +77,7 @@ https://vsd74.mycdn.me/hls/1543232817735.m3u8/sig/Kf8zBLOmWdA/expires/1632513975
 https://vsd90.mycdn.me/hls/1595334855239.m3u8/sig/jw10iVTIx7M/expires/1632514168770/srcIp/177.231.26.201/urls/45.136.21.86/clientType/0/srcAg/CHROME_ANDROID/mid/4590363418183/1595334855239_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png", FOX HD 
-https://raw.githubusercontent.com/vargasdi/C.L/main/fox.m3u
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=201&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/470px-Warner_Bros._%282019%29_logo.svg.png", WARNER HD 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=205&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://images.vectorhq.com/images/previews/8ea/universal-logo-psd-456169.png", UNIVERSAL HD
