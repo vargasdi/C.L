@@ -1,11 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1942&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
 https://live2.canaloncelive.tv/livepkgr3/cepro/chunklist_w1805307119.m3u8
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=184&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
 https://mdstrm.com/live-stream-gdai/60b578b060947317de7b57ac/linear/hls/pa/event/ajJQI39aQd69Omr0hRZw9Q/stream/ab808d8b-015d-464d-a020-0f6b945739f4:TUL/master.m3u8?uid=vO7hgnO9Vz33EWyIjwQUmlGHNWb7jGZy&sid=cgsWQJMHpX88pDJra7k3XfQwaJwv3XSg&pid=l8Ya3LxI3mMF9mHhzYVOxJWWM7aZC8Kn&an=screen&at=web-app&av=v5.2.181&ref=https%3A%2F%2Flive.adn40.mx%2F&res=432x243&without_cookies=false&dnt=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
@@ -28,9 +24,9 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2312&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png", TELEFORMULA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=32&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO INTERNACIONAL HD
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg, TELEMUNDO INTERNACIONAL HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=85&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO INTERNACIONAL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtYEeEpqskcdhquC-fQPCJ3OLisqBjsB1n0KSLkZA8eXOtXhKOhJenHhwFY93j_SvXYMYYfIOICVQlWroJJo3J4O7oHF8vwnx-BRBeeLZj9pGEKluPnup-o5-elmuukDQB3YrwvYrTmhXIRgPrDygf-DFxjth08YJLpwssSI2diunUIZnzOL6GKVQhA6fyH5QtK5sVT2zHYlVXvQB4NQL5u6-Q3i_1rqsa8qIlxptAjB4bvq-iRqs5VOgZJXB34KDsMofQd8NrYB-G9DBMyJxk4y_UlqEWZvGTwALARobgPK5BItaFguZau7Z5rmY3eN2jHGItEgeqvHf-anK1O3Wu-6M7CY3_B43y9oqtL0eiLKrotCdp9l1bZFUfJ3TnUHrxOy1B78okaZVDiqyaz9htt3Pgz7HdRJIpu2r7RkaFcc_bFP3C7ZSoNH2fsZIPd1k0jWlsDUBEgPZtaqUAuVF2MZPq-bQyaCfV3iduGgzLZJHmzaiGGYUy30OvaplYfNM7Na1OEA3W2lDg2vbErQv9U06lgMvCJ9_jarsEHg9-ceIruNl7X_YYn7_iMT2ps4Im3SLEYveqZT2NxehuqvimsXaSMgarDpUyaUNs534Sz3oG5S67NdHSB9bbcXJnvvwRZBZcPtpbnT6cre7PP39QErgHG93GS8yKkZ7KOJpb5_GPCvo9JrO4krHKvwXLJbYOdRccW5MCZCvWta2DTk2fwM6Tm9Q9HJvflqa4ce9LRr8Nl4z4N_gjYBiDJb35quA_WSATR6pXaRjg6Gkuq-Z6yusXZZKgSgDhIQd2IgSKUoawumaS20Pl2yRxoMSiO-ZkOoonoTlHBn.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p4QIQIF7hJB7BCmnMtfRBtoBPyYtg0iTdedRbsRkIjMkRRc5_mw-1PS5iHKT3YujwD0-=s85", UNICABLE
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1499&p=3&k=srregio&f=.m3u8 
