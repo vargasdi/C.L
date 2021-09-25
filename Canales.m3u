@@ -1,21 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Principales" tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
-https://live2.canaloncelive.tv/livepkgr3/cepro/chunklist_w1805307119.m3u8
-#EXTINF:-1 group-title="Principales" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
-https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=7&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Principales" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=70&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=322&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1784&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5 HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1785&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
+https://live2.canaloncelive.tv/livepkgr3/cepro/chunklist_w1805307119.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
+https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 group-title="Principales" tvg-logo="https://1.bp.blogspot.com/-1JegKzPM66w/Xu6fHV_srpI/AAAAAAAAJ7o/XvFb74Lryj8u1TYUdv9kK2Ryx0j1TgL5gCLcBGAsYHQ/s1600/el-nueve.png", NU9VE HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1783&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png", TELEVISA PUEBLA
@@ -24,18 +24,23 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2312&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2316&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png", TELEFORMULA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=32&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Principales" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg", TELEMUNDO INTERNACIONAL HD
+
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=70&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg", TELEMUNDO INTERNACIONAL HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=85&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CtYEeEpqskcdhquC-fQPCJ3OLisqBjsB1n0KSLkZA8eXOtXhKOhJenHhwFY93j_SvXYMYYfIOICVQlWroJJo3J4O7oHF8vwnx-BRBeeLZj9pGEKluPnup-o5-elmuukDQB3YrwvYrTmhXIRgPrDygf-DFxjth08YJLpwssSI2diunUIZnzOL6GKVQhA6fyH5QtK5sVT2zHYlVXvQB4NQL5u6-Q3i_1rqsa8qIlxptAjB4bvq-iRqs5VOgZJXB34KDsMofQd8NrYB-G9DBMyJxk4y_UlqEWZvGTwALARobgPK5BItaFguZau7Z5rmY3eN2jHGItEgeqvHf-anK1O3Wu-6M7CY3_B43y9oqtL0eiLKrotCdp9l1bZFUfJ3TnUHrxOy1B78okaZVDiqyaz9htt3Pgz7HdRJIpu2r7RkaFcc_bFP3C7ZSoNH2fsZIPd1k0jWlsDUBEgPZtaqUAuVF2MZPq-bQyaCfV3iduGgzLZJHmzaiGGYUy30OvaplYfNM7Na1OEA3W2lDg2vbErQv9U06lgMvCJ9_jarsEHg9-ceIruNl7X_YYn7_iMT2ps4Im3SLEYveqZT2NxehuqvimsXaSMgarDpUyaUNs534Sz3oG5S67NdHSB9bbcXJnvvwRZBZcPtpbnT6cre7PP39QErgHG93GS8yKkZ7KOJpb5_GPCvo9JrO4krHKvwXLJbYOdRccW5MCZCvWta2DTk2fwM6Tm9Q9HJvflqa4ce9LRr8Nl4z4N_gjYBiDJb35quA_WSATR6pXaRjg6Gkuq-Z6yusXZZKgSgDhIQd2IgSKUoawumaS20Pl2yRxoMSiO-ZkOoonoTlHBn.m3u8
-#EXTINF:-1 group-title="Principales" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/9303414/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F1b%2Fb6%2F7effa3414704b1eb556f02c364e6%2Funicable.jpg", UNICABLE
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/9303414/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F1b%2Fb6%2F7effa3414704b1eb556f02c364e6%2Funicable.jpg", UNICABLE
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1499&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=83&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Principales" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/97ffb33/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F71%2Fb5%2Fb93e57c9437a97e58145775a548b%2Fgenerico-placeholder-distrito-comedia.png", DISTRITO COMEDIA
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/97ffb33/2147483647/strip/true/crop/1280x720+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F71%2Fb5%2Fb93e57c9437a97e58145775a548b%2Fgenerico-placeholder-distrito-comedia.png", DISTRITO COMEDIA
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=78&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Principales" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=340&p=3&k=srregio&f=.m3u8
+
+
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=111&p=3&k=srregio&f=.m3u8 
