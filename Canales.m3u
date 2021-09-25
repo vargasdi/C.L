@@ -385,4 +385,6 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1252&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://image.api.playstation.com/vulcan/img/cfn/11307AuFZKrw6DorTNAC3WdWnAKpEx70fOdGFLJgROeERlzQLhhUi7N1ttK_O6tq-_Kp-D9FEbVIJ0btI5-gfeGPN9Ib8vhy.png", DRAGON BALL z
 https://vsd74.mycdn.me/hls/1543232817735.m3u8/sig/Kf8zBLOmWdA/expires/1632513975793/srcIp/177.231.26.201/urls/45.136.22.52/clientType/0/srcAg/CHROME_ANDROID/mid/4543550660167/1543232817735_high/index.m3u8
 #EXTINF:-1 group-title="anime 24/7 tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
-https://raw.githubusercontent.com/vargasdi/Canales/main/Simpson.m3u
+https://vsd63.mycdn.me/hls/1595334855239.m3u8/sig/MP-yP3zYGms/expires/1632674052482/srcIp/177.231.26.201/urls/45.136.21.86/clientType/0/srcAg/CHROME_ANDROID/mid/4590363418183/1595334855239_high/index.m3u8
+#EXTINF:-1 group-title="anime 24/7 tvg-logo="https://images.canal1.com.co/wp-content/uploads/2020/10/17113202/Dragon-Ball-GT-Canl1-1905w.jpg", DRAGON BALL GT
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/191_.m3u8?token=jukdscVIf4JL0h1uV4xJTA&expires=1632595492&ip=177.231.26.201
