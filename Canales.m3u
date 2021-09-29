@@ -35,7 +35,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=70&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg", TELEMUNDO INTERNACIONAL HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=85&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO
-https://raw.githubusercontent.com/vargasdi/C.L/main/TELEMUNDO.m3u
+https://pastebin.com/raw/N1bfzHKr
 #EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/9303414/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F1b%2Fb6%2F7effa3414704b1eb556f02c364e6%2Funicable.jpg", UNICABLE
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1499&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
