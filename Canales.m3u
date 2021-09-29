@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1  group-title="TV2",HBO 2 
+http://regioplay.xyz/php/SR_REGIO_130921_/tv2.php?cat=latinos&ch=hbo2&k=SrRegio&f=.m3u8
+
+
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD
