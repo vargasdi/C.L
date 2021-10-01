@@ -48,7 +48,7 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3696.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=111&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 https://blackghost.live/play/totalp1-990.php?c=111&p=3&k=black&f=.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=112&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="http://2.bp.blogspot.com/-8Bru2Dsmj_0/TjUakqfuA_I/AAAAAAAACa0/uQkLY8-3t-E/s1600/Cartoon_Network_HD_Wallpaper_.jpg", CARTOON NETWORK HD
 https://hostcloud.network/live/delpiero1537/Rpo78218/3698.m3u8
