@@ -130,6 +130,8 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=146&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=139&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://lh3.googleusercontent.com/proxy/LPDrBAwh0qHY_RtjKrc3wssA9VFR_-rVJVwYBAzfyCl2ADvgpqAJOKfu4psRN5P8TBL8G2maTa9sdPXozeCD4WF4hBw_9jbj", FOX ACTION
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=336&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://lh3.googleusercontent.com/proxy/LPDrBAwh0qHY_RtjKrc3wssA9VFR_-rVJVwYBAzfyCl2ADvgpqAJOKfu4psRN5P8TBL8G2maTa9sdPXozeCD4WF4hBw_9jbj", FOX ACTION HD
+http-user-agent=http://158.69.62.208:8081/live/FOXACTION/chunks.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://3.bp.blogspot.com/-QK8-QSqPHvE/XCXFWc0F34I/AAAAAAAAB6I/DB3kq-6TMCEYdQPv8Zk6sxB9KgBjFG-CwCLcBGAs/s320/logo_foxcinema.png", FOX CINEMA 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1729&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAeDCJ-ORJWKYHKK7jyvBtKQSqFlgav7vYqQ&usqp=CAU", FOX LIFE
