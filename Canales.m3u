@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1  group-title="TV2",HBO 2 
-https://raw.githubusercontent.com/vargasdi/C.L/main/HBO.m3u
-
-
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD
@@ -183,7 +179,7 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="musica" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="musica" tvg-logo="https://www.coolstreaming.us/img/ch/image17015105905.jpg", ibiza global tv
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+https://nodo07-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
 
 *** DEPORTES ***
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png", ESPN + 
