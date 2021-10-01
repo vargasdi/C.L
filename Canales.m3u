@@ -176,12 +176,13 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=221&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=334&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="musica" tvg-logo="https://i.imgur.com/897e9wy.png", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png", Top latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
 #EXTINF:-1 group-title="musica" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="musica" tvg-logo="https://www.coolstreaming.us/img/ch/image17015105905.jpg", ibiza global tv
 https://nodo07-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
-#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png", Top latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+
 *** DEPORTES ***
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png", ESPN + 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=167&p=3&k=srregio&f=.m3u8 
@@ -399,5 +400,9 @@ https://vsd63.mycdn.me/hls/1543232817735.m3u8/sig/TkihH5vtPVo/expires/1632674934
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cu4E5MDtGA0bjaJWb3YkIXHGpi_bB4bRy9UDefpvnTtf-NeYN44aU01NbqBnFtFBu5JuLvZsh3RBDreL37V9aRrpDYFzcyxHmwOk713Ckz8BW6HWNYbSw_zC8hwyn4kYd7bMeAnreKyXMoxfO28L8I0BWYHpEA5hRZi9-w0L_YTiOnbrRdp4JBq-nkNAkfjBlvHa4yNRmvkk4ZWVqtXnB1vGnTQBfI8QWaBzZKnqTKrt8UWqf1_bB4V4e_H1gyVIT_gLDrOX87jGiFCXKCNbb8CdjlTXJKD_UiMMPjFIulhFi_sjYm-Il0bq9Md-8VGPnTFrA-MMc8eMD97p9-rMkeypPJMo5fmc9r9qhwHwNmCHTkHouzGphCmRgMyR0XzoecWp2hb92tk8PaKnW44a6GIy9bGyEhEeFKNi1XOG-rsnUlGK5lkYnmOfyNvrmuCl6_S0VKJYccKEn2YJnak6cByTzHSJ-RR5OUhWKy7RRP4bjujP2lwngtBU-bS8fUqFhSnDyt0mZdxHHaWhdD7yzfOFmBcpi8-rmwz-BXY5t1ZNSWntzzY-osBSjoBBo1_gflK3RyEhLx0ieqD3NEBedJsSRV8oxePI_A1EU0_i0lHS18WWwQInMscLDV-GT7fVP3c-HzKhuwtw-gG8i-SOKG6enlATic0nFIEfKlkXLq0HAWo9trlZm5svE98T9ef5SEE1_ww6nOXtc_fU3S86TWTWZZJFUkSagccOYk0XZyMoksxNxs896IInR9KqHcfD-ZLfEUfIIWR2iRVlvepZOsqtlHZ6tNlP-a9hCFtVsFw6xDan9vCrnkXxNTNbsYIRTBIQukSckUt1Z9scTEOVF8gkRxoM2pN4TkolJjd86JI9.m3u8
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://images.canal1.com.co/wp-content/uploads/2020/10/17113202/Dragon-Ball-GT-Canl1-1905w.jpg", DRAGON BALL GT
 https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/191_.m3u8?token=jukdscVIf4JL0h1uV4xJTA&expires=1632595492&ip=177.231.26.201
-#EXTINF:-1 group-title="anime 24/7" , Futurama
-https://regioplay.xyz/php/SR_REGIO_130921_/regiotv2.php?c=280
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/ef67e3/futurama/840_560.jpeg" , Futurama
+https://sv0.data-stream.top/8f013bbc773b68c5f5c522824f898f92dbd0a340272222975ce72a8568932825/hls/xfuturama.m3u8
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://img.unocero.com/2021/07/south-park.jpeg" , south park
+https://sv4.data-stream.top/8f013bbc773b68c5f5c522824f898f92dbd0a340272222975ce72a8568932825/hls/southpark-fr.m3u8
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71PTY5oF-2L.jpg" , Famili guy
+https://sv7.data-stream.top/8f013bbc773b68c5f5c522824f898f92dbd0a340272222975ce72a8568932825/hls/familyguy.m3u8
