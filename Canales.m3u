@@ -60,6 +60,10 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=118&p=3&k=srregio&f=.m3u8
 https://hostcloud.network/live/delpiero1537/Rpo78218/35994.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK
+https://cablelatino.xyz/hls/BESO/TEENNICK.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK
+https://blackghost.live/play/totalp1-990.php?c=2147&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=117&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/2560px-Nicktoons_Network_logo_2009.svg.png", NICKTOONS 
