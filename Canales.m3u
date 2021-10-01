@@ -437,15 +437,35 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1250&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1252&p=3&k=srregio&f=.m3u8  
 
 
-#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://image.api.playstation.com/vulcan/img/cfn/11307AuFZKrw6DorTNAC3WdWnAKpEx70fOdGFLJgROeERlzQLhhUi7N1ttK_O6tq-_Kp-D9FEbVIJ0btI5-gfeGPN9Ib8vhy.png", DRAGON BALL z
-https://vsd63.mycdn.me/hls/1543232817735.m3u8/sig/TkihH5vtPVo/expires/1632674934856/srcIp/177.231.26.201/urls/45.136.22.52/clientType/0/srcAg/CHROME_ANDROID/mid/4543550660167/1543232817735_high/index.m3u8
+
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cu4E5MDtGA0bjaJWb3YkIXHGpi_bB4bRy9UDefpvnTtf-NeYN44aU01NbqBnFtFBu5JuLvZsh3RBDreL37V9aRrpDYFzcyxHmwOk713Ckz8BW6HWNYbSw_zC8hwyn4kYd7bMeAnreKyXMoxfO28L8I0BWYHpEA5hRZi9-w0L_YTiOnbrRdp4JBq-nkNAkfjBlvHa4yNRmvkk4ZWVqtXnB1vGnTQBfI8QWaBzZKnqTKrt8UWqf1_bB4V4e_H1gyVIT_gLDrOX87jGiFCXKCNbb8CdjlTXJKD_UiMMPjFIulhFi_sjYm-Il0bq9Md-8VGPnTFrA-MMc8eMD97p9-rMkeypPJMo5fmc9r9qhwHwNmCHTkHouzGphCmRgMyR0XzoecWp2hb92tk8PaKnW44a6GIy9bGyEhEeFKNi1XOG-rsnUlGK5lkYnmOfyNvrmuCl6_S0VKJYccKEn2YJnak6cByTzHSJ-RR5OUhWKy7RRP4bjujP2lwngtBU-bS8fUqFhSnDyt0mZdxHHaWhdD7yzfOFmBcpi8-rmwz-BXY5t1ZNSWntzzY-osBSjoBBo1_gflK3RyEhLx0ieqD3NEBedJsSRV8oxePI_A1EU0_i0lHS18WWwQInMscLDV-GT7fVP3c-HzKhuwtw-gG8i-SOKG6enlATic0nFIEfKlkXLq0HAWo9trlZm5svE98T9ef5SEE1_ww6nOXtc_fU3S86TWTWZZJFUkSagccOYk0XZyMoksxNxs896IInR9KqHcfD-ZLfEUfIIWR2iRVlvepZOsqtlHZ6tNlP-a9hCFtVsFw6xDan9vCrnkXxNTNbsYIRTBIQukSckUt1Z9scTEOVF8gkRxoM2pN4TkolJjd86JI9.m3u8
-#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://images.canal1.com.co/wp-content/uploads/2020/10/17113202/Dragon-Ball-GT-Canl1-1905w.jpg", DRAGON BALL GT
-https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/191_.m3u8?token=jukdscVIf4JL0h1uV4xJTA&expires=1632595492&ip=177.231.26.201
-#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/ef67e3/futurama/840_560.jpeg" , Futurama
-https://raw.githubusercontent.com/vargasdi/Canal/main/a.m3u
-#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/03/28113340/logo-playboy-1920.jpg" ,play boy
-https://zdxetcjzkybpxicr.wzcdn804.net:8443/hls/0jnlo35uk82y.m3u8?s=GGKNVdrmLBs0O0yySv1aNg&e=1633133236
+
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71PTY5oF-2L.jpg" , Famili guy
 https://raw.githubusercontent.com/vargasdi/Canal/main/aa.m3u
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://i.ytimg.com/vi/5KkctNDWme4/maxresdefault.jpg" ,INTRUSION
+http://tvplaymundo.com:80/movie/GOMEZ/GOMEZ/24048.mkv
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/original/yBO2gTuJ4gk4l5MhWusfuoUgbdS.jpg" ,COSMIC SIN 2021
+http://tvplaymundo.com:80/movie/GOMEZ/GOMEZ/24033.mkv
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABX1Xi1rVm3kJrbdE2bsQqIb0WMejGzY2dPYxyUICO_TymrJNH-Q7RPwjl_Ux5-rF18cCgZtCqUghNsG9Te8NBMxT7uDe.jpg" ,BAC NORD: BRIGADA DE INVESTIGACION CRIMINAL
+https://download1655.mediafire.com/y6d4451nftxg/bj9a9x58sigc37r/Brigada+de+Investigaci%C3%B3n+Criminal+.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="http://pic8.iqiyipic.com/image/20210515/58/e4/v_158350159_m_601_en_m2_1013_638.jpg" ,Ci sha xiao shuo jia (A Writer’s Odyssey) 2021
+http://tvplaymundo.com:80/movie/GOMEZ/GOMEZ/24029.mkv
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/candyman/images/regions/us/200x2003.png" ,CANDYMAN 2021
+https://download1082.mediafire.com/x6zin686ftjg/2871hbpqdxyym2z/animed-C4nd134n-c4l1d4d.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://64.media.tumblr.com/6cc9d8dafa2db712998e2551be1f2cab/e666d8d11978a654-63/s1280x1920/024ed26e0e544a69b757e4176c557cc74d488d62.jpg" ,OLD 2021
+https://www.mediafire.com/file/n6q6u91g1jn3975/0ld.2021.dvds.720p.latino.mp4/file
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w1280/5DShfVkYH2Wwh352NKOIvqoo5X2.jpg" ,RISEN 2021
+https://download1482.mediafire.com/3bw3gwvxa08g/ajnxxog901zmxgf/r1s3n.2021.dvds.720p.latino.mp4
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="" ,
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="" ,
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="" ,
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="" ,
+
+#EXTINF:-1 group-title="PELICULAS" tvg-logo="" ,
+
+
