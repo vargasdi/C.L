@@ -109,7 +109,7 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3655.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
 https://hostcloud.network/live/delpiero1537/Rpo78218/8837.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4109
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4003
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png" ,HBO POP
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8246
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
@@ -460,4 +460,7 @@ https://raw.githubusercontent.com/vargasdi/Canal/main/aa.m3u
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29407
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29412
-
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://hbomax-images.warnermediacdn.com/images/GXebCtwq1msPCwwEAAD8D/tileburnedin?size=1280x720&partner=hbomaxcom&language=es-419&host=art-gallery-latam.api.hbo.com&w=1280" ,LOONEY TUNES
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29409
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://laverdadnoticias.com/__export/1622301281329/sites/laverdad/img/2021/05/29/pelicula_goku_dragon_ball_super.jpg_514966513.jpg" ,DRAGON BALL SUPER
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29406
