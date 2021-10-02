@@ -98,6 +98,8 @@ https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=48&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=129&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4099
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
 https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
@@ -107,15 +109,23 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3655.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
 https://hostcloud.network/live/delpiero1537/Rpo78218/8837.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
-http://201.168.205.12:8000/play/a0cv/index.m3u8
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4109
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png" ,HBO POP
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8246
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/44337
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://assets.cinepolisklic.com/cmsklicia/movieimages/hbo-xtreme/poster_resize_192X288.jpg", HBO XTREME
 http://201.168.205.12:8000/play/a096/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://lh3.googleusercontent.com/proxy/lVdC44eleL-_fgUthy6xW0x4FAiRotcOsZjZhBRuArxjkE3cmuacgbMJv-rMxhZ2dl60PDVF1VfGoLC4ZlcjvaSulcH_ze_RklrWSnYddAYS2fn5VaefsKkeACCBqQw0rg" ,HBO SIGNATURE
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/3197
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
 https://hostcloud.network/live/delpiero1537/Rpo78218/3705.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=64&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4038
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA + 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=121&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN
@@ -446,5 +456,8 @@ https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cu4E5MDtGA0bjaJWb3YkIXHGpi_
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71PTY5oF-2L.jpg" , Famili guy
 https://raw.githubusercontent.com/vargasdi/Canal/main/aa.m3u
 
-
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg" ,FUTURAMA
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29407
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
+http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29412
 
