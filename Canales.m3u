@@ -241,22 +241,29 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 https://nodo07-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
 
 *** DEPORTES ***
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN HD
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png", ESPN + 
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=167&p=3&k=srregio&f=.m3u8 
+https://hostcloud.network/live/delpiero1537/Rpo78218/59.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN 
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=168&p=3&k=srregio&f=.m3u8  
+https://hostcloud.network/live/delpiero1537/Rpo78218/7463.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png", ESPN 2
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=169&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3
+https://hostcloud.network/live/delpiero1537/Rpo78218/3361.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png", FOX SPORTS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=170&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=172&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=178&p=3&k=srregio&f=.m3u8  
+https://hostcloud.network/live/delpiero1537/Rpo78218/3679.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=345&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN HD
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1049&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="deportes" tvg-logo="ttps://image.roku.com/developer_channels/prod/f7414ac0674bae38158d34fd5fde3630f8e3be01aa74c4ba9168d1ca52450214.png",FUTBOL NETWORK
+https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIRECTV SPORTS
+http://161.132.108.34:20000/play/a00f/index.m3u8
+
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", ADRENALINA SPORTS HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png", CLARO SPORTS HD  
@@ -471,10 +478,10 @@ http://201.168.205.12:8000/play/a09b/index.m3u8
 
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
 https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/Cu4E5MDtGA0bjaJWb3YkIXHGpi_bB4bRy9UDefpvnTtf-NeYN44aU01NbqBnFtFBu5JuLvZsh3RBDreL37V9aRrpDYFzcyxHmwOk713Ckz8BW6HWNYbSw_zC8hwyn4kYd7bMeAnreKyXMoxfO28L8I0BWYHpEA5hRZi9-w0L_YTiOnbrRdp4JBq-nkNAkfjBlvHa4yNRmvkk4ZWVqtXnB1vGnTQBfI8QWaBzZKnqTKrt8UWqf1_bB4V4e_H1gyVIT_gLDrOX87jGiFCXKCNbb8CdjlTXJKD_UiMMPjFIulhFi_sjYm-Il0bq9Md-8VGPnTFrA-MMc8eMD97p9-rMkeypPJMo5fmc9r9qhwHwNmCHTkHouzGphCmRgMyR0XzoecWp2hb92tk8PaKnW44a6GIy9bGyEhEeFKNi1XOG-rsnUlGK5lkYnmOfyNvrmuCl6_S0VKJYccKEn2YJnak6cByTzHSJ-RR5OUhWKy7RRP4bjujP2lwngtBU-bS8fUqFhSnDyt0mZdxHHaWhdD7yzfOFmBcpi8-rmwz-BXY5t1ZNSWntzzY-osBSjoBBo1_gflK3RyEhLx0ieqD3NEBedJsSRV8oxePI_A1EU0_i0lHS18WWwQInMscLDV-GT7fVP3c-HzKhuwtw-gG8i-SOKG6enlATic0nFIEfKlkXLq0HAWo9trlZm5svE98T9ef5SEE1_ww6nOXtc_fU3S86TWTWZZJFUkSagccOYk0XZyMoksxNxs896IInR9KqHcfD-ZLfEUfIIWR2iRVlvepZOsqtlHZ6tNlP-a9hCFtVsFw6xDan9vCrnkXxNTNbsYIRTBIQukSckUt1Z9scTEOVF8gkRxoM2pN4TkolJjd86JI9.m3u8
-
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-simpson-1564565325.jpg", los simpson HD
+https://chinofree.000webhostapp.com/live/2.php/247_SIMPSON.m3u8
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71PTY5oF-2L.jpg" , Famili guy
 https://raw.githubusercontent.com/vargasdi/Canal/main/aa.m3u
-
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg" ,FUTURAMA
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29407
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
@@ -483,3 +490,17 @@ http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29412
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29409
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://laverdadnoticias.com/__export/1622301281329/sites/laverdad/img/2021/05/29/pelicula_goku_dragon_ball_super.jpg_514966513.jpg" ,DRAGON BALL SUPER
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29406
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://smoda.elpais.com/wp-content/uploads/2020/06/bob-esponja.jpg", BOB SPONGE
+https://chinofree.000webhostapp.com/live/2.php/247_BOBESPONJA.m3u8
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i2.wp.com/formby.es/wp-content/uploads/2014/05/pinkpantherlogo.png", PANTERA ROSA
+https://chinofree.000webhostapp.com/live/2.php/247_PANTERAROSA.m3u8
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://1000logos.net/wp-content/uploads/2017/08/Pixar-symbol-500x155.jpg",DISNEY PIXAR
+http://odenfull.co:2086/142536/142536/58042
+
+
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://images.pluto.tv/channels/5efb8ce2e426140007c78fd1/featuredImage.jpg",MTV animaciones
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.2474&deviceLon=-99.5671&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=9f8a16fb-cd23-11eb-ad20-0242ac110002&sid=9f8a16fb-cd23-11eb-ad20-0242ac110002&userId=
+#EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/featuredImage.jpg",MTV PRANKS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=4a6bef8a-83af-47b8-9507-be1f872bf780&clientModelNumber=na&deviceDNT=false&deviceId=4a6bef8a-83af-47b8-9507-be1f872bf780&deviceLat=19.6716&deviceLon=-98.8178&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=VE&serverSideAds=false&sessionID=1fcf5748-cd23-11eb-8f91-0242ac110002&sid=1fcf5748-cd23-11eb-8f91-0242ac110002&userId=
+
+
