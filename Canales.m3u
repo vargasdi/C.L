@@ -134,7 +134,7 @@ http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4003
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png" ,HBO POP
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8246
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/44337
+https://cablelatino.xyz/hls/ELIF/HBOMUNDI.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
 https://cablelatino.xyz/hls/ELIF/HBOXTREME.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://sc.dish.com/shared/images/station-logos/HBO.PNG", HBO EAST
@@ -293,6 +293,9 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=345&p=3&k=srregio&f=.m3u8
 https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIRECTV SPORTS
 http://161.132.108.34:20000/play/a00f/index.m3u8
+
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORTS 2
+https://cablelatino.xyz/hls/ELIF/DIRECTV_SPORT2.m3u8
 
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", ADRENALINA SPORTS HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
@@ -511,13 +514,12 @@ http://201.168.205.12:8000/play/a09b/index.m3u8
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
 https://cablelatino.xyz/hls/ELIF/247_SIMPSONS.m3u8
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-simpson-1564565325.jpg", los simpson HD
-https://cablelatino.xyz/hls/ELIF/247_SIMPSONS.m3u8
+https://cablelatino.xyz/hls/ELIF/247_SIMPSON.m3u8
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71PTY5oF-2L.jpg" , Famili guy
 https://raw.githubusercontent.com/vargasdi/Canal/main/aa.m3u
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg" ,FUTURAMA
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29407
-#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29412
+
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://hbomax-images.warnermediacdn.com/images/GXebCtwq1msPCwwEAAD8D/tileburnedin?size=1280x720&partner=hbomaxcom&language=es-419&host=art-gallery-latam.api.hbo.com&w=1280" ,LOONEY TUNES
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29409
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://laverdadnoticias.com/__export/1622301281329/sites/laverdad/img/2021/05/29/pelicula_goku_dragon_ball_super.jpg_514966513.jpg" ,DRAGON BALL SUPER
