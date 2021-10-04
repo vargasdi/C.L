@@ -51,31 +51,24 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3696.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=111&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD HD
-http://br0ss.xyz:8090/live/Diego/Diego/127.m3u8
+
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=112&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK HD
-http://br0ss.xyz:8090/live/Diego/Diego/133.m3u8
 
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/22/CN2_Logo-0.png/revision/latest?cb=20160213024101", CARTOON NETWORK 2
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL HD
-http://br0ss.xyz:8090/live/Diego/Diego/131.m3u8
+
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=118&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR HD
-http://br0ss.xyz:8090/live/Diego/Diego/129.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
 https://hostcloud.network/live/delpiero1537/Rpo78218/35994.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
-http://br0ss.xyz:8090/live/Diego/Diego/118.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
@@ -92,8 +85,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=115&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=108&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST 2
-http://br0ss.xyz:8090/live/Diego/Diego/117.m3u8
+
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=109&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", BABY TV 
@@ -145,6 +137,8 @@ http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8246
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/44337
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
 https://cablelatino.xyz/hls/ELIF/HBOXTREME.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://sc.dish.com/shared/images/station-logos/HBO.PNG", HBO EAST
+http://qqtv.nl:8080/Bradley1/Bradley123/20356
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" ,HBO SIGNATURE
 https://cablelatino.xyz/hls/ELIF/HBOSIGNATURE.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
@@ -161,7 +155,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN + PLUS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
-http://br0ss.xyz:8090/live/Diego/Diego/434.m3u8
+
 
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png", GOLDEN PREMIER
