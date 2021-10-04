@@ -69,7 +69,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=118&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
 https://hostcloud.network/live/delpiero1537/Rpo78218/35994.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
-http://appleiptv.com:25461/1819/1819/28976
+
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
 
@@ -155,7 +155,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN + PLUS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
-
+http://flowfhd.xyz:25461/Annabelle/12345/176395
 
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png", GOLDEN PREMIER
