@@ -292,7 +292,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=345&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="ttps://image.roku.com/developer_channels/prod/f7414ac0674bae38158d34fd5fde3630f8e3be01aa74c4ba9168d1ca52450214.png",FUTBOL NETWORK
 http://ytv.plus:25461/live/mercedes/1234/72.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIRECTV SPORTS
-http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/109136
+http://odenfull.co:2086/142536/142536/135318
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORTS 2
 http://odenfull.co:2086/142536/142536/135316
 
@@ -300,6 +300,12 @@ http://odenfull.co:2086/142536/142536/135316
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png", CLARO SPORTS HD  
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1  group-title="deportes" tvg-logo="https://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png",SKY SPORTS 1
+http://odenfull.co:2086/142536/142536/135366
+#EXTINF:-1  group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg/1200px-Sky_Sport_2_HD_-_Logo_2015.svg.png",SKY SPORTS 2
+http://odenfull.co:2086/142536/142536/135367
+#EXTINF:-1  group-title="deportes" tvg-logo="https://alacontra.es/wp-content/uploads/2018/02/Premier-League-Aug-Sep-TV-games-Sky-BT.png",SKY SPORTS PREMIER LEAGUE
+http://odenfull.co:2086/142536/142536/135368
 
 *** CULTURALES ***
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png", DISCOVERY ID
