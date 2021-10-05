@@ -53,8 +53,6 @@ https://cablelatino.xyz/hls/LEIA/DISTRITOCOMEDIA.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=111&p=3&k=srregio&f=.m3u8 
 
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
-https://cablelatino.xyz/hls/LEIA/DISNEYXD.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=112&p=3&k=srregio&f=.m3u8 
@@ -72,7 +70,7 @@ https://cablelatino.xyz/hls/LEIA/DISNEYJR.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
 https://hostcloud.network/live/delpiero1537/Rpo78218/35994.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
-https://blackghost.live/play/megapro-102.php?c=123|User-Agent=megapro
+http://qqtv.nl:8080/Bradley1/Bradley123/20416
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
 https://cablelatino.xyz/hls/LEIA/TEENNICK.m3u8
@@ -149,7 +147,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8
 https://hostcloud.network/live/delpiero1537/Rpo78218/3705.m3u8
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
-http://compitv.info:8080/MauricioCavieres231/JTFCEgyLOa/47746
+http://qqtv.nl:8080/Bradley1/Bradley123/20111
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA + 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=121&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN
@@ -292,12 +290,11 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3679.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Espn3.png", ESPN 3 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=345&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="deportes" tvg-logo="ttps://image.roku.com/developer_channels/prod/f7414ac0674bae38158d34fd5fde3630f8e3be01aa74c4ba9168d1ca52450214.png",FUTBOL NETWORK
-https://59d39900ebfb8.streamlock.net:443/8312/8312/playlist.m3u8
+http://ytv.plus:25461/live/mercedes/1234/72.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIRECTV SPORTS
-http://161.132.108.34:20000/play/a00f/index.m3u8
-
+http://qqtv.nl:8080/Bradley1/Bradley123/20106
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORTS 2
-https://cablelatino.xyz/hls/ELIF/DIRECTV_SPORT2.m3u8
+http://qqtv.nl:8080/Bradley1/Bradley123/20311
 
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", ADRENALINA SPORTS HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
