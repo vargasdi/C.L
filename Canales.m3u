@@ -46,12 +46,15 @@ http://chapotv.com:8080/Miguel/Miguel2020/140619
 #EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=340&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3696.m3u8
+https://cablelatino.xyz/hls/LEIA/DISTRITOCOMEDIA.m3u8
+
 
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=111&p=3&k=srregio&f=.m3u8 
 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
+https://cablelatino.xyz/hls/LEIA/DISNEYXD.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=112&p=3&k=srregio&f=.m3u8 
@@ -64,14 +67,13 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=113&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL HD
 https://cablelatino.xyz/hls/LEIA/DISNEY.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=118&p=3&k=srregio&f=.m3u8 
+https://cablelatino.xyz/hls/LEIA/DISNEYJR.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
 https://hostcloud.network/live/delpiero1537/Rpo78218/35994.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
 https://blackghost.live/play/megapro-102.php?c=123|User-Agent=megapro
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
+
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
 https://cablelatino.xyz/hls/LEIA/TEENNICK.m3u8
 
@@ -89,7 +91,7 @@ https://cablelatino.xyz/hls/LEIA/TOONCAST.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=109&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", BABY TV 
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=116&p=3&k=srregio&f=.m3u8  
+https://cablelatino.xyz/hls/LEIA/BABYTV.m3u8 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png", BABY FIRST
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS  
