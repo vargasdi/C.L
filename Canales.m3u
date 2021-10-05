@@ -510,13 +510,6 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1252&p=3&k=srregio&f=.m3u8
 
 
 
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://assets.entrepreneur.com/content/3x2/2000/playboy_logo.jpg" ,PLAY BOY
-http://201.168.205.12:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://dasg7xwmldix6.cloudfront.net/episodes/60943_02ox7Bzn.jpg" ,SEX XTREME
-http://201.168.205.12:8000/play/a09c/index.m3u8
-#EXTINF:-1 group-title="ADULTOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1280px-Canal_Venus_logo.svg.png" ,VENUS
-http://201.168.205.12:8000/play/a09b/index.m3u8
-
 
 
 
