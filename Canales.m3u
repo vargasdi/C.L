@@ -76,7 +76,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2147&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=117&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR HD
-https://cablelatino.xyz/hls/ELIF/NICKJR.m3u8
+https://cablelatino.xyz/hls/LEIA/NICKJR.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/2560px-Nicktoons_Network_logo_2009.svg.png", NICKTOONS 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1708&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
@@ -136,11 +136,11 @@ http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8246
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
 https://cablelatino.xyz/hls/ELIF/HBOMUNDI.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
-https://cablelatino.xyz/hls/ELIF/HBOXTREME.m3u8
+https://cablelatino.xyz/hls/LEIA/HBOXTREME.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://sc.dish.com/shared/images/station-logos/HBO.PNG", HBO EAST
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" ,HBO SIGNATURE
-https://cablelatino.xyz/hls/ELIF/HBOSIGNATURE.m3u8
+https://cablelatino.xyz/hls/LEIA/HBOSIGNATURE.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
@@ -159,7 +159,7 @@ http://odenfull.co:2086/142536/142536/108799
 
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png", GOLDEN PREMIER
-https://cablelatino.xyz/hls/ELIF/GOLDENPREMIER.m3u8
+https://cablelatino.xyz/hls/LEIA/GOLDENPREMIER.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=126&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT  HD
