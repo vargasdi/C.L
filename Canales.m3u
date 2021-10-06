@@ -73,10 +73,9 @@ https://blackghost.live/play/totalp1-102.php?c=110&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-102.php?c=2147&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
-https://cablelatino.xyz/hls/LBIE/TEENNICK.m3u8
-
+https://blackghost.live/play/totalp1-102.php?c=2147&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR 
-https://cablelatino.xyz/hls/LEIA/NICKJR.m3u8
+https://blackghost.live/play/totalp1-102.php?c=117&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/2560px-Nicktoons_Network_logo_2009.svg.png", NICKTOONS 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1708&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
@@ -146,7 +145,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8
 https://hostcloud.network/live/delpiero1537/Rpo78218/3705.m3u8
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
-https://cablelatino.xyz/hls/BIEL/AXN.m3u8
+https://blackghost.live/play/totalp1-102.php?c=64&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA + 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=121&p=3&k=srregio&f=.m3u8
