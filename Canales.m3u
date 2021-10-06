@@ -108,8 +108,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=207&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg", STUDIO UNIRVESAL
 https://hostcloud.network/live/delpiero1537/Rpo78218/3648.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
-https://qlobbidev.s.llnwi.net/bpk-tv/FX/hls/index.m3u8
-
+https://cablelatino.xyz/hls/BIEL/FX.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD
 https://hostcloud.network/live/delpiero1537/Rpo78218/3652.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
@@ -120,9 +119,9 @@ https://qlobbidev.s.llnwi.net/bpk-tv/FXM/hls/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
 https://hostcloud.network/live/delpiero1537/Rpo78218/3656.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png", HBO 2
-https://hostcloud.network/live/delpiero1537/Rpo78218/3655.m3u8
+https://cablelatino.xyz/hls/BIEL/HBO2.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
-https://hostcloud.network/live/delpiero1537/Rpo78218/8837.m3u8
+https://cablelatino.xyz/hls/BIEL/HBOFAMILY.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png", HBO COMEDY
 
 
