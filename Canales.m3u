@@ -73,7 +73,7 @@ https://cablelatino.xyz/hls/BIEL/NICK.m3u8
 http://appleiptv.com:25461/1819/1819/28810
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
-https://cablelatino.xyz/hls/BIEL/TEENNICK.m3u8
+https://cablelatino.xyz/hls/LBIE/TEENNICK.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR 
 https://cablelatino.xyz/hls/LEIA/NICKJR.m3u8
@@ -84,7 +84,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=115&p=3&k=srregio&f=.m3u8
 
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST
-https://cablelatino.xyz/hls/LEIA/TOONCAST.m3u8
+https://cablelatino.xyz/hls/BIE/TOONCAST.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=109&p=3&k=srregio&f=.m3u8  
@@ -134,13 +134,13 @@ http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/4003
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png" ,HBO POP
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/8246
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
-https://cablelatino.xyz/hls/ELIF/HBOMUNDI.m3u8
+https://cablelatino.xyz/hls/BIE/HBOMUNDI.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
-https://cablelatino.xyz/hls/LEIA/HBOXTREME.m3u8
+https://cablelatino.xyz/hls/BIE/HBOXTREME.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://sc.dish.com/shared/images/station-logos/HBO.PNG", HBO EAST
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" ,HBO SIGNATURE
-https://cablelatino.xyz/hls/LEIA/HBOSIGNATURE.m3u8
+https://cablelatino.xyz/hls/BIE/HBOSIGNATURE.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
@@ -157,13 +157,12 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN + PLUS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
-http://appleiptv.com:25461/1819/1819/28787
-#EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
-http://appleiptv.com:25461/1819/1819/28956
+
+
 
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png", GOLDEN PREMIER
-https://cablelatino.xyz/hls/LEIA/GOLDENPREMIER.m3u8
+https://cablelatino.xyz/hls/BIEL/GOLDENPREMIER.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=126&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT  HD
@@ -174,13 +173,13 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=71&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=128&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://pbs.twimg.com/media/Eu0oNWuXUAYk3BZ.jpg", FOX FUN
-https://cablelatino.xyz/hls/LEIA/FOXFAMILY.m3u8
+https://cablelatino.xyz/hls/BIEL/FOXFAMILY.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.ytimg.com/vi/sESxFOo90Ps/maxresdefault.jpg", FOX MOVIES 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=146&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://lh3.googleusercontent.com/proxy/RzLsrCViTEcvCPVX5AoDl6y9abPMaeqbYuCUHU6IcnB_bR-s0Hcc_Oukm-pgHeu81HIt7qBKy8kNTqRBJUdt_ZxMCmuU1AGd", FOX SERIES
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=139&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarComedy_Logo2021_FondoOscuro.png.e50f0666a1a77a818216c526901a3351.png",FOX COMEDY
-https://cablelatino.xyz/hls/LEIA/FOXCOMEDY.m3u8
+https://cablelatino.xyz/hls/BIEL/FOXCOMEDY.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarAction_Logo2021_FondoOscuro.png.9ce5338a20f5a3cc2725793156809319.png", FOX ACTION HD
 https://hostcloud.network/live/delpiero1537/Rpo78218/3685.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://3.bp.blogspot.com/-QK8-QSqPHvE/XCXFWc0F34I/AAAAAAAAB6I/DB3kq-6TMCEYdQPv8Zk6sxB9KgBjFG-CwCLcBGAs/s320/logo_foxcinema.png", FOX CINEMA 
@@ -190,7 +189,7 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3686.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_10/large.581258075f10c_FoxClassicsHD.png.282493f090b1e985a280f9cff4b6cf4b.png", FOX CLASSICS 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.imgur.com/O5IvT7k.png", FOX HITS
-https://cablelatino.xyz/hls/LEIA/FOXMOVIES.m3u8
+https://cablelatino.xyz/hls/BIEL/FOXMOVIES.m3u8
 
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE 
@@ -209,9 +208,8 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=158&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=328&p=3&k=srregio&f=.m3u8  
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_255.png", PARAMOUNT CHANNEL
-http://appleiptv.com:25461/1819/1819/28814
-#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_255.png", PARAMOUNT CHANNEL
-http://appleiptv.com:25461/1819/1819/28982
+https://cablelatino.xyz/hls/BIEL/PARAMOUNT.m3u8
+
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png", AZ CINEMA 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
@@ -232,7 +230,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=214&p=3&k=srregio&f=.m3u8
 
 
 #EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png", NICK MUSIC
-https://cablelatino.xyz/hls/LEIA/NICKMUSIC.m3u8
+https://cablelatino.xyz/hls/BIEL/NICKMUSIC.m3u8
 #EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Telehit_Urbano_Logo.png", TELEHIT URBANO
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=218&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="musica" tvg-logo="https://1.bp.blogspot.com/-qDqGC41GMxs/X07ayd7uyYI/AAAAAAAA6R4/b2nUxGj4x5IhqNVVNN2mbZGsU6DPXhD9QCLcBGAsYHQ/s400/telehit-2018.png", TELEHIT +
@@ -298,10 +296,12 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=345&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="ttps://image.roku.com/developer_channels/prod/f7414ac0674bae38158d34fd5fde3630f8e3be01aa74c4ba9168d1ca52450214.png",FUTBOL NETWORK
 http://ytv.plus:25461/live/mercedes/1234/72.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIRECTV SPORTS
-http://appleiptv.com:25461/1819/1819/27391
+https://cablelatino.xyz/hls/BIEL/DIRECTV_SPORT.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORTS 2
-http://odenfull.co:2086/142536/142536/135316
+https://cablelatino.xyz/hls/BIEL/DIRECTV_SPORT2.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="deportes", DIRECTV SPORT PLUS
+https://cablelatino.xyz/hls/BIEL/DIRECTV_SPORTPLUS.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", ADRENALINA SPORTS HD
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1799&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png", CLARO SPORTS HD  
@@ -516,13 +516,17 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1252&p=3&k=srregio&f=.m3u8
 
 
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
-https://cablelatino.xyz/hls/ELIF/247_SIMPSONS.m3u8
+https://cablelatino.xyz/hls/BIEL/247_SIMPSON.m3u8
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://i.blogs.es/2bbf52/scale-2-/1366_2000.jpg", los simpson
+https://cablelatino.xyz/hls/BIEL/247_SIMPSONS.m3u8
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/los-simpson-1564565325.jpg", los simpson HD
 https://chinofree.000webhostapp.com/live/2.php/247_SIMPSON.m3u8
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71PTY5oF-2L.jpg" , Famili guy
 https://raw.githubusercontent.com/vargasdi/Canal/main/aa.m3u
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg" ,FUTURAMA
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29407
+#EXTINF:-1 group-title="anime 24/7" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/08/futurama.jpg" ,FUTURAMA 2
+https://cablelatino.xyz/hls/BIEL/247_FUTURAMA.m3u8
 
 #EXTINF:-1 group-title="anime 24/7" tvg-logo="https://hbomax-images.warnermediacdn.com/images/GXebCtwq1msPCwwEAAD8D/tileburnedin?size=1280x720&partner=hbomaxcom&language=es-419&host=art-gallery-latam.api.hbo.com&w=1280" ,LOONEY TUNES
 http://tv.cablestream.io:8080/fcalirim@yahoo.com/9ojB3bP0t6/29409
