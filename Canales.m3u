@@ -68,9 +68,9 @@ https://cablelatino.xyz/hls/BIEL/DISNEY.m3u8
 https://cablelatino.xyz/hls/BIEL/DISNEYJR.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
-https://cablelatino.xyz/hls/BIEL/NICK.m3u8
+https://blackghost.live/play/totalp1-102.php?c=110&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
-http://appleiptv.com:25461/1819/1819/28810
+https://blackghost.live/play/totalp1-102.php?c=2147&p=3&k=black&f=.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
 https://cablelatino.xyz/hls/LBIE/TEENNICK.m3u8
@@ -108,7 +108,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=207&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg", STUDIO UNIRVESAL
 https://hostcloud.network/live/delpiero1537/Rpo78218/3648.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
-https://cablelatino.xyz/hls/BIEL/FX.m3u8
+https://blackghost.live/play/totalp1-102.php?c=60&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD
 https://hostcloud.network/live/delpiero1537/Rpo78218/3652.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
@@ -155,7 +155,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=123&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN + PLUS
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=122&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
-
+https://blackghost.live/play/totalp1-102.php?c=124&p=3&k=black&f=.m3u8
 
 
 
