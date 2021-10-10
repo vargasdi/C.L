@@ -5,8 +5,8 @@
 http://regioplay.xyz/php/SR_REGIO_900112_/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 HD
 http://regioplay.xyz/php/SR_REGIO_900112_/tp.php?c=317&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 
-http://regioplay.xyz/php/SR_REGIO_900112_/tp.php?c=21&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7 4
+https://cablelatino.xyz/hls/ALBA/AZTECA7.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
 http://regioplay.xyz/php/SR_REGIO_900112_/tp.php?c=1784&p=3&k=srregio&f=.m3u8  
 
@@ -101,7 +101,7 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2591&p=3&k=srregio&f=.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png", FOX HD 
-https://hostcloud.network/live/delpiero1537/Rpo78218/3683.m3u8
+https://cablelatino.xyz/hls/ALBA/FOX.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/470px-Warner_Bros._%282019%29_logo.svg.png", WARNER HD 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=205&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://images.vectorhq.com/images/previews/8ea/universal-logo-psd-456169.png", UNIVERSAL HD
@@ -111,7 +111,7 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3648.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
 https://blackghost.live/play/totalp1-102.php?c=60&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD
-https://hostcloud.network/live/delpiero1537/Rpo78218/3652.m3u8
+https://cablelatino.xyz/hls/ALBA/SONY.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=129&p=3&k=srregio&f=.m3u8 
 
@@ -122,7 +122,7 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3656.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png", HBO 2
 https://cablelatino.xyz/hls/BIEL/HBO2.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
-
+https://cablelatino.xyz/hls/ALBA/HBOFAMILY.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png", HBO COMEDY
 
 
