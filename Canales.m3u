@@ -52,42 +52,34 @@ https://cablelatino.xyz/hls/LEIA/DISTRITOCOMEDIA.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 https://blackghost.live/play/totalp1-106.php?c=111&p=3&k=black&f=.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
-http://38.131.11.34:1080/play/a00p
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
-http://45.170.40.2:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-https://cablelatino.xyz/hls/ALBA/DISNEY.m3u8
+https://cablelatino.xyz/hls/ENMA/CARTOON.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/22/CN2_Logo-0.png/revision/latest?cb=20160213024101", CARTOON NETWORK 2
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=113&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL HD
-
+https://cablelatino.xyz/hls/ENMA/DISNEY.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR
-https://cablelatino.xyz/hls/ALBA/DISNEYJR.m3u8
-
+https://cablelatino.xyz/hls/ENMA/DISNEYJR.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
-https://cablelatino.xyz/hls/ALBA/NICK.m3u8
+https://cablelatino.xyz/hls/ENMA/NICK.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
 
-
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
-https://cablelatino.xyz/hls/ALBA/TEENNICK.m3u8
+https://cablelatino.xyz/hls/ENMA/TEENNICK.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR 
-https://blackghost.live/play/totalp1-102.php?c=117&p=3&k=black&f=.m3u8
+https://cablelatino.xyz/hls/ENMA/NICKJR.m3u8
+
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/2560px-Nicktoons_Network_logo_2009.svg.png", NICKTOONS 
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1708&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=115&p=3&k=srregio&f=.m3u8 
 
-
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST
-https://cablelatino.xyz/hls/BIEL/TOONCAST.m3u8
-
+https://cablelatino.xyz/hls/ENMA/TOONCAST.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
-http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=109&p=3&k=srregio&f=.m3u8  
+https://cablelatino.xyz/hls/ENMA/DKIDS.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", BABY TV 
+https://cablelatino.xyz/hls/ENMA/BABYTV.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png", BABY FIRST
 http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
