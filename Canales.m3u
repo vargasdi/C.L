@@ -51,7 +51,11 @@ http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=340&p=3&k=srregio&f=.m3u8
 https://cablelatino.xyz/hls/LEIA/DISTRITOCOMEDIA.m3u8
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
-https://cablelatino.xyz/hls/ALBA/DISNEYXD.m3u8
+https://blackghost.live/play/totalp1-106.php?c=111&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
+http://38.131.11.34:1080/play/a00p
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
+http://45.170.40.2:8000/play/a01s/index.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 https://cablelatino.xyz/hls/ALBA/DISNEY.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/22/CN2_Logo-0.png/revision/latest?cb=20160213024101", CARTOON NETWORK 2
