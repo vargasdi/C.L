@@ -1,288 +1,239 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" nade="Infantil" group-title="Lista 19", Cartoon Network
-https://cablelatino.xyz/hls/LIAM/CARTOON.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" nade="Infantil" group-title="Lista 19", Disney Channel
-https://cablelatino.xyz/hls/LIAM/DISNEY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NLNivxd.jpg" nade="Infantil" group-title="Lista 19", Disney XD
-https://cablelatino.xyz/hls/LIAM/DISNEYXD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" nade="Infantil" group-title="Lista 19", Disney Jr
-https://cablelatino.xyz/hls/LIAM/DISNEYJR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bDD2PT7.jpg" nade="Infantil" group-title="Lista 19", NATGEO Kids
-https://cablelatino.xyz/hls/LIAM/NATGEOKIDS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" nade="Infantil" group-title="Lista 19", NICK
-https://cablelatino.xyz/hls/LIAM/NICK.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" nade="Infantil" group-title="Lista 19", TEEN NICK
-https://cablelatino.xyz/hls/LIAM/TEENNICK.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" nade="Infantil" group-title="Lista 19", NICK MUSIC
-https://cablelatino.xyz/hls/LIAM/NICKMUSIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" nade="Infantil" group-title="Lista 19", NICK JR
-https://cablelatino.xyz/hls/LIAM/NICKJR.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3eZIO3.png" nade="Infantil" group-title="Lista 19", BabyTV
-https://cablelatino.xyz/hls/LIAM/BABYTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/brvWB3u.png" nade="Infantil" group-title="Lista 19", Discovery Kids
-https://cablelatino.xyz/hls/LIAM/DKIDS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/igKxn5E.jpg" nade="Infantil" group-title="Lista 19", Tooncast
-https://cablelatino.xyz/hls/LIAM/TOONCAST.m3u8
+#EXTM3U
+
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
+https://blackghost.live/play/totalp1-129.php?c=7&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7
+https://blackghost.live/play/totalp1-129.php?c=317&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
+https://blackghost.live/play/totalp1-129.php?c=1784&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5 HD
+https://blackghost.live/play/totalp1-129.php?c=1785&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
+https://blackghost.live/play/totalp1-129.php?c=1942&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
+https://blackghost.live/play/totalp1-129.php?c=184&p=3&k=black&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3NGPAh.jpg" nade="Mundo" group-title="Lista 19", CNN Internacional
-https://cablelatino.xyz/hls/LIAM/CNNINT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" nade="Mundo" group-title="Lista 19", CNN en Espanol
-https://cablelatino.xyz/hls/LIAM/CNNESPANOL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Y9uawT.png" nade="Mundo" group-title="Lista 19", CNN en Espanol 2
-https://cablelatino.xyz/hls/LIAM/CNNESPANOL2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E1selri.png" nade="Mundo" group-title="Lista 19", CNN Chile
-https://cablelatino.xyz/hls/LIAM/CNN_CHILE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ngBYCo9.png" nade="Mundo" group-title="Lista 19", 24 Horas
-https://cablelatino.xyz/hls/LIAM/24HORAS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JQFsU7i.png" nade="Mundo" group-title="Lista 19", ADN40
-https://cablelatino.xyz/hls/LIAM/ADN40.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEebu04.png" nade="Mundo" group-title="Lista 19", Bloomberg
-https://cablelatino.xyz/hls/LIAM/BLOOMBERGLAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bEebu04.png" nade="Mundo" group-title="Lista 19", Bloomberg [2]
-https://cablelatino.xyz/hls/LIAM/BLOOMBERG_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMon4qd.png" nade="Mundo" group-title="Lista 19", CHV
-https://cablelatino.xyz/hls/LIAM/CHV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VZH3c3O.png" nade="Mundo" group-title="Lista 19", El nueve
-https://cablelatino.xyz/hls/LIAM/ELNUEVE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" nade="Mundo" group-title="Lista 19", Telefe
-https://cablelatino.xyz/hls/LIAM/LIAMFE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uYOLwOj.png" nade="Mundo" group-title="Lista 19", El trece
-https://cablelatino.xyz/hls/LIAM/ELTRECE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" nade="Mundo" group-title="Lista 19", Lifetime
-https://cablelatino.xyz/hls/LIAM/LIFETIME.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kp0Ikcj.png" nade="Mundo" group-title="Lista 19", MasChic
-https://cablelatino.xyz/hls/LIAM/MASCHIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EaWNj3F.jpg" nade="Mundo" group-title="Lista 19", Hola!
-https://cablelatino.xyz/hls/LIAM/HOLATV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55x9NTr.jpg" nade="Mundo" group-title="Lista 19", Telemundo
-https://cablelatino.xyz/hls/LIAM/LIAMMUNDO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/64NEN8V.png" nade="Mundo" group-title="Lista 19", Tlnovelas
-https://cablelatino.xyz/hls/LIAM/TLNOVELAS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/osmtnbz.png" nade="Mundo" group-title="Lista 19", Azteca Uno
-https://cablelatino.xyz/hls/LIAM/AZTECA1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/osmtnbz.png" nade="Mundo" group-title="Lista 19", Azteca 7
-https://cablelatino.xyz/hls/LIAM/AZTECA7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R5EdxXG.png" nade="Mundo" group-title="Lista 19", Az Corazon
-https://cablelatino.xyz/hls/LIAM/AZCORAZON.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xn35v8c.png" nade="Mundo" group-title="Lista 19", Univision
-https://cablelatino.xyz/hls/LIAM/UNIVISION.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0jYyq4K.jpg" nade="Mundo" group-title="Lista 19", Caracol TV
-https://cablelatino.xyz/hls/LIAM/CARACOLTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fISPUww.jpg" nade="Mundo" group-title="Lista 19", Antena 3
-https://cablelatino.xyz/hls/LIAM/A3.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pMWxBGL.png" nade="Mundo" group-title="Lista 19", TruTV
-https://cablelatino.xyz/hls/LIAM/TRUTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1WgmrLn.png" nade="Mundo" group-title="Lista 19", Glitz
-https://cablelatino.xyz/hls/LIAM/GLITZ.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" nade="Mundo" group-title="Lista 19", Las Estrellas TV
-https://cablelatino.xyz/hls/LIAM/LASESTRELLAS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xvgKK5S.png" nade="Mundo" group-title="Lista 19", RCN
-https://cablelatino.xyz/hls/LIAM/RCN.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://1.bp.blogspot.com/-1JegKzPM66w/Xu6fHV_srpI/AAAAAAAAJ7o/XvFb74Lryj8u1TYUdv9kK2Ryx0j1TgL5gCLcBGAsYHQ/s1600/el-nueve.png", NU9VE HD
+https://blackghost.live/play/totalp1-129.php?c=1783&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png", TELEVISA PUEBLA
+https://blackghost.live/play/totalp1-129.php?c=2312&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://static.wikia.nocookie.net/lmb/images/1/15/A_logo.png/revision/latest?cb=20170909222155&path-prefix=es", A+ 
+https://blackghost.live/play/totalp1-129.php?c=2316&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Principales" tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png", TELEFORMULA
+https://blackghost.live/play/totalp1-129.php?c=32&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1200px-Logo_Glitz.svg.png", GLITZ
+https://blackghost.live/play/totalp1-129.php?c=76&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
+https://blackghost.live/play/totalp1-129.php?c=70&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg", TELEMUNDO INTERNACIONAL HD
+https://blackghost.live/play/totalp1-129.php?c=85&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO
+
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/9303414/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F1b%2Fb6%2F7effa3414704b1eb556f02c364e6%2Funicable.jpg", UNICABLE 
+https://blackghost.live/play/totalp1-129.php?c=66&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
+https://blackghost.live/play/totalp1-129.php?c=83&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", DISTRITO COMEDIA 
+https://blackghost.live/play/totalp1-129.php?c=78&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
+https://blackghost.live/play/totalp1-129.php?c=340&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
+https://blackghost.live/play/totalp1-129.php?c=111&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
+https://blackghost.live/play/totalp1-129.php?c=112&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/22/CN2_Logo-0.png/revision/latest?cb=20160213024101", CARTOON NETWORK 2
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
+https://blackghost.live/play/totalp1-129.php?c=113&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR
+https://blackghost.live/play/totalp1-129.php?c=118&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
+https://blackghost.live/play/totalp1-129.php?c=2147&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR 
+https://blackghost.live/play/totalp1-129.php?c=117&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/2560px-Nicktoons_Network_logo_2009.svg.png", NICKTOONS 
+https://blackghost.live/play/totalp1-129.php?c=1708&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
+https://blackghost.live/play/totalp1-129.php?c=115&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST
+https://blackghost.live/play/totalp1-129.php?c=108&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
+https://cablelatino.xyz/hls/ENMA/DKIDS.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", BABY TV 
+https://cablelatino.xyz/hls/ENMA/BABYTV.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png", BABY FIRST
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1984&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS  
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2373&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", BIT ME  
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2591&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/340?cb=20200125124642&path-prefix=es", LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png", FOX HD 
+https://cablelatino.xyz/hls/ENMA/FOX.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/470px-Warner_Bros._%282019%29_logo.svg.png", WARNER HD 
+https://cablelatino.xyz/hls/ENMA/WARNER.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://images.vectorhq.com/images/previews/8ea/universal-logo-psd-456169.png", UNIVERSAL HD
+https://cablelatino.xyz/hls/ENMA/UNIVERSAL.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg", STUDIO UNIRVESAL
+https://cablelatino.xyz/hls/ENMA/STUDIOUNIVERSAL.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
+https://cablelatino.xyz/hls/ENMA/FX.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD
+https://cablelatino.xyz/hls/ENMA/SONY.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
+https://cablelatino.xyz/hls/ENMA/SPACE.m3u8
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
+https://cablelatino.xyz/hls/ENMA/FXM.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
+https://cablelatino.xyz/hls/ENMA/HBO.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png", HBO 2
+https://cablelatino.xyz/hls/ENMA/HBO2.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
+https://cablelatino.xyz/hls/ENMA/HBOFAMILY.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png", HBO COMEDY
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" nade="Cultura" group-title="Lista 19", Animal Planet
-https://cablelatino.xyz/hls/LIAM/ANIMALPLANET.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" nade="Cultura" group-title="Lista 19", Discovery Channel
-https://cablelatino.xyz/hls/LIAM/DISCOVERY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" nade="Cultura" group-title="Lista 19", Discovery Turbo
-https://cablelatino.xyz/hls/LIAM/DTURBO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" nade="Cultura" group-title="Lista 19", Discovery World
-https://cablelatino.xyz/hls/LIAM/DWORLD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" nade="Cultura" group-title="Lista 19", Discovery Theater
-https://cablelatino.xyz/hls/LIAM/DTHEATER.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" nade="Cultura" group-title="Lista 19", Discovery Sciences
-https://cablelatino.xyz/hls/LIAM/DSCIENCES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" nade="Cultura" group-title="Lista 19", Discovery H&H
-https://cablelatino.xyz/hls/LIAM/DHYH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zp8RIL3.jpg" nade="Cultura" group-title="Lista 19", Investigation Discovery
-https://cablelatino.xyz/hls/LIAM/ID.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" nade="Cultura" group-title="Lista 19", TLC
-https://cablelatino.xyz/hls/LIAM/TLC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" nade="Cultura" group-title="Lista 19", History Channel
-https://cablelatino.xyz/hls/LIAM/HISTORY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" nade="Cultura" group-title="Lista 19", History 2
-https://cablelatino.xyz/hls/LIAM/H2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" nade="Cultura" group-title="Lista 19", NATGEO
-https://cablelatino.xyz/hls/LIAM/NATGEO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YFDNnoK.jpg" nade="Cultura" group-title="Lista 19", NATGEO Wild
-https://cablelatino.xyz/hls/LIAM/NATGEOWILD.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" nade="Cultura" group-title="Lista 19", A&E
-https://cablelatino.xyz/hls/LIAM/AYE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" nade="Cultura" group-title="Lista 19", El Gourmet
-https://cablelatino.xyz/hls/LIAM/ELGOURMET.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CEJRI4O.jpg" nade="Cultura" group-title="Lista 19", ComedyCentral
-https://cablelatino.xyz/hls/LIAM/COMEDYCENTRAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pWW9ljW.jpg" nade="Cultura" group-title="Lista 19", Distrito Comedia
-https://cablelatino.xyz/hls/LIAM/DISTRITOCOMEDIA.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png", HBO ZONE
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yA2sydz.png" nade="Entretenimiento" group-title="Lista 19", Star Channel
-https://cablelatino.xyz/hls/LIAM/FOX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/He33NZC.png" nade="Entretenimiento" group-title="Lista 19", Star Life
-https://cablelatino.xyz/hls/LIAM/FOXLIFE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4krdlGM.png" nade="Entretenimiento" group-title="Lista 19", Star Action
-https://cablelatino.xyz/hls/LIAM/FOXACTION.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u2lgAVF.png" nade="Entretenimiento" group-title="Lista 19", Star Cinema
-https://cablelatino.xyz/hls/LIAM/FOXCINEMA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/U5TMnGD.png" nade="Entretenimiento" group-title="Lista 19", Star Comedy
-https://cablelatino.xyz/hls/LIAM/FOXCOMEDY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qLXeX12.png" nade="Entretenimiento" group-title="Lista 19", Star Classic
-https://cablelatino.xyz/hls/LIAM/FOXCLASSIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/49Z7vBe.png" nade="Entretenimiento" group-title="Lista 19", Star Fun
-https://cablelatino.xyz/hls/LIAM/FOXFAMILY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZBgJDA2.png" nade="Entretenimiento" group-title="Lista 19", Star Series
-https://cablelatino.xyz/hls/LIAM/FOXSERIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O5IvT7k.png" nade="Entretenimiento" group-title="Lista 19", Star Hits
-https://cablelatino.xyz/hls/LIAM/FOXMOVIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" nade="Entretenimiento" group-title="Lista 19", HBO
-https://cablelatino.xyz/hls/LIAM/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" nade="Entretenimiento" group-title="Lista 19", HBO2
-https://cablelatino.xyz/hls/LIAM/HBO2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" nade="Entretenimiento" group-title="Lista 19", HBO PLUS
-https://cablelatino.xyz/hls/LIAM/HBOPLUS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" nade="Entretenimiento" group-title="Lista 19", HBO FAMILY
-https://cablelatino.xyz/hls/LIAM/HBOFAMILY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" nade="Entretenimiento" group-title="Lista 19", HBO SIGNATURE
-https://cablelatino.xyz/hls/LIAM/HBOSIGNATURE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" nade="Entretenimiento" group-title="Lista 19", HBO MUNDI
-https://cablelatino.xyz/hls/LIAM/HBOMUNDI.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" nade="Entretenimiento" group-title="Lista 19", HBO POP
-https://cablelatino.xyz/hls/LIAM/HBOPOP.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" nade="Entretenimiento" group-title="Lista 19", HBO XTREME
-https://cablelatino.xyz/hls/LIAM/HBOXTREME.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" nade="Entretenimiento" group-title="Lista 19", AMC
-https://cablelatino.xyz/hls/LIAM/AMC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" nade="Entretenimiento" group-title="Lista 19", Warner TV
-https://cablelatino.xyz/hls/LIAM/WARNER.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" nade="Entretenimiento" group-title="Lista 19", Universal TV
-https://cablelatino.xyz/hls/LIAM/UNIVERSAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" nade="Entretenimiento" group-title="Lista 19", FX
-https://cablelatino.xyz/hls/LIAM/FX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XPgR9ky.jpg" nade="Entretenimiento" group-title="Lista 19", FXM
-https://cablelatino.xyz/hls/LIAM/FXM.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" nade="Entretenimiento" group-title="Lista 19", AXN
-https://cablelatino.xyz/hls/LIAM/AXN.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" nade="Entretenimiento" group-title="Lista 19", Sony Channel
-https://cablelatino.xyz/hls/LIAM/SONY.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dAQL5tZ.jpg" nade="Entretenimiento" group-title="Lista 19", TNT
-https://cablelatino.xyz/hls/LIAM/TNT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" nade="Entretenimiento" group-title="Lista 19", TNT Series
-https://cablelatino.xyz/hls/LIAM/TNTSERIES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" nade="Entretenimiento" group-title="Lista 19", Space
-https://cablelatino.xyz/hls/LIAM/SPACE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" nade="Entretenimiento" group-title="Lista 19", Studio Universal
-https://cablelatino.xyz/hls/LIAM/STUDIOUNIVERSAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" nade="Entretenimiento" group-title="Lista 19", TBS
-https://cablelatino.xyz/hls/LIAM/TBS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ysV38FI.jpg" nade="Entretenimiento" group-title="Lista 19", TCM
-https://cablelatino.xyz/hls/LIAM/TCM.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tOWSdVk.jpg" nade="Entretenimiento" group-title="Lista 19", Cinecanal
-https://cablelatino.xyz/hls/LIAM/CINECANAL.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" nade="Entretenimiento" group-title="Lista 19", Cinemax
-https://cablelatino.xyz/hls/LIAM/CINEMAX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" nade="Entretenimiento" group-title="Lista 19", Paramount Channel
-https://cablelatino.xyz/hls/LIAM/PARAMOUNT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DuBfKVG.jpg" nade="Entretenimiento" group-title="Lista 19", Golden
-https://cablelatino.xyz/hls/LIAM/GOLDEN.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DuBfKVG.jpg" nade="Entretenimiento" group-title="Lista 19", Golden Premier
-https://cablelatino.xyz/hls/LIAM/GOLDENPREMIER.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9FRWYm.png" nade="Entretenimiento" group-title="Lista 19", DEPELICULA
-https://cablelatino.xyz/hls/LIAM/DEPELICULA.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
+https://cablelatino.xyz/hls/ENMA/HBOPLUS.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png" ,HBO POP
+https://cablelatino.xyz/hls/ENMA/HBOPOP.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
+https:https://cablelatino.xyz/hls/ENMA/HBOMUNDI.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
+https://cablelatino.xyz/hls/ENMA/HBOXTREME.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://sc.dish.com/shared/images/station-logos/HBO.PNG", HBO EAST
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" ,HBO SIGNATURE
+https://cablelatino.xyz/hls/ENMA/HBOSIGNATURE.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=59&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
+https://hostcloud.network/live/delpiero1537/Rpo78218/3705.m3u8
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
+https://cablelatino.xyz/hls/ENMA/AXN.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA + 
+https://cablelatino.xyz/hls/ENMA/DEPELICULA.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN
+https://cablelatino.xyz/hls/ENMA/GOLDEN.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN + PLUS
+https://cablelatino.xyz/hls/ENMA/GOLDENPREMIER.m3u8 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
+https://blackghost.live/play/totalp1-102.php?c=124&p=3&k=black&f=.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" nade="Musica" group-title="Lista 19", MTV
-https://cablelatino.xyz/hls/LIAM/MTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" nade="Musica" group-title="Lista 19", MTV Live
-https://cablelatino.xyz/hls/LIAM/MTVLIVE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZAEfS2l.jpg" nade="Musica" group-title="Lista 19", MTV Hits
-https://cablelatino.xyz/hls/LIAM/MTVHITS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" nade="Musica" group-title="Lista 19", VH1 CLASSIC
-https://cablelatino.xyz/hls/LIAM/VH1CLASSIC.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jD15gnL.jpg" nade="Musica" group-title="Lista 19", VH1
-https://cablelatino.xyz/hls/LIAM/VH1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" nade="Deportes" group-title="Lista 19", DIRECTV SPORT
-https://cablelatino.xyz/hls/LIAM/DIRECTV_SPORT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" nade="Deportes" group-title="Lista 19", DIRECTV SPORT 2
-https://cablelatino.xyz/hls/LIAM/DIRECTV_SPORT2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" nade="Deportes" group-title="Lista 19", DIRECTV SPORT PLUS
-https://cablelatino.xyz/hls/LIAM/DIRECTV_SPORTPLUS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TIGfZjN.jpg" nade="Deportes" group-title="Lista 19", AyM Sport
-https://cablelatino.xyz/hls/LIAM/AYMSPORT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" nade="Deportes" group-title="Lista 19", Fox Sport LAT
-https://cablelatino.xyz/hls/LIAM/FOXSPORT_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" nade="Deportes" group-title="Lista 19", Fox Sport 2 LAT
-https://cablelatino.xyz/hls/LIAM/FOXSPORT2_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" nade="Deportes" group-title="Lista 19", Fox Sport 3 LAT
-https://cablelatino.xyz/hls/LIAM/FOXSPORT3_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" nade="Deportes" group-title="Lista 19", Fox Sport MEX
-https://cablelatino.xyz/hls/LIAM/FOXSPORT_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" nade="Deportes" group-title="Lista 19", Fox Sport 2 MEX
-https://cablelatino.xyz/hls/LIAM/FOXSPORT2_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NDWwKQI.jpg" nade="Deportes" group-title="Lista 19", Fox Sport 3 MEX
-https://cablelatino.xyz/hls/LIAM/FOXSPORT3_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" nade="Deportes" group-title="Lista 19", ESPN LAT
-https://cablelatino.xyz/hls/LIAM/ESPN_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" nade="Deportes" group-title="Lista 19", ESPN 2 LAT
-https://cablelatino.xyz/hls/LIAM/ESPN2_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" nade="Deportes" group-title="Lista 19", ESPN 3 LAT
-https://cablelatino.xyz/hls/LIAM/ESPN3_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" nade="Deportes" group-title="Lista 19", ESPN EXTRA LAT
-https://cablelatino.xyz/hls/LIAM/ESPNPLUS_LAT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" nade="Deportes" group-title="Lista 19", ESPN MEX
-https://cablelatino.xyz/hls/LIAM/ESPN_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" nade="Deportes" group-title="Lista 19", ESPN 2 MEX
-https://cablelatino.xyz/hls/LIAM/ESPN2_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" nade="Deportes" group-title="Lista 19", ESPN 3 MEX
-https://cablelatino.xyz/hls/LIAM/ESPN3_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZzDBSyC.jpg" nade="Deportes" group-title="Lista 19", ESPN EXTRA MEX
-https://cablelatino.xyz/hls/LIAM/ESPNPLUS_MEX.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lLeq98m.png" nade="Deportes" group-title="Lista 19", ECDF : El Canal del Futbol 
-https://cablelatino.xyz/hls/LIAM/ECDF.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" nade="Deportes" group-title="Lista 19", GOLTV
-https://cablelatino.xyz/hls/LIAM/GOLTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" nade="Deportes" group-title="Lista 19", GOLTV ALT
-https://cablelatino.xyz/hls/LIAM/GOLTV2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" nade="Deportes" group-title="Lista 19", CLARO SPORT
-https://cablelatino.xyz/hls/LIAM/CLAROSPORT.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a70GlGB.jpg" nade="Deportes" group-title="Lista 19", CLARO SPORT 2
-https://cablelatino.xyz/hls/LIAM/CLAROSPORT2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mptxVUO.png" nade="Deportes" group-title="Lista 19", TUDN USA
-https://cablelatino.xyz/hls/LIAM/TUDN_USA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qyrzMjg.jpg" nade="Deportes" group-title="Lista 19", GOLF TV
-https://cablelatino.xyz/hls/LIAM/GOLFTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjWnkUZ.png" nade="Deportes" group-title="Lista 19", GARAGE TV
-https://cablelatino.xyz/hls/LIAM/GARAGETV.m3u8
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png", GOLDEN PREMIER
+https://cablelatino.xyz/hls/BIEL/GOLDENPREMIER.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
+https://cablelatino.xyz/hls/ENMA/TNT.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT  HD
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
+https://cablelatino.xyz/hls/ENMA/TNTSERIES.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
+https://cablelatino.xyz/hls/ENMA/TCM.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://pbs.twimg.com/media/Eu0oNWuXUAYk3BZ.jpg", FOX FUN
+https://cablelatino.xyz/hls/ENMA/FOXFAMILY.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.pinimg.com/originals/98/c7/a2/98c7a27e08ffa9efd7cb0cc06089ef15.png", FOX MOVIES 
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=146&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png", FOX SERIES
+https://cablelatino.xyz/hls/ENMA/FOXSERIES.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png",FOX COMEDY
+https://cablelatino.xyz/hls/ENMA/FOXCOMEDY.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png", FOX ACTION HD
+https://cablelatino.xyz/hls/ENMA/FOXACTION.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.2428530_FoxPremiumCinema.png.9e13f022cada8ee9b258d5089390c951.png", FOX CINEMA 
+https://cablelatino.xyz/hls/ENMA/FOXCINEMA.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.pngkey.com/png/full/26-266061_fox-life-logo-fox-life-tv-logo.png", FOX LIFE
+https://cablelatino.xyz/hls/ENMA/FOXLIFE.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://3.bp.blogspot.com/-Q_uXu6K_tAQ/W6locnMlULI/AAAAAAAAAIA/CvL73g4tULIuIuxWyezLmx8wvsdh3OcpQCPcBGAYYCw/s1600/foxclassicpremium.png", FOX CLASSICS 
+https://cablelatino.xyz/hls/ENMA/FOXCLASSIC.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.imgur.com/O5IvT7k.png", FOX HITS
+https://cablelatino.xyz/hls/ENMA/FOXMOVIES.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Thunder Cats
-https://cablelatino.xyz/hls/LIAM/247_THUNDERCATS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Los Simpsons
-https://cablelatino.xyz/hls/LIAM/247_SIMPSONS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Los Simpsons [2]
-https://cablelatino.xyz/hls/LIAM/247_SIMPSON.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Malcolm el de enmedio
-https://cablelatino.xyz/hls/LIAM/247_MALCOLM.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Alf
-https://cablelatino.xyz/hls/LIAM/247_ALF.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Animaniatics
-https://cablelatino.xyz/hls/LIAM/247_ANIMANIATICS.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Bob Esponja
-https://cablelatino.xyz/hls/LIAM/247_BOBESPONJA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | El Chavo del 8
-https://cablelatino.xyz/hls/LIAM/247_CHAVO.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Futurama
-https://cablelatino.xyz/hls/LIAM/247_FUTURAMA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Pantera Rosa
-https://cablelatino.xyz/hls/LIAM/247_PANTERAROSA.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Teoria del Bing Bang
-https://cablelatino.xyz/hls/LIAM/247_BINGBANG.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Pokemon
-https://cablelatino.xyz/hls/LIAM/247_POKEMON.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Smallville
-https://cablelatino.xyz/hls/LIAM/247_SMALLVILLE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Como conoci a tu madre
-https://cablelatino.xyz/hls/LIAM/247_MADRE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Supercampeones
-https://cablelatino.xyz/hls/LIAM/247_SUPERCAMPEONES.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" nade="24/7" group-title="Lista 19", 24/7 | Peliculas
-https://cablelatino.xyz/hls/LIAM/247_PELICULAS.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE 
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=3112&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://brandemia.org/contenido/subidas/2015/11/tbs-cabecera-960x474.jpg", TBS 
+https://cablelatino.xyz/hls/ENMA/TBS.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Cinecanal_2016.svg/revision/latest/scale-to-width-down/350?cb=20200325142424&path-prefix=es", CINECANAL
+https://cablelatino.xyz/hls/ENMA/CINECANAL.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX 
+https://cablelatino.xyz/hls/ENMA/CINEMAX.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC  
+https://cablelatino.xyz/hls/ENMA/AMC.m3u8
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_255.png", PARAMOUNT CHANNEL
+https://cablelatino.xyz/hls/ENMA/PARAMOUNT.m3u8
+
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png", AZ CINEMA 
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=1787&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=2113&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png", E!
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=55&p=3&k=srregio&f=.m3u8
+
+*** MUSICA ***
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
+https://cablelatino.xyz/hls/ENMA/MTVLIVE.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png", MTV
+https://cablelatino.xyz/hls/ENMA/MTV.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS 
+https://cablelatino.xyz/hls/ENMA/MTVHITS.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1200px-LOGO_VH1_CLASSIC.svg.png", VH1 CLASSIC 
+https://cablelatino.xyz/hls/ENMA/VH1CLASSIC.m3u8
+
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png", NICK MUSIC
+https://cablelatino.xyz/hls/BIEL/NICKMUSIC.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Telehit_Urbano_Logo.png", TELEHIT URBANO
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=218&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="musica" tvg-logo="https://1.bp.blogspot.com/-qDqGC41GMxs/X07ayd7uyYI/AAAAAAAA6R4/b2nUxGj4x5IhqNVVNN2mbZGsU6DPXhD9QCLcBGAsYHQ/s400/telehit-2018.png", TELEHIT +
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=220&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/250?cb=20150806182241", BANDAMAX
+http://regioplay.xyz/php/SR_REGIO_130921_/tp.php?c=221&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
+https://cablelatino.xyz/hls/ENMA/VH1.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://i.imgur.com/897e9wy.png", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="musica",VIDEO ROLA
+http://201.168.205.12:8000/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png", Top latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/playlist.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png",LATINO UP
+https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="musica" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/large.musictop_poster_-_copia.png.3681a31fef51ae9014cf64b2763b5f50.png",MUSICA TOP
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="http://www.topmusic.com.mx/img/music-club-logo-1466528095.jpg",TOP MUSIC
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png",TVEXITOS
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png",MUSICA POP
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png",MUSICA ROCK
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png",MUSICA HITS
+https://livelist01.yowi.tv/lista/5e2db2017a8fd03f73b40ede363d1a586db4e9a6/master.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png",MUSICA REMEMBER
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/relax-hqm-logo.png",MUSICA RELAX
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
