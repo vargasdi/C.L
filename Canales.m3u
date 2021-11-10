@@ -96,23 +96,23 @@ http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=129&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
 http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=138&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
-
+http://45.232.178.10:8000/play/a01u
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png", HBO 2
-
+http://45.232.178.10:8000/play/a00j
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
-
+http://45.232.178.10:8000/play/a00m
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png", HBO COMEDY
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png", HBO ZONE
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
-
+http://45.232.178.10:8000/play/a00k
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png" ,HBO POP
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
-
+http://45.232.178.10:8000/play/a00l
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://sc.dish.com/shared/images/station-logos/HBO.PNG", HBO EAST
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" ,HBO SIGNATURE
