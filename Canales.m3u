@@ -225,7 +225,15 @@ http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=178&p=3&k=srregio&f=.m3u8
 wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", ADRENALINA SPORTS HD
 http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=1799&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png", CLARO SPORTS HD  
-http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=2564&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=2564&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="deportes", DirecTV Sports
+http://ytv.plus:25461/live/mercedes/1234/2304.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg" group-title="deportes", DirecTV Sports
+http://ytv.plus:25461/live/mercedes/1234/2303.m3u8
+#EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/2000px-Sky_Sports_logo_2017.svg-2000x421-609248257.png" group-title="deportes", SKY SPORTS 
+http://ytv.plus:25461/live/mercedes/1234/13601.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH66H2Jb0G5rHnYaWCkBE6pmFseodtj2l3ZZ9mpjtrKgK1vK5ZaggTprWKEUfrZVNNGw&usqp=CAU" group-title="deportes", SKY SPORTS 2
+http://ytv.plus:25461/live/mercedes/1234/13602.m3u8
 
 *** CULTURALES ***
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png", DISCOVERY ID
