@@ -90,6 +90,8 @@ http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=132&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
 http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=209&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD
+https://hostcloud.network/live/delpiero1537/Rpo78218/3652.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY
 http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=48&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
 http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=129&p=3&k=srregio&f=.m3u8  
@@ -122,7 +124,9 @@ hhttp://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=59&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
 http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=62&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
-http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=64&p=3&k=srregio&f=.m3u8  
+http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=64&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN HD
+https://hostcloud.network/live/delpiero1537/Rpo78218/3703.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA + 
 http://regioplay.xyz/php/SR_REGIO_101112_/tp.php?c=121&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1,group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" , DE PELICULA 
