@@ -34,9 +34,12 @@ https://blackghost.live/play/totalp1-112.php?c=66&p=3&k=black&f=.m3u8
 https://blackghost.live/play/totalp1-112.php?c=83&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", DISTRITO COMEDIA
 https://blackghost.live/play/totalp1-112.php?c=78&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", DISTRITO COMEDIA 1
+https://hostcloud.network/live/delpiero1537/Rpo78218/103823.m3u8
 #EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
 https://blackghost.live/play/totalp1-112.php?c=340&p=3&k=black&f=.m3u8
-
+#EXTINF:-1 group-title="novelas y comedia" tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL HD
+https://hostcloud.network/live/delpiero1537/Rpo78218/3696.m3u8
 
 
 
@@ -61,7 +64,7 @@ https://blackghost.live/play/totalp1-112.php?c=1708&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
 https://blackghost.live/play/totalp1-112.php?c=115&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST
-https://blackghost.live/play/totalp1-112.php?c=108&p=3&k=black&f=.m3u8
+https://hostcloud.network/live/delpiero1537/Rpo78218/103824.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
 https://blackghost.live/play/totalp1-112.php?c=109&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", BABY TV 
@@ -95,11 +98,11 @@ https://blackghost.live/play/totalp1-112.php?c=129&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
 https://blackghost.live/play/totalp1-112.php?c=138&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
-
+https://hostcloud.network/live/delpiero1537/Rpo78218/3656.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png", HBO 2
-
+https://hostcloud.network/live/delpiero1537/Rpo78218/3655.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
-
+https://hostcloud.network/live/delpiero1537/Rpo78218/8837.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png", HBO COMEDY
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png", HBO ZONE
