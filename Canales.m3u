@@ -181,6 +181,8 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=218&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=220&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/250?cb=20150806182241", BANDAMAX
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=221&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/250?cb=20150806182241", BANDAMAX HD
+http://50.7.128.186:8070/live/FM10008/ee54fb4b/9122.m3u8?token=ShUNAEFcElxECARWXVpXVFkDUwcDAAcPVAlUUQIBWFcJBgBTAg1VUFcaGEZKTREDAFhpWAUVDwAHA1FOFRcSBkNoDAUQDhJXUw0BVgEbT0QVXFtUQw0FFRRBCgYVWENQAA5UUhAYEgMeTFEWV1gPOQVQQFgCUhcDWEQPDhtADg1uUwAMU1pURFwaBEYVGwoVERcMXxRbWRUUUwoWRQMVBhMNR1AAAQJEShpXC0xXFxQYFwwTJHIXFRRUGxZSDBIKXllHWxBZAxNeGhhGUEo8FARGQkMEVlhcRBNZQAdATUFcVh0+UVteCANbQA1WVxBEWxcEE00VWFZYWBcNRT0RClUVX0MABwRTURpJ
 #EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=334&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="musica" tvg-logo="https://i.imgur.com/897e9wy.png", Teleritmo
