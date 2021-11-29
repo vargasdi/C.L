@@ -95,8 +95,7 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3652.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=48&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=129&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE HD
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
+
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=138&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
@@ -123,12 +122,11 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=122&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=124&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png", GOLDEN PREMIER
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=126&p=3&k=srregio&f=.m3u8  
-#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT HD
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
+
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=71&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
@@ -186,8 +184,6 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=218&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=220&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/250?cb=20150806182241", BANDAMAX
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=221&p=3&k=srregio&f=.m3u8
-#EXTINF:-1 group-title="musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/250?cb=20150806182241", BANDAMAX HD
-http://50.7.128.186:8070/live/FM10008/ee54fb4b/9122.m3u8?token=ShUNAEFcElxECARWXVpXVFkDUwcDAAcPVAlUUQIBWFcJBgBTAg1VUFcaGEZKTREDAFhpWAUVDwAHA1FOFRcSBkNoDAUQDhJXUw0BVgEbT0QVXFtUQw0FFRRBCgYVWENQAA5UUhAYEgMeTFEWV1gPOQVQQFgCUhcDWEQPDhtADg1uUwAMU1pURFwaBEYVGwoVERcMXxRbWRUUUwoWRQMVBhMNR1AAAQJEShpXC0xXFxQYFwwTJHIXFRRUGxZSDBIKXllHWxBZAxNeGhhGUEo8FARGQkMEVlhcRBNZQAdATUFcVh0+UVteCANbQA1WVxBEWxcEE00VWFZYWBcNRT0RClUVX0MABwRTURpJ
 #EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=334&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="musica" tvg-logo="https://i.imgur.com/897e9wy.png", Teleritmo
