@@ -95,6 +95,8 @@ https://hostcloud.network/live/delpiero1537/Rpo78218/3652.m3u8
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=48&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=129&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE HD
+http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/Stream(05)/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=138&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
@@ -121,9 +123,12 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=122&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=124&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png", GOLDEN PREMIER
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=126&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT HD
+http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/Stream(06)/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=71&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
@@ -189,6 +194,8 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=334&p=3&k=srregio&f=.m3u8
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="musica",VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="musica", Music Top
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:-1 group-title="musica" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="musica" tvg-logo="https://www.coolstreaming.us/img/ch/image17015105905.jpg", ibiza global tv
@@ -252,11 +259,11 @@ https://blackghost.live/play/totalp1-119.php?c=98&p=3&k=black&f=.m3u8
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png", TVE
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=198&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://logopond.com/logos/15be24c2faf8f1b9c023fdbe05b7967b.png", SHOPPING
-https://live.telelatinohd.com/hls/ms148e8mxraxmpll/135_.m3u8?token=GbzaVMYz7ecvAbiIHN0YfQ&expires=1637874624&ip=177.228.7.136
+http://static.brazzers.com/scenes/3328/180sec.flv
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png", FOOD NETWORK 
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2145&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", STAR TVE 
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2145&p=3&k=srregio&f=.m3u8
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=2379&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png", CURIOSITY STREAM
