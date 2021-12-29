@@ -125,29 +125,32 @@ http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=124&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=126&p=3&k=srregio&f=.m3u8  
-
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT HD
+http://201.111.25.106:8000/play/a05f/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=71&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES HD
+http://201.111.25.106:8000/play/a053/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=128&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://pbs.twimg.com/media/Eu0oNWuXUAYk3BZ.jpg", FOX FUN
-
+http://201.111.25.106:8000/play/a05p/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.pinimg.com/originals/98/c7/a2/98c7a27e08ffa9efd7cb0cc06089ef15.png", FOX MOVIES 
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=146&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png", FOX SERIES
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=139&p=3&k=srregio&f=.m3u8  
+http://201.111.25.106:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png",FOX COMEDY
-
+http://201.111.25.106:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png", FOX ACTION HD
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=336&p=3&k=srregio&f=.m3u8 
+http://201.111.25.106:8000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.2428530_FoxPremiumCinema.png.9e13f022cada8ee9b258d5089390c951.png", FOX CINEMA 
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1729&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.pngkey.com/png/full/26-266061_fox-life-logo-fox-life-tv-logo.png", FOX LIFE
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=77&p=3&k=srregio&f=.m3u8  
+http://201.111.25.106:8000/play/a06n/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://3.bp.blogspot.com/-Q_uXu6K_tAQ/W6locnMlULI/AAAAAAAAAIA/CvL73g4tULIuIuxWyezLmx8wvsdh3OcpQCPcBGAYYCw/s1600/foxclassicpremium.png", FOX CLASSICS 
-http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=1732&p=3&k=srregio&f=.m3u8
+http://201.111.25.106:8000/play/a05q/index.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.imgur.com/O5IvT7k.png", FOX HITS
-
+http://201.111.25.106:8000/play/a05n/index.m3u8
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE 
 http://regioplay.xyz/php/SR_REGIO_411112_/tp.php?c=3112&p=3&k=srregio&f=.m3u8
