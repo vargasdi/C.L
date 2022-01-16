@@ -96,11 +96,21 @@ http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=129&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=138&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
-http://201.182.242.135:12002/play/a09u/index.m3u8
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/live/XQSItjtmUH/ePxNu77wsp/610.ts|user-agent=HoynklrCLNAqp734HDLNSfwbdfFV7HaHUQqp734HDKSf5673hss53dv
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png", HBO 2
-http://201.182.242.135:12002/play/a09z/index.m3u8
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/live/XQSItjtmUH/ePxNu77wsp/611.ts|user-agent=HoynklrCLNAqp734HDLNSfwbdfFV7HaHUQqp734HDKSf5673hss53dv
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
-http://201.182.242.135:12002/play/a0aw/index.m3u8
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/live/XQSItjtmUH/ePxNu77wsp/612.ts|user-agent=HoynklrCLNAqp734HDLNSfwbdfFV7HaHUQqp734HDKSf5673hss53dv
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Plus
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/live/XQSItjtmUH/ePxNu77wsp/613.ts|user-agent=HoynklrCLNAqp734HDLNSfwbdfFV7HaHUQqp734HDKSf5673hss53dv
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO signature
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/live/XQSItjtmUH/ePxNu77wsp/614.ts|user-agent=HoynklrCLNAqp734HDLNSfwbdfFV7HaHUQqp734HDKSf5673hss53dv
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Extreme
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/live/XQSItjtmUH/ePxNu77wsp/615.ts|user-agent=HoynklrCLNAqp734HDLNSfwbdfFV7HaHUQqp734HDKSf5673hss53dv
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Pop
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/live/XQSItjtmUH/ePxNu77wsp/616.ts|user-agent=HoynklrCLNAqp734HDLNSfwbdfFV7HaHUQqp734HDKSf5673hss53dv
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO Mundi
+http://ns7t5r8t4v7f6c4w5tb9fz8w.xyz:80/live/XQSItjtmUH/ePxNu77wsp/617.ts|user-agent=HoynklrCLNAqp734HDLNSfwbdfFV7HaHUQqp734HDKSf5673hss53dv
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
 http://regioplay.xyz/php/SR_REGIO_511022_/tpa.php?c=59&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
