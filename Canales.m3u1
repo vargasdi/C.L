@@ -272,6 +272,14 @@ http://regioplay.xyz/php/SR_REGIO_422022_/tpa.php?c=2379&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png", CURIOSITY STREAM
 https://blackghost.live/play/totalp1-119.php?c=2594&p=3&k=black&f=.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball" tvg-logo="http://51.222.152.107:81/posters/1610693333234.jpg" group-title="24/7 ",Dragon Ball
+https://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3360
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="http://51.222.152.107:81/posters/1610693353495.jpg" group-title="24/7 ",Dragon Ball GT
+https://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3361
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="http://51.222.152.107:81/posters/1610693370278.jpg" group-title="24/7 ",Dragon Ball Super
+https://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3362
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="http://51.222.152.107:81/posters/1610693387238.jpg" group-title="24/7 ",Dragon Ball Z
+https://gratis.shortgod.com/gratisenshortgod/tv1.php?c=3363
 
 #EXTINF:-1 group-title="peliculas" tvg-logo="https://img.ecartelera.com/noticias/fotos/66900/66992/2.jpg", Spider Man No Way Home 2021 | REGIOFLIX
 http://regioplay.xyz/php/SR_REGIO_402022_/SpiderManNoWayHome.php?f=.mp4
