@@ -94,6 +94,23 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=129&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=126&p=3&k=srregio&f=.m3u8 
 
+
+#EXTINF:-1 group-title="HBO",HBO
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/304.m3u8
+#EXTINF:-1 group-title="HBO",HBO Signature
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/305.m3u8
+#EXTINF:-1 group-title="HBO",HBO Comedy
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/306.m3u8
+#EXTINF:-1 group-title="HBO",HBO East
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/307.m3u8
+#EXTINF:-1 group-title="HBO",HBO Family
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/308.m3u8
+#EXTINF:-1 group-title="HBO",HBO West
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/309.m3u8
+#EXTINF:-1 group-title="HBO",HBO 2
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/310.m3u8
+
+
 ENTRETENIMIENTO 1
 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
@@ -206,7 +223,7 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=1799&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png", CLARO SPORTS HD  
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=2564&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="deportes", DirecTV Sports
-http://ytv.plus:25461/live/mercedes/1234/2302.m3u8
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/382.m3u8
 #EXTINF:-1 tvg-logo="https://www.pandaancha.mx/plds/articulos/froala/2000px-Sky_Sports_logo_2017.svg-2000x421-609248257.png" group-title="deportes", SKY SPORTS 
 http://ytv.plus:25461/live/mercedes/1234/13601.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH66H2Jb0G5rHnYaWCkBE6pmFseodtj2l3ZZ9mpjtrKgK1vK5ZaggTprWKEUfrZVNNGw&usqp=CAU" group-title="deportes", SKY SPORTS 2
@@ -249,3 +266,9 @@ http://blackghost.live/play/gnula-123.php?u=user1&c=131757.m3u8|User-Agent=VLC/3
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=2379&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png", CURIOSITY STREAM
 https://blackghost.live/play/totalp1-119.php?c=2594&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 group-title="SERIES ANIM",Dragon Ball Super 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/413.m3u8
+#EXTINF:-1 group-title="SERIES ANIM",Los Simpsons 24/7
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/414.m3u8
+
