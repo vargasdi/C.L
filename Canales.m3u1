@@ -95,22 +95,16 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=129&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=126&p=3&k=srregio&f=.m3u8 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBO", HBO 
-http://tv.teleclub.xyz/live/MARZO_01/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="HBO", HBO 2 
-http://tv.teleclub.xyz/live/MARZO_01/HBO2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="HBO", HBO Plus 
-http://tv.teleclub.xyz/live/MARZO_01/HBO_PLUS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="HBO", HBO Mundi 
-http://tv.teleclub.xyz/live/MARZO_01/HBO_MUNDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="HBO", HBO Pop 
-http://tv.teleclub.xyz/live/MARZO_01/HBO_POP/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="HBO", HBO Signature 
-http://tv.teleclub.xyz/live/MARZO_01/HBO_SIGNATURE/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBO", HBO Xtreme 
-http://tv.teleclub.xyz/live/MARZO_01/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="HBO", HBO 2
+http://tv.teleclub.xyz/live/MARZO_02/HBO2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="HBO", HBO Pop
+http://tv.teleclub.xyz/live/MARZO_02/HBO_POP/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="HBO", HBO Signatur
+http://tv.teleclub.xyz/live/MARZO_02/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBO", HBO Xtreme
+http://tv.teleclub.xyz/live/MARZO_02/HBO_XTREME/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="HBO", HBO Family
-http://tv.teleclub.xyz/live/MARZO_01/HBO_FAMILY/index.m3u8
+http://tv.teleclub.xyz/live/MARZO_02/HBO_FAMILY/index.m3u8
 
 
 ENTRETENIMIENTO 1
