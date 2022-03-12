@@ -116,7 +116,8 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=124&p=3&k=srregio&f=.m3u8
 
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=71&p=3&k=srregio&f=.m3u8 
-
+#EXTINF:-1 group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
+http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=128&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://pbs.twimg.com/media/Eu0oNWuXUAYk3BZ.jpg", FOX FUN
@@ -152,8 +153,6 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=131&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=1726&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png", AZ CINEMA 
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=1787&p=3&k=srregio&f=.m3u8 
-#EXTINF:-1 group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
-http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=2113&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png", E!
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=55&p=3&k=srregio&f=.m3u8 
 
