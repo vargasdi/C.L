@@ -95,20 +95,22 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=129&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=126&p=3&k=srregio&f=.m3u8 
 
 
-#EXTINF:-1 group-title="HBO",HBO
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/304.m3u8
-#EXTINF:-1 group-title="HBO",HBO Signature
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/305.m3u8
-#EXTINF:-1 group-title="HBO",HBO Comedy
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/306.m3u8
-#EXTINF:-1 group-title="HBO",HBO East
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/307.m3u8
-#EXTINF:-1 group-title="HBO",HBO Family
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/308.m3u8
-#EXTINF:-1 group-title="HBO",HBO West
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/309.m3u8
-#EXTINF:-1 group-title="HBO",HBO 2
-http://alv.encohd.co:39591/live/j0roNAC/n3XT33/310.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="HBO", HBO 
+http://tv.teleclub.xyz/live/MARZO_01/HBO/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="HBO", HBO 2 
+http://tv.teleclub.xyz/live/MARZO_01/HBO2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="HBO", HBO Plus 
+http://tv.teleclub.xyz/live/MARZO_01/HBO_PLUS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="HBO", HBO Mundi 
+http://tv.teleclub.xyz/live/MARZO_01/HBO_MUNDI/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="HBO", HBO Pop 
+http://tv.teleclub.xyz/live/MARZO_01/HBO_POP/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="HBO", HBO Signature 
+http://tv.teleclub.xyz/live/MARZO_01/HBO_SIGNATURE/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="HBO", HBO Xtreme 
+http://tv.teleclub.xyz/live/MARZO_01/HBO_XTREME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="HBO", HBO Family
+http://tv.teleclub.xyz/live/MARZO_01/HBO_FAMILY/index.m3u8
 
 
 ENTRETENIMIENTO 1
@@ -144,7 +146,7 @@ http://regioplay.xyz/php/SR_REGIO_703022_/tpa.php?c=146&p=3&k=srregio&f=.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png", FOX SERIES
 http://201.111.25.106:8000/play/a05m/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png",FOX COMEDY
-http://201.111.25.106:8000/play/a05a/index.m3u8
+http://alv.encohd.co:39591/live/j0roNAC/n3XT33/317.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png", FOX ACTION HD
 http://201.111.25.106:8000/play/a05o/index.m3u8
 #EXTINF:-1 group-title="SERIES" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.2428530_FoxPremiumCinema.png.9e13f022cada8ee9b258d5089390c951.png", FOX CINEMA 
