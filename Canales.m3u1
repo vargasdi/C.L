@@ -1,7 +1,8 @@
 #EXTM3U
 
 Principales
-
+#EXTINF:-1 group-title="musica" tvg-logo="https://i.imgur.com/897e9wy.png", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO HD
@@ -175,8 +176,7 @@ http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=220&=f.m3u8
 http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=221&=f.m3u8  
 #EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
 http://regioplay.xyz/php/SR_REGIO_526022_/nuevotp.php?c=334&=f.m3u8  
-#EXTINF:-1 group-title="musica" tvg-logo="https://i.imgur.com/897e9wy.png", Teleritmo
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
 #EXTINF:-1 group-title="musica",VIDEO ROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/musictop.png" group-title="musica", Music Top
