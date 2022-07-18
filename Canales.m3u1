@@ -1,1427 +1,305 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="542b9ddb50b69a77b11988dcdc75c5bb" group-title="Lista 03", 26TV
-http://200.59.213.30:9981/stream/channelid/1537026900?profile=pass
-#EXTINF:-1 tvg-id="bb2e0a0a1420609a805734b52b70c4bb" group-title="Lista 03", A&E HD
-http://200.59.213.30:9981/stream/channelid/168439483?profile=pass
-#EXTINF:-1 tvg-id="481e6f704339530b067fbb037b3a0d51" group-title="Lista 03", A24
-http://200.59.213.30:9981/stream/channelid/1886330440?profile=pass
-#EXTINF:-1 tvg-id="c34ebeaf5542f2f174d3c5e8d0c4c1cb" group-title="Lista 03", AM Sports
-http://200.59.213.30:9981/stream/channelid/801001155?profile=pass
-#EXTINF:-1 tvg-id="5d064495ddabb0139ee846f9f13c1009" group-title="Lista 03", AMC
-http://200.59.213.30:9981/stream/channelid/356779613?profile=pass
-#EXTINF:-1 tvg-id="546d9477cfe1dc8cdf15f8287be92a87" group-title="Lista 03", America TV HD
-http://200.59.213.30:9981/stream/channelid/2006216020?profile=pass
-#EXTINF:-1 tvg-id="d562f50459d410ebf6aa122e775bf861" group-title="Lista 03", AXN HD
-http://200.59.213.30:9981/stream/channelid/83190485?profile=pass
-#EXTINF:-1 tvg-id="03eb7cd3a51e0e4bd02ad9e98901e1d7" group-title="Lista 03", Baby TV
-http://200.59.213.30:9981/stream/channelid/1400695555?profile=pass
-#EXTINF:-1 tvg-id="35cf6ec990d38629738e654e9eb40859" group-title="Lista 03", C5N
-http://200.59.213.30:9981/stream/channelid/1231998773?profile=pass
-#EXTINF:-1 tvg-id="0881f40cc55aaf8888417180c23b0efd" group-title="Lista 03", Cadena 3
-http://200.59.213.30:9981/stream/channelid/217350408?profile=pass
-#EXTINF:-1 tvg-id="85ecb31459ac846e976b9e6bf885adfa" group-title="Lista 03", Canal a
-http://200.59.213.30:9981/stream/channelid/347335813?profile=pass
-#EXTINF:-1 tvg-id="bc98a7d3036ca7083377c1e1bb074d5d" group-title="Lista 03", Canal de la Ciudad
-http://200.59.213.30:9981/stream/channelid/1403492540?profile=pass
-#EXTINF:-1 tvg-id="ff825007d059f2f5e7ca56666f3ebd16" group-title="Lista 03", Cartoon Network HD
-http://200.59.213.30:9981/stream/channelid/122716927?profile=pass
-#EXTINF:-1 tvg-id="7f7b5de4fa2eb902737fadc174ecb413" group-title="Lista 03", Cine.AR
-http://200.59.213.30:9981/stream/channelid/1683848063?profile=pass
-#EXTINF:-1 tvg-id="85cb14aef891d804b8ae0154e1b99d59" group-title="Lista 03", Cinecanal HD
-http://200.59.213.30:9981/stream/channelid/773114757?profile=pass
-#EXTINF:-1 tvg-id="dffef5df4ee44463e7f96f9a23bb0430" group-title="Lista 03", Cinemax
-http://200.59.213.30:9981/stream/channelid/1609957087?profile=pass
-#EXTINF:-1 tvg-id="8416cdcdd165c3f6a2234c6c1500e9c8" group-title="Lista 03", ciudad magazine
-http://200.59.213.30:9981/stream/channelid/1305286276?profile=pass
-#EXTINF:-1 tvg-id="e9045a4188411bf0d021e001301b3f82" group-title="Lista 03", CNN en Español
-http://200.59.213.30:9981/stream/channelid/1096418537?profile=pass
-#EXTINF:-1 tvg-id="7ea9f2ed6130f5aa0943b4bab49d2575" group-title="Lista 03", Comedy Central HD
-http://200.59.213.30:9981/stream/channelid/1844619646?profile=pass
-#EXTINF:-1 tvg-id="cb20444352a69a1532ee13b799113c38" group-title="Lista 03", Crónica
-http://200.59.213.30:9981/stream/channelid/1128538315?profile=pass
-#EXTINF:-1 tvg-id="544c522d1e42e99c14e2b5c4e62e33a3" group-title="Lista 03", DeporTV
-http://200.59.213.30:9981/stream/channelid/760368212?profile=pass
-#EXTINF:-1 tvg-id="f5e5764f17c8c6e2915d97e8b1eabc65" group-title="Lista 03", Discovery Channel HD
-http://200.59.213.30:9981/stream/channelid/1333192181?profile=pass
-#EXTINF:-1 tvg-id="dc1c9bca87dd332d27f4f4aaa4bda2de" group-title="Lista 03", Discovery H&H HD
-http://200.59.213.30:9981/stream/channelid/1251679452?profile=pass
-#EXTINF:-1 tvg-id="72a8ff783006597bb653ce527030aee7" group-title="Lista 03", Discovery Kids
-http://200.59.213.30:9981/stream/channelid/2030020722?profile=pass
-#EXTINF:-1 tvg-id="0bba7f4de0f33ddcb45529d4a3863be0" group-title="Lista 03", Discovery Science
-http://200.59.213.30:9981/stream/channelid/1300216331?profile=pass
-#EXTINF:-1 tvg-id="86f1170e3a8e754df72f70b7bd774c40" group-title="Lista 03", Discovery Theater HD
-http://200.59.213.30:9981/stream/channelid/236450182?profile=pass
-#EXTINF:-1 tvg-id="37c39fb6aa7d96c10d2fc270d5ce80e0" group-title="Lista 03", Discovery Turbo
-http://200.59.213.30:9981/stream/channelid/916439863?profile=pass
-#EXTINF:-1 tvg-id="6ef92b61a5becb1ecfb8c0014f3f1a56" group-title="Lista 03", Discovery World HD
-http://200.59.213.30:9981/stream/channelid/1630271854?profile=pass
-#EXTINF:-1 tvg-id="781255cc3ba5b729c963220861ee215d" group-title="Lista 03", Disney Channel HD
-http://200.59.213.30:9981/stream/channelid/1280643704?profile=pass
-#EXTINF:-1 tvg-id="ed75ac989d5c4618d50709cea930ebc4" group-title="Lista 03", Disney Junior
-http://200.59.213.30:9981/stream/channelid/413955565?profile=pass
-#EXTINF:-1 tvg-id="8697ca46d040d99c92d1ea0d0f01030c" group-title="Lista 03", E! Entertainment
-http://200.59.213.30:9981/stream/channelid/1187682182?profile=pass
-#EXTINF:-1 tvg-id="3f97abc8aba110880d159e16be6629a7" group-title="Lista 03", El Canal  de las Estrellas
-http://200.59.213.30:9981/stream/channelid/1219204927?profile=pass
-#EXTINF:-1 tvg-id="a49ca20f90963e7dbaff81343c1a32ae" group-title="Lista 03", El Gourmet
-http://200.59.213.30:9981/stream/channelid/262315172?profile=pass
-#EXTINF:-1 tvg-id="3fb2f8b55991e993e8ac31aaf88afe49" group-title="Lista 03", el nueve HD
-http://200.59.213.30:9981/stream/channelid/905491007?profile=pass
-#EXTINF:-1 tvg-id="95f14095c55a8e9285447d4372cb4e68" group-title="Lista 03", el trece HD
-http://200.59.213.30:9981/stream/channelid/356577685?profile=pass
-#EXTINF:-1 tvg-id="4a61fdfba6860853820fa1149f94fa1b" group-title="Lista 03", Encuentro
-http://200.59.213.30:9981/stream/channelid/2080203082?profile=pass
-#EXTINF:-1 tvg-id="6e4d17b61d0bb2457704d30de7cffc58" group-title="Lista 03", ESPN 2 HD
-http://200.59.213.30:9981/stream/channelid/907496814?profile=pass
-#EXTINF:-1 tvg-id="b329b988d665050c7ad0d8cd6f389e11" group-title="Lista 03", ESPN 3 HD
-http://200.59.213.30:9981/stream/channelid/146352563?profile=pass
-#EXTINF:-1 tvg-id="1f95c73ac0fdaf18872c297d507af2cc" group-title="Lista 03", ESPN Extra HD
-http://200.59.213.30:9981/stream/channelid/986158367?profile=pass
-#EXTINF:-1 tvg-id="4aeb01ea49ee143dc9ba96f6b15287ea" group-title="Lista 03", ESPN HD
-http://200.59.213.30:9981/stream/channelid/1778510666?profile=pass
-#EXTINF:-1 tvg-id="ec62b607b30f1c404a7c025b375b4553" group-title="Lista 03", ESPN Premium HD
-http://200.59.213.30:9981/stream/channelid/129393388?profile=pass
-#EXTINF:-1 tvg-id="6b102d453685dbb992ab7e20b1b03342" group-title="Lista 03", Europa Europa
-http://200.59.213.30:9981/stream/channelid/1160581227?profile=pass
-#EXTINF:-1 tvg-id="269dedd0045c144e69e668a4eaf559de" group-title="Lista 03", Film & Arts HD
-http://200.59.213.30:9981/stream/channelid/1357749542?profile=pass
-#EXTINF:-1 tvg-id="185533a3066ed3fbf3906e825c113e12" group-title="Lista 03", FM 100
-http://200.59.213.30:9981/stream/channelid/590566680?profile=pass
-#EXTINF:-1 tvg-id="a8a61c8bc60b1106af6425307ea89d9d" group-title="Lista 03", Fox Sports 2 HD
-http://200.59.213.30:9981/stream/channelid/186427048?profile=pass
-#EXTINF:-1 tvg-id="968677be4e9d1112019bc6851adc08c5" group-title="Lista 03", Fox Sports 3 HD
-http://200.59.213.30:9981/stream/channelid/1048020630?profile=pass
-#EXTINF:-1 tvg-id="bb17ea423f01f64abe351655219bcbef" group-title="Lista 03", Fox Sports HD
-http://200.59.213.30:9981/stream/channelid/1122637755?profile=pass
-#EXTINF:-1 tvg-id="db5fe3988678230c3b8c952fe6b0a982" group-title="Lista 03", FX HD
-http://200.59.213.30:9981/stream/channelid/417554395?profile=pass
-#EXTINF:-1 tvg-id="a5ee69bf2651f480f1c540a4bd324b06" group-title="Lista 03", Galicia TV
-http://200.59.213.30:9981/stream/channelid/1063906981?profile=pass
-#EXTINF:-1 tvg-id="1828ed57038e503f195047aaf24c8dee" group-title="Lista 03", Glitz
-http://200.59.213.30:9981/stream/channelid/1475160088?profile=pass
-#EXTINF:-1 tvg-id="be5670b585809d2d5219e08c7d57a9a7" group-title="Lista 03", HBO
-http://200.59.213.30:9981/stream/channelid/896554686?profile=pass
-#EXTINF:-1 tvg-id="0c99181aced2ff33a1e14ebcf5bea6ed" group-title="Lista 03", HBO 2
-http://200.59.213.30:9981/stream/channelid/437819660?profile=pass
-#EXTINF:-1 tvg-id="19a37123efc521a6162f86631151c43c" group-title="Lista 03", HBO Family
-http://200.59.213.30:9981/stream/channelid/594649881?profile=pass
-#EXTINF:-1 tvg-id="e9d765425e53f5755c73dc1aac75e46d" group-title="Lista 03", HBO Mundi
-http://200.59.213.30:9981/stream/channelid/1113970665?profile=pass
-#EXTINF:-1 tvg-id="49e4cd0753d8caa50166f807204cc761" group-title="Lista 03", HBO Plus
-http://200.59.213.30:9981/stream/channelid/130933833?profile=pass
-#EXTINF:-1 tvg-id="b5a40eeaeac4e5ee65643bc7960cd5b9" group-title="Lista 03", HBO POP
-http://200.59.213.30:9981/stream/channelid/1779344565?profile=pass
-#EXTINF:-1 tvg-id="bd291eaaf5986b58347a5e9b95eccf57" group-title="Lista 03", HBO Signature
-http://200.59.213.30:9981/stream/channelid/706619837?profile=pass
-#EXTINF:-1 tvg-id="f384715bdb8331f20242890192f52ef1" group-title="Lista 03", HBO Xtreme
-http://200.59.213.30:9981/stream/channelid/1534166259?profile=pass
-#EXTINF:-1 tvg-id="1f6e55947778bff80f7215e311c1d5eb" group-title="Lista 03", HGTV
-http://200.59.213.30:9981/stream/channelid/341143071?profile=pass
-#EXTINF:-1 tvg-id="9ba24de232812c9dd013472305396b32" group-title="Lista 03", History 2
-http://200.59.213.30:9981/stream/channelid/1649255067?profile=pass
-#EXTINF:-1 tvg-id="ade6f0a32af1a83784b35c89c006080d" group-title="Lista 03", History Channel
-http://200.59.213.30:9981/stream/channelid/602990253?profile=pass
-#EXTINF:-1 tvg-id="aa9250f61cab29e538628e4af40773bb" group-title="Lista 03", HTV
-http://200.59.213.30:9981/stream/channelid/1984991914?profile=pass
-#EXTINF:-1 tvg-id="6c119928d9475686bcbc3385ca4948d1" group-title="Lista 03", I-Sat
-http://200.59.213.30:9981/stream/channelid/681120108?profile=pass
-#EXTINF:-1 tvg-id="163c36afeb0748c994432721729d8979" group-title="Lista 03", La Nacion TV
-http://200.59.213.30:9981/stream/channelid/792083478?profile=pass
-#EXTINF:-1 tvg-id="69af68517a467f056b0124956a27cb92" group-title="Lista 03", Lifetime
-http://200.59.213.30:9981/stream/channelid/1365815145?profile=pass
-#EXTINF:-1 tvg-id="7acf2c466492a6949486452228b7b62f" group-title="Lista 03", Metro
-http://200.59.213.30:9981/stream/channelid/1177341818?profile=pass
-#EXTINF:-1 tvg-id="19f912834761213ce91b70190bf29315" group-title="Lista 03", Mitre AM790
-http://200.59.213.30:9981/stream/channelid/51575065?profile=pass
-#EXTINF:-1 tvg-id="371560682fa683216a03f53d06b1e165" group-title="Lista 03", MTV
-http://200.59.213.30:9981/stream/channelid/1751127351?profile=pass
-#EXTINF:-1 tvg-id="c77ed589b61df0e5b592180c8d8bcdb5" group-title="Lista 03", MTV´00
-http://200.59.213.30:9981/stream/channelid/164986567?profile=pass
-#EXTINF:-1 tvg-id="b702743f24099feed8134c9a0f5b7d0c" group-title="Lista 03", Nacional
-http://200.59.213.30:9981/stream/channelid/1064567479?profile=pass
-#EXTINF:-1 tvg-id="b53d1be6ba36456615c0bae2ee91a462" group-title="Lista 03", Nat Geo HD
-http://200.59.213.30:9981/stream/channelid/1713061301?profile=pass
-#EXTINF:-1 tvg-id="a2bfe324ed7012fb14a20fc6ebd27e02" group-title="Lista 03", Nick Jr
-http://200.59.213.30:9981/stream/channelid/618905506?profile=pass
-#EXTINF:-1 tvg-id="767fd095b354455ae19c51065180a5a8" group-title="Lista 03", Nickelodeon
-http://200.59.213.30:9981/stream/channelid/365985654?profile=pass
-#EXTINF:-1 tvg-id="c6643823b328f3dc68e4ea378fcb92d5" group-title="Lista 03", Pakapaka
-http://200.59.213.30:9981/stream/channelid/590898374?profile=pass
-#EXTINF:-1 tvg-id="c37f5036ce5d508fc105dc91fc18ce01" group-title="Lista 03", Paramount HD
-http://200.59.213.30:9981/stream/channelid/911245251?profile=pass
-#EXTINF:-1 tvg-id="4e7ec818cb12c6d9459d11f6698c62e1" group-title="Lista 03", Playboy
-http://200.59.213.30:9981/stream/channelid/415792718?profile=pass
-#EXTINF:-1 tvg-id="8099078f5e40138a50fac3431b811269" group-title="Lista 03", Quiero Musica
-http://200.59.213.30:9981/stream/channelid/252156288?profile=pass
-#EXTINF:-1 tvg-id="c4471f2a1fc399af29894c7c5a95b502" group-title="Lista 03", RAI Italia
-http://200.59.213.30:9981/stream/channelid/706693060?profile=pass
-#EXTINF:-1 tvg-id="da1de60329fc253f056f2a3cfb92bdaf" group-title="Lista 03", Rural
-http://200.59.213.30:9981/stream/channelid/65412570?profile=pass
-#EXTINF:-1 tvg-id="556f275a682a3fec05173ec0bd1b2303" group-title="Lista 03", Sextreme
-http://200.59.213.30:9981/stream/channelid/1512533845?profile=pass
-#EXTINF:-1 tvg-id="57eedc6ce747ff7ae1050991befa7fcd" group-title="Lista 03", Somos Nacional
-http://200.59.213.30:9981/stream/channelid/1826418263?profile=pass
-#EXTINF:-1 tvg-id="2a6c5c128de9209395dca3b7a79d811e" group-title="Lista 03", SONY
-http://200.59.213.30:9981/stream/channelid/308046890?profile=pass
-#EXTINF:-1 tvg-id="d949b15c0e20142875668596f96f5c8e" group-title="Lista 03", Sony HD
-http://200.59.213.30:9981/stream/channelid/1555122649?profile=pass
-#EXTINF:-1 tvg-id="2d058544ccb56b71d503af75bb09d916" group-title="Lista 03", Space HD
-http://200.59.213.30:9981/stream/channelid/1149568301?profile=pass
-#EXTINF:-1 tvg-id="1d690183bc933210604a15c8b8fae1c2" group-title="Lista 03", Star Channel
-http://200.59.213.30:9981/stream/channelid/50424093?profile=pass
-#EXTINF:-1 tvg-id="1178ac6bf88cf5ee1ad7c38f173f2079" group-title="Lista 03", Star Channel HD
-http://200.59.213.30:9981/stream/channelid/1806465041?profile=pass
-#EXTINF:-1 tvg-id="482347ae2f812f5fac0dc4b7b98a3279" group-title="Lista 03", Studio Universal
-http://200.59.213.30:9981/stream/channelid/776414024?profile=pass
-#EXTINF:-1 tvg-id="c26972a5e655b9ad9df5c1ee80da2612" group-title="Lista 03", SyFy
-http://200.59.213.30:9981/stream/channelid/628255170?profile=pass
-#EXTINF:-1 tvg-id="32b20a91c90ea1b6f748e6abfce7857c" group-title="Lista 03", TBS
-http://200.59.213.30:9981/stream/channelid/285913650?profile=pass
-#EXTINF:-1 tvg-id="ca39250d7e50ce2fab3ffb1ec1850557" group-title="Lista 03", TCM
-http://200.59.213.30:9981/stream/channelid/220543434?profile=pass
-#EXTINF:-1 tvg-id="11d3f8cbe2438b043479abb08e7ab800" group-title="Lista 03", Telefe HD
-http://200.59.213.30:9981/stream/channelid/1274598161?profile=pass
-#EXTINF:-1 tvg-id="91e42278d204c0052ed301fff656a43d" group-title="Lista 03", The History Channel HD
-http://200.59.213.30:9981/stream/channelid/2015552657?profile=pass
-#EXTINF:-1 tvg-id="d522e592657e26a19d0cebe92be99553" group-title="Lista 03", TN HD
-http://200.59.213.30:9981/stream/channelid/317006549?profile=pass
-#EXTINF:-1 tvg-id="3a2523bceba09daa6c7a8da6cfdec284" group-title="Lista 03", TNT HD
-http://200.59.213.30:9981/stream/channelid/1008936250?profile=pass
-#EXTINF:-1 tvg-id="2ffd12b12b8f9d64c30907dc68320ee2" group-title="Lista 03", TNT Series HD
-http://200.59.213.30:9981/stream/channelid/823328047?profile=pass
-#EXTINF:-1 tvg-id="cbb9c89f623bca2682a70a773e80a005" group-title="Lista 03", TNT Sports HD
-http://200.59.213.30:9981/stream/channelid/533248459?profile=pass
-#EXTINF:-1 tvg-id="b89dd15748fb8947c635465a9b892f9d" group-title="Lista 03", TruTV HD
-http://200.59.213.30:9981/stream/channelid/1473355192?profile=pass
-#EXTINF:-1 tvg-id="e8e2397a7c2d856211f2bbb0ca52d352" group-title="Lista 03", TV Publica HD
-http://200.59.213.30:9981/stream/channelid/2050613992?profile=pass
-#EXTINF:-1 tvg-id="07061f5688002b9330cc3a2410fd4843" group-title="Lista 03", TVE
-http://200.59.213.30:9981/stream/channelid/1444873735?profile=pass
-#EXTINF:-1 tvg-id="1dc467d12c3ef5cb9608b2c1aa380ebd" group-title="Lista 03", TyC Sports HD
-http://200.59.213.30:9981/stream/channelid/1365754909?profile=pass
-#EXTINF:-1 tvg-id="f661faab205f062fec76f52b9e143163" group-title="Lista 03", Universal HD
-http://200.59.213.30:9981/stream/channelid/737829366?profile=pass
-#EXTINF:-1 tvg-id="e75fae09a9fece037dba3ca7a615e43e" group-title="Lista 03", Venus
-http://200.59.213.30:9981/stream/channelid/162422759?profile=pass
-#EXTINF:-1 tvg-id="6c7f50406ee749dc49ee917366bdfdb4" group-title="Lista 03", Volver
-http://200.59.213.30:9981/stream/channelid/1079017324?profile=pass
-#EXTINF:-1 tvg-id="436ff41ae81784155dc12c0e156f5e5b" group-title="Lista 03", VTV HD
-http://200.59.213.30:9981/stream/channelid/452226883?profile=pass
-#EXTINF:-1 tvg-id="b891694ed5f738f2800613eab089f328" group-title="Lista 03", Warner Channel HD
-http://200.59.213.30:9981/stream/channelid/1315541432?profile=pass
-#EXTINF:-1 tvg-id="e8b4950557164ab2f6b51e4caea34159" tvg-chno="1" group-title="Lista 03", Kanal D Drama HD
-http://200.59.213.30:9981/stream/channelid/93697256?profile=pass
-#EXTINF:-1 tvg-id="9373baaac0a45fd9591b3cc50329d7dd" tvg-chno="54" group-title="Lista 03", FX Movies HD
-http://200.59.213.30:9981/stream/channelid/716862355?profile=pass
-#EXTINF:-1 tvg-id="6c4a8908002ad6447f4185b1de77a3d5" tvg-chno="214" group-title="Lista 03", Cartoon Network HD
-http://200.59.213.30:9981/stream/channelid/143215212?profile=pass
-#EXTINF:-1 tvg-id="9f47221654407765d0a4432ff84a642a" tvg-chno="309" group-title="Lista 03", Discovery World HD
-http://200.59.213.30:9981/stream/channelid/371345311?profile=pass
-#EXTINF:-1 tvg-id="b30ed0da178fc8ec10e5d67b3d474118" tvg-chno="315" group-title="Lista 03", Animal Planet HD
-http://200.59.213.30:9981/stream/channelid/1523584691?profile=pass
-#EXTINF:-1 tvg-id="c5109a786196741eb4ac5dc889a00936" tvg-chno="321" group-title="Lista 03", Nat Geo HD
-http://200.59.213.30:9981/stream/channelid/2023362757?profile=pass
-#EXTINF:-1 tvg-id="1a119cbee3353f17b0e510ca7e3d6a12" tvg-chno="500" group-title="Lista 03", Studio Universal HD
-http://200.59.213.30:9981/stream/channelid/1050415386?profile=pass
-#EXTINF:-1 tvg-id="6ded004f689c821361ff5649efde8c97" tvg-chno="523" group-title="Lista 03", Win Sports+ HD
-http://200.59.213.30:9981/stream/channelid/1325460845?profile=pass
-#EXTINF:-1 tvg-id="ca6b31e5be4d08b389c981165074d425" tvg-chno="530" group-title="Lista 03", ESPN EXTRA HD
-http://200.59.213.30:9981/stream/channelid/1697737674?profile=pass
-#EXTINF:-1 tvg-id="934e3b6185e8b87a1e8899702394b759" tvg-chno="719" group-title="Lista 03", Cinecanal HD
-http://200.59.213.30:9981/stream/channelid/1631276691?profile=pass
-#EXTINF:-1 tvg-id="0efc6220ee957e9808a27c23c241cffd" tvg-chno="727" group-title="Lista 03", Paramount HD
-http://200.59.213.30:9981/stream/channelid/543357966?profile=pass
-#EXTINF:-1 tvg-id="7df9aa6973aa372ae84f8c9f5d83e835" tvg-chno="761" group-title="Lista 03", HBO HD
-http://200.59.213.30:9981/stream/channelid/1772812669?profile=pass
-#EXTINF:-1 tvg-id="79e548634140c1a090c7d00a69044b98" tvg-chno="801" group-title="Lista 03", NTV
-http://200.59.213.30:9981/stream/channelid/1665721721?profile=pass
-#EXTINF:-1 tvg-id="f00c010466662893a8a1e2ad517a4b13" tvg-chno="805" group-title="Lista 03", TV+ HD
-http://200.59.213.30:9981/stream/channelid/67177712?profile=pass
-#EXTINF:-1 tvg-id="c7fe616b8e338287f0cc0d41479b2440" tvg-chno="809" group-title="Lista 03", MEGA HD
-http://200.59.213.30:9981/stream/channelid/1801584327?profile=pass
-#EXTINF:-1 tvg-id="136df24bb4d43e160bab517b8a6aee09" tvg-chno="815" group-title="Lista 03", FX Movies HD
-http://200.59.213.30:9981/stream/channelid/1274178835?profile=pass
-#EXTINF:-1 tvg-id="e1e7be275dd2dcceaae9b6446b734ee2" tvg-chno="851" group-title="Lista 03", AMC HD
-http://200.59.213.30:9981/stream/channelid/666822625?profile=pass
-#EXTINF:-1 tvg-id="c8f4adaa2c1399260116069ecebe489b" tvg-chno="881" group-title="Lista 03", HBO HD
-http://200.59.213.30:9981/stream/channelid/716043464?profile=pass
-#EXTINF:-1 tvg-id="3dde35ba754741b72bfa941b381f1a9c" tvg-chno="923" group-title="Lista 03", HBO 2 HD
-http://200.59.213.30:9981/stream/channelid/976608829?profile=pass
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
+https://blackghost.live/play/totalp1-129.php?c=7&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7
+https://blackghost.live/play/totalp1-129.php?c=322&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
+https://blackghost.live/play/totalp1-129.php?c=1784&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5 HD
+https://blackghost.live/play/totalp1-129.php?c=1785&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD 
+https://blackghost.live/play/totalp1-129.php?c=1942&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
+https://blackghost.live/play/totalp1-129.php?c=184&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1JegKzPM66w/Xu6fHV_srpI/AAAAAAAAJ7o/XvFb74Lryj8u1TYUdv9kK2Ryx0j1TgL5gCLcBGAsYHQ/s1600/el-nueve.png", NU9VE HD
+https://blackghost.live/play/totalp1-129.php?c=1783&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png", TELEVISA PUEBLA
+https://blackghost.live/play/totalp1-129.php?c=2312&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/lmb/images/1/15/A_logo.png/revision/latest?cb=20170909222155&path-prefix=es", A+ 
+https://blackghost.live/play/totalp1-129.php?c=2316&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png", TELEFORMULA
+https://blackghost.live/play/totalp1-129.php?c=32&p=3&k=black&f=.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1200px-Logo_Glitz.svg.png", GLITZ
+https://blackghost.live/play/totalp1-129.php?c=76&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
+https://blackghost.live/play/totalp1-129.php?c=70&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg", TELEMUNDO INTERNACIONAL HD
+https://blackghost.live/play/totalp1-129.php?c=85&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png", TELEMUNDO
+
+#EXTINF:-1 tvg-logo="https://televisa.brightspotcdn.com/dims4/default/9303414/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F1b%2Fb6%2F7effa3414704b1eb556f02c364e6%2Funicable.jpg", UNICABLE 
+https://blackghost.live/play/totalp1-129.php?c=66&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
+https://blackghost.live/play/totalp1-129.php?c=83&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", DISTRITO COMEDIA 
+https://blackghost.live/play/totalp1-129.php?c=78&p=3&k=black&f=.m3u8
+#EXTINF:-1 tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
+https://blackghost.live/play/totalp1-129.php?c=340&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
+https://blackghost.live/play/totalp1-129.php?c=111&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
+https://blackghost.live/play/totalp1-129.php?c=112&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/22/CN2_Logo-0.png/revision/latest?cb=20160213024101", CARTOON NETWORK 2
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
+https://blackghost.live/play/totalp1-129.php?c=113&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR
+https://blackghost.live/play/totalp1-129.php?c=118&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
+https://blackghost.live/play/totalp1-129.php?c=110&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
+https://blackghost.live/play/totalp1-129.php?c=2147&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/1280px-TeenNick_logo_2009.svg.png", TEEN NICK  
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR 
+https://blackghost.live/play/totalp1-129.php?c=117&p=3&k=black&f=.m3u8
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/2560px-Nicktoons_Network_logo_2009.svg.png", NICKTOONS 
+https://blackghost.live/play/totalp1-129.php?c=1708&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
+https://blackghost.live/play/totalp1-129.php?c=115&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST
+https://blackghost.live/play/totalp1-129.php?c=108&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
+https://blackghost.live/play/totalp1-129.php?c=109&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", BABY TV 
+https://blackghost.live/play/totalp1-129.php?c=116&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png", BABY FIRST
+https://blackghost.live/play/totalp1-129.php?c=1984&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS  
+https://blackghost.live/play/totalp1-129.php?c=2373&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", BIT ME  
+https://blackghost.live/play/totalp1-129.php?c=2591&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Locomotion_2005.svg/revision/latest/scale-to-width-down/340?cb=20200125124642&path-prefix=es", LOCOMOTION
 
 
-#EX group-title="Lista 03", A&E
-http://gratis.shortgod.com/noratonespppp/tv3.php?c=26270
-#EX group-title="Lista 03", ADN 40
-http://el-pe/?c=26271
-#EX group-title="Lista 03", AMC
-http://el-pe/?c=26272
-#EX group-title="Lista 03", Animal Planet
-http://el-pe/?c=26273
-#EX group-title="Lista 03", Antena 3
-http://el-pe/?c=26274
-#EX group-title="Lista 03", A+
-http://el-pe/?c=26275
-#EX group-title="Lista 03", AXN
-http://el-pe/?c=26276
-#EX group-title="Lista 03", AyM Sports
-http://el-pe/?c=26277
-#EX group-title="Lista 03", Az Cinema
-http://el-pe/?c=26278
-#EX group-title="Lista 03", Az Clic
-http://el-pe/?c=26279
-#EX group-title="Lista 03", Az Corazon
-http://el-pe/?c=26280
-#EX group-title="Lista 03", Az Mundo
-http://el-pe/?c=26281
-#EX group-title="Lista 03", Azteca 7
-http://el-pe/?c=26282
-#EX group-title="Lista 03", Azteca UNO
-http://el-pe/?c=26283
-#EX group-title="Lista 03", Baby TV
-http://el-pe/?c=26284
-#EX group-title="Lista 03", Bandamax
-http://el-pe/?c=26285
-#EX group-title="Lista 03", BitMe
-http://el-pe/?c=26286
-#EX group-title="Lista 03", Boomerang
-http://el-pe/?c=26287
-#EX group-title="Lista 03", Canal 11
-http://el-pe/?c=26288
-#EX group-title="Lista 03", Canal 5
-http://el-pe/?c=26289
-#EX group-title="Lista 03", Cartoon Network
-http://el-pe/?c=26290
-#EX group-title="Lista 03", Cinecanal
-http://el-pe/?c=26291
-#EX group-title="Lista 03", Cinemax
-http://el-pe/?c=26292
-#EX group-title="Lista 03", CNN en Espanol
-http://el-pe/?c=26293
-#EX group-title="Lista 03", CNN USA
-http://el-pe/?c=26294
-#EX group-title="Lista 03", Comedy Central
-http://el-pe/?c=26295
-#EX group-title="Lista 03", De Pelicula
-http://el-pe/?c=26296
-#EX group-title="Lista 03", De Pelicula Clasico
-http://el-pe/?c=26297
-#EX group-title="Lista 03", De Pelicula Plus
-http://el-pe/?c=26298
-#EX group-title="Lista 03", Discovery Channel
-http://el-pe/?c=26299
-#EX group-title="Lista 03", Discovery H&H
-http://el-pe/?c=26300
-#EX group-title="Lista 03", Investigation Discovery
-http://el-pe/?c=26301
-#EX group-title="Lista 03", Discovery KIDS
-http://el-pe/?c=26302
-#EX group-title="Lista 03", Discovery Science
-http://el-pe/?c=26303
-#EX group-title="Lista 03", Discovery Theater
-http://el-pe/?c=26304
-#EX group-title="Lista 03", Discovery TLC
-http://el-pe/?c=26305
-#EX group-title="Lista 03", Discovery Turbo
-http://el-pe/?c=26306
-#EX group-title="Lista 03", Discovery World
-http://el-pe/?c=26307
-#EX group-title="Lista 03", Disney Channel
-http://el-pe/?c=26308
-#EX group-title="Lista 03", Disney Junior
-http://el-pe/?c=26309
-#EX group-title="Lista 03", Distrito Comedia
-http://el-pe/?c=26310
-#EX group-title="Lista 03", DW
-http://el-pe/?c=26311
-#EX group-title="Lista 03", E!
-http://el-pe/?c=26312
-#EX group-title="Lista 03", El Gourmet
-http://el-pe/?c=26313
-#EX group-title="Lista 03", ESPN +
-http://el-pe/?c=26314
-#EX group-title="Lista 03", ESPN 1
-http://el-pe/?c=26315
-#EX group-title="Lista 03", ESPN 2
-http://el-pe/?c=26316
-#EX group-title="Lista 03", ESPN 3
-http://el-pe/?c=26317
-#EX group-title="Lista 03", ESPN U
-http://el-pe/?c=26318
-#EX group-title="Lista 03", Film & Arts
-http://el-pe/?c=26319
-#EX group-title="Lista 03", Food Network
-http://el-pe/?c=26320
-#EX group-title="Lista 03", Foro TV
-http://el-pe/?c=26321
-#EX group-title="Lista 03", FOX (Star Channel)
-http://el-pe/?c=26322
-#EX group-title="Lista 03", FOX Sports 1
-http://el-pe/?c=26323
-#EX group-title="Lista 03", FOX Sports 2
-http://el-pe/?c=26324
-#EX group-title="Lista 03", FOX Sports 3
-http://el-pe/?c=26325
-#EX group-title="Lista 03", FX
-http://el-pe/?c=26326
-#EX group-title="Lista 03", Canal 9 (Gala TV)
-http://el-pe/?c=26327
-#EX group-title="Lista 03", Garage TV
-http://el-pe/?c=26328
-#EX group-title="Lista 03", Glitz
-http://el-pe/?c=26329
-#EX group-title="Lista 03", Golden
-http://el-pe/?c=26330
-#EX group-title="Lista 03", Golden EDGE
-http://el-pe/?c=26331
-#EX group-title="Lista 03", Golden Plus
-http://el-pe/?c=26332
-#EX group-title="Lista 03", Golden Premier
-http://el-pe/?c=26333
-#EX group-title="Lista 03", Golf Channel Latinoamerica
-http://el-pe/?c=26334
-#EX group-title="Lista 03", HGTV
-http://el-pe/?c=26335
-#EX group-title="Lista 03", History
-http://el-pe/?c=26336
-#EX group-title="Lista 03", Hola TV
-http://el-pe/?c=26337
-#EX group-title="Lista 03", Imagen Television
-http://el-pe/?c=26338
-#EX group-title="Lista 03", Ingenio TV
-http://el-pe/?c=26339
-#EX group-title="Lista 03", Las Estrellas
-http://el-pe/?c=26340
-#EX group-title="Lista 03", Lifetime
-http://el-pe/?c=26341
-#EX group-title="Lista 03", Mas chic
-http://el-pe/?c=26342
-#EX group-title="Lista 03", Mexiquense TV
-http://el-pe/?c=26343
-#EX group-title="Lista 03", Milenio
-http://el-pe/?c=26344
-#EX group-title="Lista 03", MTV
-http://el-pe/?c=26345
-#EX group-title="Lista 03", MTV Hits
-http://el-pe/?c=26346
-#EX group-title="Lista 03", MTV Live
-http://el-pe/?c=26347
-#EX group-title="Lista 03", NatGeo
-http://el-pe/?c=26348
-#EX group-title="Lista 03", Nickelodeon
-http://el-pe/?c=26349
-#EX group-title="Lista 03", Nick 2 (TeenNick)
-http://el-pe/?c=26350
-#EX group-title="Lista 03", Nick JR
-http://el-pe/?c=26351
-#EX group-title="Lista 03", Nicktoons
-http://el-pe/?c=26352
-#EX group-title="Lista 03", Outdoor Channel
-http://el-pe/?c=26353
-#EX group-title="Lista 03", Paramount Channel
-http://el-pe/?c=26354
-#EX group-title="Lista 03", Telehit Urbano (Telehit Musica)
-http://el-pe/?c=26355
-#EX group-title="Lista 03", RT en Espal
-http://el-pe/?c=26356
-#EX group-title="Lista 03", Sony
-http://el-pe/?c=26357
-#EX group-title="Lista 03", Space
-http://el-pe/?c=26358
-#EX group-title="Lista 03", Studio Universal
-http://el-pe/?c=26359
-#EX group-title="Lista 03", Sundance Channel
-http://el-pe/?c=26360
-#EX group-title="Lista 03", SyFy
-http://el-pe/?c=26361
-#EX group-title="Lista 03", TBS
-http://el-pe/?c=26362
-#EX group-title="Lista 03", TCM
-http://el-pe/?c=26363
-#EX group-title="Lista 03", Teleformula
-http://el-pe/?c=26364
-#EX group-title="Lista 03", Telehit
-http://el-pe/?c=26365
-#EX group-title="Lista 03", Telemundo Internacional
-http://el-pe/?c=26366
-#EX group-title="Lista 03", Televisa Monterrey
-http://el-pe/?c=26367
-#EX group-title="Lista 03", Tlnovelas
-http://el-pe/?c=26368
-#EX group-title="Lista 03", TNT
-http://el-pe/?c=26369
-#EX group-title="Lista 03", TNT Series
-http://el-pe/?c=26370
-#EX group-title="Lista 03", Tooncast
-http://el-pe/?c=26371
-#EX group-title="Lista 03", TruTV
-http://el-pe/?c=26372
-#EX group-title="Lista 03", TVC Deportes
-http://el-pe/?c=26373
-#EX group-title="Lista 03", TVE
-http://el-pe/?c=26374
-#EX group-title="Lista 03", Unicable
-http://el-pe/?c=26375
-#EX group-title="Lista 03", Universal Channel
-http://el-pe/?c=26376
-#EX group-title="Lista 03", VH1
-http://el-pe/?c=26377
-#EX group-title="Lista 03", VH1 Classics
-http://el-pe/?c=26378
-#EX group-title="Lista 03", Warner
-http://el-pe/?c=26379
-#EX group-title="Lista 03", A+
-http://el-pe/?c=26380
-#EX group-title="Lista 03", Azteca 7
-http://el-pe/?c=26381
-#EX group-title="Lista 03", Azteca UNO
-http://el-pe/?c=26382
-#EX group-title="Lista 03", Azteca Uno -2 Horas
-http://el-pe/?c=26383
-#EX group-title="Lista 03", Canal 11
-http://el-pe/?c=26384
-#EX group-title="Lista 03", Canal 22
-http://el-pe/?c=26385
-#EX group-title="Lista 03", Canal 5
-http://el-pe/?c=26386
-#EX group-title="Lista 03", Canal del Congreso
-http://el-pe/?c=26387
-#EX group-title="Lista 03", JusticiaTV
-http://el-pe/?c=26388
-#EX group-title="Lista 03", Canal 9 (Gala TV)
-http://el-pe/?c=26389
-#EX group-title="Lista 03", Imagen Television
-http://el-pe/?c=26390
-#EX group-title="Lista 03", Ingenio TV
-http://el-pe/?c=26391
-#EX group-title="Lista 03", Las Estrellas
-http://el-pe/?c=26392
-#EX group-title="Lista 03", Mexiquense TV
-http://el-pe/?c=26393
-#EX group-title="Lista 03", Multimedios MTY
-http://el-pe/?c=26394
-#EX group-title="Lista 03", Teleformula
-http://el-pe/?c=26395
-#EX group-title="Lista 03", Televisa Monterrey
-http://el-pe/?c=26396
-#EX group-title="Lista 03", TVC
-http://el-pe/?c=26397
-#EX group-title="Lista 03", RCN Nuestra Tele Internacional
-http://el-pe/?c=26398
-#EX group-title="Lista 03", A3 Series
-http://el-pe/?c=26399
-#EX group-title="Lista 03", A&E
-http://el-pe/?c=26400
-#EX group-title="Lista 03", AMC
-http://el-pe/?c=26401
-#EX group-title="Lista 03", Antena 3
-http://el-pe/?c=26402
-#EX group-title="Lista 03", AXN
-http://el-pe/?c=26403
-#EX group-title="Lista 03", Az Clic
-http://el-pe/?c=26404
-#EX group-title="Lista 03", Az Corazon
-http://el-pe/?c=26405
-#EX group-title="Lista 03", Az Mundo
-http://el-pe/?c=26406
-#EX group-title="Lista 03", BitMe
-http://el-pe/?c=26407
-#EX group-title="Lista 03", Caracol
-http://el-pe/?c=26408
-#EX group-title="Lista 03", Comedy Central
-http://el-pe/?c=26409
-#EX group-title="Lista 03", DHE
-http://el-pe/?c=26410
-#EX group-title="Lista 03", Distrito Comedia
-http://el-pe/?c=26411
-#EX group-title="Lista 03", E!
-http://el-pe/?c=26412
-#EX group-title="Lista 03", El Gourmet
-http://el-pe/?c=26413
-#EX group-title="Lista 03", Estrella TV
-http://el-pe/?c=26414
-#EX group-title="Lista 03", Food Network
-http://el-pe/?c=26415
-#EX group-title="Lista 03", FOX (Star Channel)
-http://el-pe/?c=26416
-#EX group-title="Lista 03", FX
-http://el-pe/?c=26417
-#EX group-title="Lista 03", Garage TV
-http://el-pe/?c=26418
-#EX group-title="Lista 03", Glitz
-http://el-pe/?c=26419
-#EX group-title="Lista 03", Hola TV
-http://el-pe/?c=26420
-#EX group-title="Lista 03", Lifetime
-http://el-pe/?c=26421
-#EX group-title="Lista 03", Mas Chic
-http://el-pe/?c=26422
-#EX group-title="Lista 03", Pasiones
-http://el-pe/?c=26423
-#EX group-title="Lista 03", RCN
-http://el-pe/?c=26424
-#EX group-title="Lista 03", Sony
-http://el-pe/?c=26425
-#EX group-title="Lista 03", TBS
-http://el-pe/?c=26426
-#EX group-title="Lista 03", Telemundo Internacional
-http://el-pe/?c=26427
-#EX group-title="Lista 03", Tlnovelas
-http://el-pe/?c=26428
-#EX group-title="Lista 03", TNT Series
-http://el-pe/?c=26429
-#EX group-title="Lista 03", TruTV
-http://el-pe/?c=26430
-#EX group-title="Lista 03", Unicable
-http://el-pe/?c=26431
-#EX group-title="Lista 03", Univision 41
-http://el-pe/?c=26432
-#EX group-title="Lista 03", Warner
-http://el-pe/?c=26433
-#EX group-title="Lista 03", Adrenalina Sports Network
-http://el-pe/?c=26434
-#EX group-title="Lista 03", Afizzionados
-http://el-pe/?c=26435
-#EX group-title="Lista 03", AyM Sports
-http://el-pe/?c=26436
-#EX group-title="Lista 03", BeinSports 
-http://el-pe/?c=26437
-#EX group-title="Lista 03", BeinSports USA
-http://el-pe/?c=26438
-#EX group-title="Lista 03", Canal Toros
-http://el-pe/?c=26439
-#EX group-title="Lista 03", Claro Sports
-http://el-pe/?c=26440
-#EX group-title="Lista 03", ESPN 1
-http://el-pe/?c=26441
-#EX group-title="Lista 03", ESPN 2
-http://el-pe/?c=26442
-#EX group-title="Lista 03", ESPN 3
-http://el-pe/?c=26443
-#EX group-title="Lista 03", ESPN +
-http://el-pe/?c=26444
-#EX group-title="Lista 03", ESPN Deportes
-http://el-pe/?c=26445
-#EX group-title="Lista 03", FOX Deportes
-http://el-pe/?c=26446
-#EX group-title="Lista 03", FOX Sports 1
-http://el-pe/?c=26447
-#EX group-title="Lista 03", FOX Sports 2
-http://el-pe/?c=26448
-#EX group-title="Lista 03", FOX Sports 3
-http://el-pe/?c=26449
-#EX group-title="Lista 03", Golf Channel Latinoamerica
-http://el-pe/?c=26450
-#EX group-title="Lista 03", Movistar F1 TV
-http://el-pe/?c=26451
-#EX group-title="Lista 03", Movistar Golf
-http://el-pe/?c=26452
-#EX group-title="Lista 03", NFL Network
-http://el-pe/?c=26453
-#EX group-title="Lista 03", Outdoor Channel
-http://el-pe/?c=26454
-#EX group-title="Lista 03", SEC ESPN Network
-http://el-pe/?c=26455
-#EX group-title="Lista 03", TUDN MX
-http://el-pe/?c=26456
-#EX group-title="Lista 03", TUDN USA
-http://el-pe/?c=26457
-#EX group-title="Lista 03", TVC Deportes
-http://el-pe/?c=26458
-#EX group-title="Lista 03", TyC Sports
-http://el-pe/?c=26459
-#EX group-title="Lista 03", UFC Fight Pass
-http://el-pe/?c=26460
-#EX group-title="Lista 03", WinSports
-http://el-pe/?c=26461
-#EX group-title="Lista 03", Barca TV
-http://el-pe/?c=26462
-#EX group-title="Lista 03", Eurosport 1
-http://el-pe/?c=26463
-#EX group-title="Lista 03", Eurosport 2
-http://el-pe/?c=26464
-#EX group-title="Lista 03", Movistar Deportes
-http://el-pe/?c=26465
-#EX group-title="Lista 03", Movistar Deportes 2
-http://el-pe/?c=26466
-#EX group-title="Lista 03", Movistar F1
-http://el-pe/?c=26467
-#EX group-title="Lista 03", Movistar Golf
-http://el-pe/?c=26468
-#EX group-title="Lista 03", Movistar Liga de Campeones
-http://el-pe/?c=26469
-#EX group-title="Lista 03", Real Madrid TV
-http://el-pe/?c=26470
-#EX group-title="Lista 03", Toros TV
-http://el-pe/?c=26471
-#EX group-title="Lista 03", Argentina - ESPN
-http://el-pe/?c=26472
-#EX group-title="Lista 03", Argentina - ESPN 2
-http://el-pe/?c=26473
-#EX group-title="Lista 03", Argentina - ESPN 3
-http://el-pe/?c=26474
-#EX group-title="Lista 03", Argentina - FOX Sports
-http://el-pe/?c=26475
-#EX group-title="Lista 03", Argentina - FOX Sports 2
-http://el-pe/?c=26476
-#EX group-title="Lista 03", Argentina - FOX Sports 3
-http://el-pe/?c=26477
-#EX group-title="Lista 03", Argentina - FOX Sports Premium
-http://el-pe/?c=26478
-#EX group-title="Lista 03", Argentina - TNT Sports
-http://el-pe/?c=26479
-#EX group-title="Lista 03", Argentina - TYC Sports
-http://el-pe/?c=26480
-#EX group-title="Lista 03", Brasil - Sport TV 1
-http://el-pe/?c=26481
-#EX group-title="Lista 03", Colombia - Win Sports
-http://el-pe/?c=26482
-#EX group-title="Lista 03", Colombia - Win Sports +
-http://el-pe/?c=26483
-#EX group-title="Lista 03", Sudamerica - DirecTV Sports
-http://el-pe/?c=26484
-#EX group-title="Lista 03", Sudamerica - DirecTV Sports 2
-http://el-pe/?c=26485
-#EX group-title="Lista 03", Sudamerica - DirecTV Sports +
-http://el-pe/?c=26486
-#EX group-title="Lista 03", Animal Planet
-http://el-pe/?c=26487
-#EX group-title="Lista 03", Discovery Channel
-http://el-pe/?c=26488
-#EX group-title="Lista 03", Discovery H&H
-http://el-pe/?c=26489
-#EX group-title="Lista 03", Discovery Science
-http://el-pe/?c=26490
-#EX group-title="Lista 03", Discovery Theater
-http://el-pe/?c=26491
-#EX group-title="Lista 03", Discovery TLC
-http://el-pe/?c=26492
-#EX group-title="Lista 03", Discovery Turbo
-http://el-pe/?c=26493
-#EX group-title="Lista 03", Discovery World
-http://el-pe/?c=26494
-#EX group-title="Lista 03", H2
-http://el-pe/?c=26495
-#EX group-title="Lista 03", HGTV
-http://el-pe/?c=26496
-#EX group-title="Lista 03", History
-http://el-pe/?c=26497
-#EX group-title="Lista 03", Investigation Discovery
-http://el-pe/?c=26498
-#EX group-title="Lista 03", NatGeo
-http://el-pe/?c=26499
-#EX group-title="Lista 03", Baby TV
-http://el-pe/?c=26500
-#EX group-title="Lista 03", Boomerang
-http://el-pe/?c=26501
-#EX group-title="Lista 03", Cartoon Network
-http://el-pe/?c=26502
-#EX group-title="Lista 03", Discovery KIDS
-http://el-pe/?c=26503
-#EX group-title="Lista 03", Disney Channel
-http://el-pe/?c=26504
-#EX group-title="Lista 03", Disney Junior
-http://el-pe/?c=26505
-#EX group-title="Lista 03", Nickelodeon
-http://el-pe/?c=26506
-#EX group-title="Lista 03", Nick 2 (TeenNick)
-http://el-pe/?c=26507
-#EX group-title="Lista 03", Nick JR
-http://el-pe/?c=26508
-#EX group-title="Lista 03", Nicktoons
-http://el-pe/?c=26509
-#EX group-title="Lista 03", Tooncast
-http://el-pe/?c=26510
-#EX group-title="Lista 03", Az Cinema
-http://el-pe/?c=26511
-#EX group-title="Lista 03", Cinelatino
-http://el-pe/?c=26512
-#EX group-title="Lista 03", Cinecanal
-http://el-pe/?c=26513
-#EX group-title="Lista 03", Cinemax
-http://el-pe/?c=26514
-#EX group-title="Lista 03", De Pelicula
-http://el-pe/?c=26515
-#EX group-title="Lista 03", De Pelicula Clasico
-http://el-pe/?c=26516
-#EX group-title="Lista 03", De Pelicula Plus
-http://el-pe/?c=26517
-#EX group-title="Lista 03", Film & Arts
-http://el-pe/?c=26518
-#EX group-title="Lista 03", Golden
-http://el-pe/?c=26519
-#EX group-title="Lista 03", Golden EDGE
-http://el-pe/?c=26520
-#EX group-title="Lista 03", Golden Plus
-http://el-pe/?c=26521
-#EX group-title="Lista 03", Golden Premier
-http://el-pe/?c=26522
-#EX group-title="Lista 03", HBO
-http://el-pe/?c=26523
-#EX group-title="Lista 03", HBO 2
-http://el-pe/?c=26524
-#EX group-title="Lista 03", HBO Family
-http://el-pe/?c=26525
-#EX group-title="Lista 03", HBO Mundi
-http://el-pe/?c=26526
-#EX group-title="Lista 03", HBO Plus
-http://el-pe/?c=26527
-#EX group-title="Lista 03", HBO Signature
-http://el-pe/?c=26528
-#EX group-title="Lista 03", HBO Xtreme
-http://el-pe/?c=26529
-#EX group-title="Lista 03", HBO POP
-http://el-pe/?c=26530
-#EX group-title="Lista 03", Paramount Channel
-http://el-pe/?c=26531
-#EX group-title="Lista 03", Space
-http://el-pe/?c=26532
-#EX group-title="Lista 03", Studio Universal
-http://el-pe/?c=26533
-#EX group-title="Lista 03", Sundance Channel
-http://el-pe/?c=26534
-#EX group-title="Lista 03", SyFy
-http://el-pe/?c=26535
-#EX group-title="Lista 03", TCM
-http://el-pe/?c=26536
-#EX group-title="Lista 03", TNT
-http://el-pe/?c=26537
-#EX group-title="Lista 03", Universal Channel
-http://el-pe/?c=26538
-#EX group-title="Lista 03", Bandamax
-http://el-pe/?c=26539
-#EX group-title="Lista 03", MTV
-http://el-pe/?c=26540
-#EX group-title="Lista 03", MTV Hits
-http://el-pe/?c=26541
-#EX group-title="Lista 03", MTV Live
-http://el-pe/?c=26542
-#EX group-title="Lista 03", Telehit Urbano (Telehit Musica)
-http://el-pe/?c=26543
-#EX group-title="Lista 03", Telehit
-http://el-pe/?c=26544
-#EX group-title="Lista 03", Telehit Plus
-http://el-pe/?c=26545
-#EX group-title="Lista 03", VH1
-http://el-pe/?c=26546
-#EX group-title="Lista 03", VH1 Classics
-http://el-pe/?c=26547
-#EX group-title="Lista 03", Maria Vision
-http://el-pe/?c=26548
-#EX group-title="Lista 03", ADN 40
-http://el-pe/?c=26549
-#EX group-title="Lista 03", CNN en Espanol
-http://el-pe/?c=26550
-#EX group-title="Lista 03", CNN USA
-http://el-pe/?c=26551
-#EX group-title="Lista 03", DW
-http://el-pe/?c=26552
-#EX group-title="Lista 03", Foro TV
-http://el-pe/?c=26553
-#EX group-title="Lista 03", Milenio
-http://el-pe/?c=26554
-#EX group-title="Lista 03", RT en Espal
-http://el-pe/?c=26555
-#EX group-title="Lista 03", Antena 3
-http://el-pe/?c=26556
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png", FOX HD 
+https://blackghost.live/play/totalp1-129.php?c=201&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/470px-Warner_Bros._%282019%29_logo.svg.png", WARNER HD 
+https://blackghost.live/play/totalp1-129.php?c=205&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://images.vectorhq.com/images/previews/8ea/universal-logo-psd-456169.png", UNIVERSAL HD
+https://blackghost.live/play/totalp1-129.php?c=207&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg", STUDIO UNIRVESAL
+https://blackghost.live/play/totalp1-129.php?c=132&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
+https://blackghost.live/play/totalp1-129.php?c=209&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY HD
+https://blackghost.live/play/totalp1-129.php?c=48&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
+https://blackghost.live/play/totalp1-129.php?c=129&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
+https://blackghost.live/play/totalp1-129.php?c=138&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO.jpg", HBO
 
-#EX group-title="Lista 03", 24/7 Caso Cerrado
-http://el-pe/?c=26557
-#EX group-title="Lista 03", 24/7 La Familia P. Luche
-http://el-pe/?c=26558
-#EX group-title="Lista 03", 24/7 La Rosa de Guadalupe
-http://el-pe/?c=26559
-#EX group-title="Lista 03", 24/7 M| Cinema 01
-http://el-pe/?c=26560
-#EX group-title="Lista 03", 24/7 M| Cinema 02
-http://el-pe/?c=26561
-#EX group-title="Lista 03", 24/7 M| Cinema 03
-http://el-pe/?c=26562
-#EX group-title="Lista 03", 24/7 M| Cinema 05
-http://el-pe/?c=26563
-#EX group-title="Lista 03", 24/7 M| Cinema 06
-http://el-pe/?c=26564
-#EX group-title="Lista 03", 24/7 M| Cinema 07
-http://el-pe/?c=26565
-#EX group-title="Lista 03", 24/7 M| Cinema 08
-http://el-pe/?c=26566
-#EX group-title="Lista 03", 24/7 M| Cinema 09
-http://el-pe/?c=26567
-#EX group-title="Lista 03", 24/7 M| Cinema 10
-http://el-pe/?c=26568
-#EX group-title="Lista 03", 24/7 M| Cinema 11
-http://el-pe/?c=26569
-#EX group-title="Lista 03", 24/7 M| Cinema 12
-http://el-pe/?c=26570
-#EX group-title="Lista 03", 24/7 M| Cinema 13
-http://el-pe/?c=26571
-#EX group-title="Lista 03", 24/7 M| Cinema 14
-http://el-pe/?c=26572
-#EX group-title="Lista 03", 24/7 M| Cinema 15
-http://el-pe/?c=26573
-#EX group-title="Lista 03", 24/7 M| Cinema 16
-http://el-pe/?c=26574
-#EX group-title="Lista 03", 24/7 M| Cinema 17
-http://el-pe/?c=26575
-#EX group-title="Lista 03", 24/7 M| Cinema 18
-http://el-pe/?c=26576
-#EX group-title="Lista 03", 24/7 M| Cinema 19
-http://el-pe/?c=26577
-#EX group-title="Lista 03", 24/7 M| Cinema 20
-http://el-pe/?c=26578
-#EX group-title="Lista 03", 24/7 M| Cinema 21
-http://el-pe/?c=26579
-#EX group-title="Lista 03", 24/7 M| Cinema 22
-http://el-pe/?c=26580
-#EX group-title="Lista 03", 24/7 M| Cinema 23
-http://el-pe/?c=26581
-#EX group-title="Lista 03", 24/7 M| Cinema 24
-http://el-pe/?c=26582
-#EX group-title="Lista 03", 24/7 M| Cinema 25
-http://el-pe/?c=26583
-#EX group-title="Lista 03", 24/7 M|Moviecenter Premium Oeste ????
-http://el-pe/?c=26584
-#EX group-title="Lista 03", 24/7 M|Peliculas Marvel
-http://el-pe/?c=26585
-#EX group-title="Lista 03", 24/7 M|Pelulas Fantas
-http://el-pe/?c=26586
-#EX group-title="Lista 03", 24/7 M|Pelulas Romance
-http://el-pe/?c=26587
-#EX group-title="Lista 03", 24/7 S| Alerta Aeropuerto
-http://el-pe/?c=26588
-#EX group-title="Lista 03", 24/7 NARCOS
-http://el-pe/?c=26589
-#EX group-title="Lista 03", 24/7 | Acapulco Shore FHD
-http://el-pe/?c=26590
-#EX group-title="Lista 03", 24/7 | Desaf de fuego
-http://el-pe/?c=26591
-#EX group-title="Lista 03", 24/7 | Como Dice El Dicho
-http://el-pe/?c=26592
-#EX group-title="Lista 03", 24/7 | CSI Miami
-http://el-pe/?c=26593
-#EX group-title="Lista 03", 24/7 | Death Note
-http://el-pe/?c=26594
-#EX group-title="Lista 03", 24/7 | DesEncanto
-http://el-pe/?c=26595
-#EX group-title="Lista 03", 24/7 | Dr. House
-http://el-pe/?c=26596
-#EX group-title="Lista 03", 24/7 | Dragon Ball
-http://el-pe/?c=26597
-#EX group-title="Lista 03", 24/7 | Dragon Ball Super 1
-http://el-pe/?c=26598
-#EX group-title="Lista 03", 24/7 | Dragon Ball Super 2
-http://el-pe/?c=26599
-#EX group-title="Lista 03", 24/7 | Dragon Ball Z Saga Cell
-http://el-pe/?c=26600
-#EX group-title="Lista 03", 24/7 | El Mentalista
-http://el-pe/?c=26601
-#EX group-title="Lista 03", 24/7 | El Principe del Rap
-http://el-pe/?c=26602
-#EX group-title="Lista 03", 24/7 | Escobar: el patron del mal
-http://el-pe/?c=26603
-#EX group-title="Lista 03", 24/7 | Extranormal
-http://el-pe/?c=26604
-#EX group-title="Lista 03", 24/7 | Futurama
-http://el-pe/?c=26605
-#EX group-title="Lista 03", 24/7 | Juego del Calamar
-http://el-pe/?c=26606
-#EX group-title="Lista 03", 24/7 | La Casa de Papel
-http://el-pe/?c=26607
-#EX group-title="Lista 03", 24/7 | La Familia Peluche
-http://el-pe/?c=26608
-#EX group-title="Lista 03", 24/7 | La Hora Pico
-http://el-pe/?c=26609
-#EX group-title="Lista 03", 24/7 | La Rosa de Guadalupe
-http://el-pe/?c=26610
-#EX group-title="Lista 03", 24/7 | Los Simpson
-http://el-pe/?c=26611
-#EX group-title="Lista 03", 24/7 | Los Simpson HD
-http://el-pe/?c=26612
-#EX group-title="Lista 03", 24/7 | Los Simpson New HD
-http://el-pe/?c=26613
-#EX group-title="Lista 03", 24/7 | Los Simpsons Casitas del Horror
-http://el-pe/?c=26614
-#EX group-title="Lista 03", 24/7 | The Big Bang Theory
-http://el-pe/?c=26615
-#EX group-title="Lista 03", 24/7 | The Walking Dead
-http://el-pe/?c=26616
-#EX group-title="Lista 03", 24/7 | Rick y Morty
-http://el-pe/?c=26617
-#EX group-title="Lista 03", 24/7 | South Park
-http://el-pe/?c=26618
-#EX group-title="Lista 03", 24/7 Padre de familia
-http://el-pe/?c=26619
-#EX group-title="Lista 03", 24/7: Smallville
-http://el-pe/?c=26620
-#EX group-title="Lista 03", 24/7: Strangerthings
-http://el-pe/?c=26621
-#EX group-title="Lista 03", 24/7: South Park
-http://el-pe/?c=26622
-#EX group-title="Lista 03", 24/7: Malcolm
-http://el-pe/?c=26623
-#EX group-title="Lista 03", 24/7: El chavo del 8
-http://el-pe/?c=26624
-#EX group-title="Lista 03", 24/7 La casa de los Dibujos
-http://el-pe/?c=26625
-#EX group-title="Lista 03", 24/7 :CINE ACCION
-http://el-pe/?c=26626
-#EX group-title="Lista 03", 24/7 :CINE ACCION SAGAS
-http://el-pe/?c=26627
-#EX group-title="Lista 03", 24/7 :CINE SAGAS INFANTIL
-http://el-pe/?c=26628
-#EX group-title="Lista 03", 24/7 MARVEL
-http://el-pe/?c=26629
-#EX group-title="Lista 03", 24/7: CINE ACCION HD
-http://el-pe/?c=26630
-#EX group-title="Lista 03", 24/7: CINE COMEDIA 1
-http://el-pe/?c=26631
-#EX group-title="Lista 03", 24/7: CINE COMEDIA 2
-http://el-pe/?c=26632
-#EX group-title="Lista 03", 24/7: CINE FANTASIA 2
-http://el-pe/?c=26633
-#EX group-title="Lista 03", 24/7: CINE FANTASIA HD
-http://el-pe/?c=26634
-#EX group-title="Lista 03", 24/7: CINE FANTASIA SAGAS
-http://el-pe/?c=26635
-#EX group-title="Lista 03", 24/7: CINE INFANTIL HD
-http://el-pe/?c=26636
-#EX group-title="Lista 03", 24/7: CINE ROMANCE
-http://el-pe/?c=26637
-#EX group-title="Lista 03", 24/7: CINE ROMANCE HD
-http://el-pe/?c=26638
-#EX group-title="Lista 03", 24/7: CINE TERROR
-http://el-pe/?c=26639
-#EX group-title="Lista 03", 24/7: CINE TERROR HD
-http://el-pe/?c=26640
-#EX group-title="Lista 03", 24/7: CINE ZOMBIES
-http://el-pe/?c=26641
-#EX group-title="Lista 03", 24/7: peliculas estrenos
-http://el-pe/?c=26642
-#EX group-title="Lista 03", 24/7 Cantinflas
-http://el-pe/?c=26643
-#EX group-title="Lista 03", 24/7 Clasicos de Disney (Latino)
-http://el-pe/?c=26644
-#EX group-title="Lista 03", 24/7 Disney Live Action
-http://el-pe/?c=26645
-#EX group-title="Lista 03", 24/7 Movies Jackie Chan
-http://el-pe/?c=26646
-#EX group-title="Lista 03", 24/7 Movies Jim Carrey
-http://el-pe/?c=26647
-#EX group-title="Lista 03", 24/7 Pedro Infante
-http://el-pe/?c=26648
-#EX group-title="Lista 03", 24/7 | Aaahhh Monstruos
-http://el-pe/?c=26649
-#EX group-title="Lista 03", 24/7 | Animaniacs
-http://el-pe/?c=26650
-#EX group-title="Lista 03", 24/7 | Bleyblade
-http://el-pe/?c=26651
-#EX group-title="Lista 03", 24/7 | Bob Esponja
-http://el-pe/?c=26652
-#EX group-title="Lista 03", 24/7 | Buzz Lightyear
-http://el-pe/?c=26653
-#EX group-title="Lista 03", 24/7 | Castores Cascarravias
-http://el-pe/?c=26654
-#EX group-title="Lista 03", 24/7 | Cat Dog
-http://el-pe/?c=26655
-#EX group-title="Lista 03", 24/7 | Coraje El Perro Cobarde
-http://el-pe/?c=26656
-#EX group-title="Lista 03", 24/7 | Digimon
-http://el-pe/?c=26657
-#EX group-title="Lista 03", 24/7 | Dinosaurios
-http://el-pe/?c=26658
-#EX group-title="Lista 03", 24/7 | Dora la Exploradora
-http://el-pe/?c=26659
-#EX group-title="Lista 03", 24/7 | El Chavo Animado
-http://el-pe/?c=26660
-#EX group-title="Lista 03", 24/7 | El Laboratorio de Dexter
-http://el-pe/?c=26661
-#EX group-title="Lista 03", 24/7 | El Mundo de Beakman
-http://el-pe/?c=26662
-#EX group-title="Lista 03", 24/7 | El Pajaro Loco
-http://el-pe/?c=26663
-#EX group-title="Lista 03", 24/7 | En Familia con Chabelo
-http://el-pe/?c=26664
-#EX group-title="Lista 03", 24/7 | Escandalosos
-http://el-pe/?c=26665
-#EX group-title="Lista 03", 24/7 | Jimmy Neutron
-http://el-pe/?c=26666
-#EX group-title="Lista 03", 24/7 | Johnny Bravo
-http://el-pe/?c=26667
-#EX group-title="Lista 03", 24/7 | La Casa de Micky Mouse
-http://el-pe/?c=26668
-#EX group-title="Lista 03", 24/7 | Ladybug
-http://el-pe/?c=26669
-#EX group-title="Lista 03", 24/7 | Los Gatos Samurai
-http://el-pe/?c=26670
-#EX group-title="Lista 03", 24/7 | Peppa Pig
-http://el-pe/?c=26671
-#EX group-title="Lista 03", 24/7 | Phineas y Ferb
-http://el-pe/?c=26672
-#EX group-title="Lista 03", 24/7 | Pokemon
-http://el-pe/?c=26673
-#EX group-title="Lista 03", 24/7 | Power Rangers
-http://el-pe/?c=26674
-#EX group-title="Lista 03", 24/7 | Teen Titans Go
-http://el-pe/?c=26675
-#EX group-title="Lista 03", 24/7 | Vaca y Pollito
-http://el-pe/?c=26676
-#EX group-title="Lista 03", 24/7 | Yu Gi Oh
-http://el-pe/?c=26677
-#EX group-title="Lista 03", 24/7 | El show de los Looney Tunes
-http://el-pe/?c=26678
-#EX group-title="Lista 03", 24/7 | Sailor Moon Crystal
-http://el-pe/?c=26679
-#EX group-title="Lista 03", 24/7: pinky
-http://el-pe/?c=26680
-#EX group-title="Lista 03", 24/7: naruto
-http://el-pe/?c=26681
-#EX group-title="Lista 03", 24/7 | GRAVITY FALL
-http://el-pe/?c=26682
-#EX group-title="Lista 03", 24/7 Hannah Montana Temp 1
-http://el-pe/?c=26683
-#EX group-title="Lista 03", 24/7 Hey Arnold
-http://el-pe/?c=26684
-#EX group-title="Lista 03", 24/7 Las Pistas de Blue
-http://el-pe/?c=26685
-#EX group-title="Lista 03", 24/7 Los Backyardigans
-http://el-pe/?c=26686
-#EX group-title="Lista 03", 24/7 Los Castores Cascarrabias
-http://el-pe/?c=26687
-#EX group-title="Lista 03", 24/7 Los Padrinos Magicos
-http://el-pe/?c=26688
-#EX group-title="Lista 03", 24/7 Los Muppet Babys
-http://el-pe/?c=26689
-#EX group-title="Lista 03", 24/7 Mi Peque Pony
-http://el-pe/?c=26690
-#EX group-title="Lista 03", 24/7 Paw Patroll
-http://el-pe/?c=26691
-#EX group-title="Lista 03", 24/7 Pocoyo
-http://el-pe/?c=26692
-#EX group-title="Lista 03", 24/7 Scooby Doo
-http://el-pe/?c=26693
-#EX group-title="Lista 03", 24/7 Tom Y Jerry
-http://el-pe/?c=26694
-#EX group-title="Lista 03", 24/7 Timon & Pumbaa
-http://el-pe/?c=26695
-#EX group-title="Lista 03", 24/7 DAVE Y EVA
-http://el-pe/?c=26696
-#EX group-title="Lista 03", 24/7 | MASHA Y EL OSO
-http://el-pe/?c=26697
-#EX group-title="Lista 03", 24/7 HISTORIAS
-http://el-pe/?c=26698
-#EX group-title="Lista 03", 24/7 | El Coyote y el Correcaminos
-http://el-pe/?c=26699
-#EX group-title="Lista 03", 24/7 | DON GATO Y SU PANDILLA
-http://el-pe/?c=26700
-#EX group-title="Lista 03", 24/7 Capitan America y Los Planetarios
-http://el-pe/?c=26701
-#EX group-title="Lista 03", 24/7 Donde esta Wally
-http://el-pe/?c=26702
-#EX group-title="Lista 03", 24/7: Mazingerz
-http://el-pe/?c=26703
-#EX group-title="Lista 03", 24/7 El Gallo Claudio
-http://el-pe/?c=26704
-#EX group-title="Lista 03", 24/7 Fenomenoide
-http://el-pe/?c=26705
-#EX group-title="Lista 03", 24/7: robotech
-http://el-pe/?c=26706
-#EX group-title="Lista 03", 24/7: Super campeones
-http://el-pe/?c=26707
-#EX group-title="Lista 03", 24/7: he man
-http://el-pe/?c=26708
-#EX group-title="Lista 03", 24/7:  xmen
-http://el-pe/?c=26709
-#EX group-title="Lista 03", 24/7 Garfield
-http://el-pe/?c=26710
-#EX group-title="Lista 03", 24/7 Gargolas Heroes Goticos
-http://el-pe/?c=26711
-#EX group-title="Lista 03", 24/7 Gasparin y sus Amigos
-http://el-pe/?c=26712
-#EX group-title="Lista 03", 24/7 Halcones Galacticos
-http://el-pe/?c=26713
-#EX group-title="Lista 03", 24/7 Heidi
-http://el-pe/?c=26714
-#EX group-title="Lista 03", 24/7 Las Tortugas Ninja
-http://el-pe/?c=26715
-#EX group-title="Lista 03", 24/7: shera
-http://el-pe/?c=26716
-#EX group-title="Lista 03", 24/7: Spiderman
-http://el-pe/?c=26717
-#EX group-title="Lista 03", 24/7 | La Pantera Rosa
-http://el-pe/?c=26718
-#EX group-title="Lista 03", 24/7 | Le Temes a la Oscuridad
-http://el-pe/?c=26719
-#EX group-title="Lista 03", 24/7 | Alf
-http://el-pe/?c=26720
-#EX group-title="Lista 03", 24/7 | El Chapulin Colorado
-http://el-pe/?c=26721
-#EX group-title="Lista 03", 24/7 | El Chavo del 8
-http://el-pe/?c=26722
-#EX group-title="Lista 03", 24/7 | Hechizada
-http://el-pe/?c=26723
-#EX group-title="Lista 03", 24/7 | La Ninera
-http://el-pe/?c=26724
-#EX group-title="Lista 03", 24/7 | Mi Bella Genio
-http://el-pe/?c=26725
-#EX group-title="Lista 03", 24/7 Chespirito
-http://el-pe/?c=26726
-#EX group-title="Lista 03", 24/7: El chapulin colorado
-http://el-pe/?c=26727
-#EX group-title="Lista 03", 24/7: Los locos Addams
-http://el-pe/?c=26728
-#EX group-title="Lista 03", 24/7 El Auto Fantastico
-http://el-pe/?c=26729
-#EX group-title="Lista 03", 24/7 Hercules
-http://el-pe/?c=26730
-#EX group-title="Lista 03", 24/7 Los As Maravillosos
-http://el-pe/?c=26731
-#EX group-title="Lista 03", 24/7 Walker Texas Ranger
-http://el-pe/?c=26732
-#EX group-title="Lista 03", 24/7 Xena La Princesa Guerrera Temp 1
-http://el-pe/?c=26733
-#EX group-title="Lista 03", 24/7 | Los Thundercats
-http://el-pe/?c=26734
-#EX group-title="Lista 03", 24/7 | Mr Bean
-http://el-pe/?c=26735
-#EX group-title="Lista 03", 24/7 | Los Picapiedra
-http://el-pe/?c=26736
-#EX group-title="Lista 03", 24/7 Los Supersonicos
-http://el-pe/?c=26737
-#EX group-title="Lista 03", 24/7 Harry Potter & Animales Fantticos
-http://el-pe/?c=26738
-#EX group-title="Lista 03", Cine Estelar
-http://el-pe/?c=6588
-#EX group-title="Lista 03", Cine Accion
-http://el-pe/?c=6589
-#EX group-title="Lista 03", Estrellas en Acción
-http://el-pe/?c=6590
-#EX group-title="Lista 03", Cine Comedia
-http://el-pe/?c=6591
-#EX group-title="Lista 03", Cine Drama
-http://el-pe/?c=6592
-#EX group-title="Lista 03", Cine Romance
-http://el-pe/?c=6593
-#EX group-title="Lista 03", Cine Suspenso
-http://el-pe/?c=6594
-#EX group-title="Lista 03", Cine Terror
-http://el-pe/?c=6595
-#EX group-title="Lista 03", Cine
-http://el-pe/?c=6596
-#EX group-title="Lista 03", Cine Familia
-http://el-pe/?c=6597
-#EX group-title="Lista 03", Series
-http://el-pe/?c=6598
-#EX group-title="Lista 03", Series Retro
-http://el-pe/?c=6599
-#EX group-title="Lista 03", Series Latinas
-http://el-pe/?c=6600
-#EX group-title="Lista 03", Novelas
-http://el-pe/?c=6601
-#EX group-title="Lista 03", Telefe clasico
-http://el-pe/?c=6602
-#EX group-title="Lista 03", Mtv Classic
-http://el-pe/?c=6603
-#EX group-title="Lista 03", MTV Pranks
-http://el-pe/?c=6604
-#EX group-title="Lista 03", MTV Animaciones
-http://el-pe/?c=6605
-#EX group-title="Lista 03", People are Awesome
-http://el-pe/?c=6606
-#EX group-title="Lista 03", Teen
-http://el-pe/?c=6607
-#EX group-title="Lista 03", Degrassi
-http://el-pe/?c=6608
-#EX group-title="Lista 03", Anime
-http://el-pe/?c=6609
-#EX group-title="Lista 03", Anime Accion
-http://el-pe/?c=6610
-#EX group-title="Lista 03", Naruto
-http://el-pe/?c=6611
-#EX group-title="Lista 03", SCIFI
-http://el-pe/?c=6612
-#EX group-title="Lista 03", Competencias
-http://el-pe/?c=6613
-#EX group-title="Lista 03", Noticias
-http://el-pe/?c=6614
-#EX group-title="Lista 03", Reality
-http://el-pe/?c=6615
-#EX group-title="Lista 03", Investiga
-http://el-pe/?c=6616
-#EX group-title="Lista 03", Historias de Ultratumba
-http://el-pe/?c=6617
-#EX group-title="Lista 03", Misterios Medicos
-http://el-pe/?c=6618
-#EX group-title="Lista 03", Vida Real
-http://el-pe/?c=6619
-#EX group-title="Lista 03", Naturaleza
-http://el-pe/?c=6620
-#EX group-title="Lista 03", Animales
-http://el-pe/?c=6621
-#EX group-title="Lista 03", Oh My Pet
-http://el-pe/?c=6622
-#EX group-title="Lista 03", Velocidad
-http://el-pe/?c=6623
-#EX group-title="Lista 03", Historia
-http://el-pe/?c=6624
-#EX group-title="Lista 03", Los archivos del FBI
-http://el-pe/?c=6625
-#EX group-title="Lista 03", Archivos Forenses
-http://el-pe/?c=6626
-#EX group-title="Lista 03", The New Detectives
-http://el-pe/?c=6627
-#EX group-title="Lista 03", Misterios Sin Resolver
-http://el-pe/?c=6628
-#EX group-title="Lista 03", Minuto para Ganar
-http://el-pe/?c=6629
-#EX group-title="Lista 03", MasterChef
-http://el-pe/?c=6630
-#EX group-title="Lista 03", Latin Angels
-http://el-pe/?c=6631
-#EX group-title="Lista 03", Deportes
-http://el-pe/?c=6632
-#EX group-title="Lista 03", Futbol para Fans
-http://el-pe/?c=6633
-#EX group-title="Lista 03", Peleas
-http://el-pe/?c=6634
-#EX group-title="Lista 03", All Elite Wrestling
-http://el-pe/?c=6635
-#EX group-title="Lista 03", FailArmy
-http://el-pe/?c=6636
-#EX group-title="Lista 03", The Pet Collective
-http://el-pe/?c=6637
-#EX group-title="Lista 03", Humor
-http://el-pe/?c=6638
-#EX group-title="Lista 03", Viajes
-http://el-pe/?c=6639
-#EX group-title="Lista 03", Cocina
-http://el-pe/?c=6640
-#EX group-title="Lista 03", Hogar
-http://el-pe/?c=6641
-#EX group-title="Lista 03", Fashion Box
-http://el-pe/?c=6642
-#EX group-title="Lista 03", Baby First
-http://el-pe/?c=6643
-#EX group-title="Lista 03", Junior
-http://el-pe/?c=6644
-#EX group-title="Lista 03", Nick Jr Club
-http://el-pe/?c=6645
-#EX group-title="Lista 03", Barney
-http://el-pe/?c=6646
-#EX group-title="Lista 03", BABAR
-http://el-pe/?c=6647
-#EX group-title="Lista 03", El Reino Infantil
-http://el-pe/?c=6648
-#EX group-title="Lista 03", Rugrats Crecidos
-http://el-pe/?c=6649
-#EX group-title="Lista 03", Kids
-http://el-pe/?c=6650
-#EX group-title="Lista 03", Nick Clasico
-http://el-pe/?c=6651
-#EX group-title="Lista 03", Animales| SD
-http://el-pe/?c=6652
-#EX group-title="Lista 03", Anime | SD
-http://el-pe/?c=6653
-#EX group-title="Lista 03", Anime Acción | SD
-http://el-pe/?c=6654
-#EX group-title="Lista 03", Archivos Forenses | SD
-http://el-pe/?c=6655
-#EX group-title="Lista 03", Babar | SD
-http://el-pe/?c=6656
-#EX group-title="Lista 03", Babyfirst | SD
-http://el-pe/?c=6657
-#EX group-title="Lista 03", Barney | SD
-http://el-pe/?c=6658
-#EX group-title="Lista 03", Ciencia | SD
-http://el-pe/?c=6659
-#EX group-title="Lista 03", Cine| SD
-http://el-pe/?c=6660
-#EX group-title="Lista 03", Cine Acción| SD
-http://el-pe/?c=6661
-#EX group-title="Lista 03", Cine Comedia | SD
-http://el-pe/?c=6662
-#EX group-title="Lista 03", Cine Drama | SD
-http://el-pe/?c=6663
-#EX group-title="Lista 03", Cine Estelar | SD
-http://el-pe/?c=6664
-#EX group-title="Lista 03", Cine Familia | SD
-http://el-pe/?c=6665
-#EX group-title="Lista 03", Cine Romance| SD
-http://el-pe/?c=6666
-#EX group-title="Lista 03", Cine Suspenso| SD
-http://el-pe/?c=6667
-#EX group-title="Lista 03", Cine Terror| SD
-http://el-pe/?c=6668
-#EX group-title="Lista 03", Cocina| SD
-http://el-pe/?c=6669
-#EX group-title="Lista 03", Combate World
-http://el-pe/?c=6670
-#EX group-title="Lista 03", Competencias| SD
-http://el-pe/?c=6671
-#EX group-title="Lista 03", Deportes| SD
-http://el-pe/?c=6672
-#EX group-title="Lista 03", Empeños a lo Bestia| SD
-http://el-pe/?c=6673
-#EX group-title="Lista 03", Fútbol para Fans | SD
-http://el-pe/?c=6674
-#EX group-title="Lista 03", Historia | SD
-http://el-pe/?c=6675
-#EX group-title="Lista 03", Historias de Ultratumba | SD
-http://el-pe/?c=6676
-#EX group-title="Lista 03", Hogar | SD
-http://el-pe/?c=6677
-#EX group-title="Lista 03", Investiga | SD
-http://el-pe/?c=6678
-#EX group-title="Lista 03", Junior| SD
-http://el-pe/?c=6679
-#EX group-title="Lista 03", Kids | SD
-http://el-pe/?c=6680
-#EX group-title="Lista 03", Latin Angels | SD
-http://el-pe/?c=6681
-#EX group-title="Lista 03", Los Archivos del FBI | SD
-http://el-pe/?c=6682
-#EX group-title="Lista 03", Master Chef | SD
-http://el-pe/?c=6683
-#EX group-title="Lista 03", Minuto para Ganar | SD
-http://el-pe/?c=6684
-#EX group-title="Lista 03", Misterios | SD
-http://el-pe/?c=6685
-#EX group-title="Lista 03", Misterios Médicos | SD
-http://el-pe/?c=6686
-#EX group-title="Lista 03", MTV Animaciones| SD
-http://el-pe/?c=6687
-#EX group-title="Lista 03", MTV Classic| SD
-http://el-pe/?c=6688
-#EX group-title="Lista 03", MTV Pranks| SD
-http://el-pe/?c=6689
-#EX group-title="Lista 03", Mundo
-http://el-pe/?c=6690
-#EX group-title="Lista 03", Narcos
-http://el-pe/?c=6691
-#EX group-title="Lista 03", Naruto| SD
-http://el-pe/?c=6692
-#EX group-title="Lista 03", Naturaleza| SD
-http://el-pe/?c=6693
-#EX group-title="Lista 03", Nick Clásico| SD
-http://el-pe/?c=6694
-#EX group-title="Lista 03", Nick Junior| SD
-http://el-pe/?c=6695
-#EX group-title="Lista 03", Novelas| SD
-http://el-pe/?c=6696
-#EX group-title="Lista 03", Peleas| SD
-http://el-pe/?c=6697
-#EX group-title="Lista 03", Las Pistas de Blue | SD
-http://el-pe/?c=6698
-#EX group-title="Lista 03", Pluto TV Teen| SD
-http://el-pe/?c=6699
-#EX group-title="Lista 03", Reality| SD
-http://el-pe/?c=6700
-#EX group-title="Lista 03", Realities en Español | SD
-http://el-pe/?c=6701
-#EX group-title="Lista 03", Rugrats Crecidos | SD
-http://el-pe/?c=6702
-#EX group-title="Lista 03", Series | SD
-http://el-pe/?c=6703
-#EX group-title="Lista 03", Series Retro| SD
-http://el-pe/?c=6704
-#EX group-title="Lista 03", A3 Series
-http://el-pe/?c=26269
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097878607-HBO-2-pequenio-B.png", HBO 2
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png", HBO famyli
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/HBO_Comedy.png", HBO COMEDY
+
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png", HBO ZONE
+
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO plus
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/large.1312324970_HBOPOP(variantenaranja).png.347982efb47aede5dcf1812e773de650.png" ,HBO POP
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png", HBO MUNDI
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO XTREME
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://sc.dish.com/shared/images/station-logos/HBO.PNG", HBO EAST
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" ,HBO SIGNATURE
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
+https://blackghost.live/play/totalp1-129.php?c=59&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
+https://blackghost.live/play/totalp1-129.php?c=62&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
+https://blackghost.live/play/totalp1-129.php?c=64&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA + 
+https://blackghost.live/play/totalp1-129.php?c=121&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN
+https://blackghost.live/play/totalp1-129.php?c=123&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN + PLUS
+https://blackghost.live/play/totalp1-129.php?c=122&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
+https://blackghost.live/play/totalp1-129.php?c=124&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/golden_premier-mediano.png", GOLDEN PREMIER
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
+https://blackghost.live/play/totalp1-129.php?c=126&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
+https://blackghost.live/play/totalp1-129.php?c=71&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
+https://blackghost.live/play/totalp1-129.php?c=128&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://pbs.twimg.com/media/Eu0oNWuXUAYk3BZ.jpg", FOX FUN
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.pinimg.com/originals/98/c7/a2/98c7a27e08ffa9efd7cb0cc06089ef15.png", FOX MOVIES 
+https://blackghost.live/play/totalp1-129.php?c=146&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png", FOX SERIES
+https://blackghost.live/play/totalp1-129.php?c=139&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png",FOX COMEDY
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Fox_Premium_Action_%28Latin_America%29_-_Logo_2017.png", FOX ACTION
+https://blackghost.live/play/totalp1-129.php?c=336&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.2428530_FoxPremiumCinema.png.9e13f022cada8ee9b258d5089390c951.png", FOX CINEMA 
+https://blackghost.live/play/totalp1-129.php?c=1729&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.pngkey.com/png/full/26-266061_fox-life-logo-fox-life-tv-logo.png", FOX LIFE
+https://blackghost.live/play/totalp1-129.php?c=77&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://3.bp.blogspot.com/-Q_uXu6K_tAQ/W6locnMlULI/AAAAAAAAAIA/CvL73g4tULIuIuxWyezLmx8wvsdh3OcpQCPcBGAYYCw/s1600/foxclassicpremium.png", FOX CLASSICS 
+https://blackghost.live/play/totalp1-129.php?c=1732&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.imgur.com/O5IvT7k.png", FOX HITS
+
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE 
+https://blackghost.live/play/totalp1-129.php?c=3112&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://brandemia.org/contenido/subidas/2015/11/tbs-cabecera-960x474.jpg", TBS 
+https://blackghost.live/play/totalp1-129.php?c=81&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Cinecanal_2016.svg/revision/latest/scale-to-width-down/350?cb=20200325142424&path-prefix=es", CINECANAL
+https://blackghost.live/play/totalp1-129.php?c=149&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX 
+https://blackghost.live/play/totalp1-129.php?c=158&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC  
+https://blackghost.live/play/totalp1-129.php?c=328&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_255.png", PARAMOUNT CHANNEL
+https://blackghost.live/play/totalp1-129.php?c=1726&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png", AZ CINEMA 
+https://blackghost.live/play/totalp1-129.php?c=1787&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
+https://blackghost.live/play/totalp1-129.php?c=2113&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png", E!
+https://blackghost.live/play/totalp1-129.php?c=55&p=3&k=black&f=.m3u8
+
+*** MUSICA ***
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
+https://blackghost.live/play/totalp1-129.php?c=211&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png", MTV
+https://blackghost.live/play/totalp1-129.php?c=212&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS 
+https://blackghost.live/play/totalp1-129.php?c=213&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1200px-LOGO_VH1_CLASSIC.svg.png", VH1 CLASSIC 
+https://blackghost.live/play/totalp1-129.php?c=214&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/NickMusic_Logo.png", NICK MUSIC
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Telehit_Urbano_Logo.png", TELEHIT URBANO
+https://blackghost.live/play/totalp1-129.php?c=218&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://1.bp.blogspot.com/-qDqGC41GMxs/X07ayd7uyYI/AAAAAAAA6R4/b2nUxGj4x5IhqNVVNN2mbZGsU6DPXhD9QCLcBGAsYHQ/s400/telehit-2018.png", TELEHIT +
+https://blackghost.live/play/totalp1-129.php?c=220&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/250?cb=20150806182241", BANDAMAX
+https://blackghost.live/play/totalp1-129.php?c=221&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
+https://blackghost.live/play/totalp1-129.php?c=334&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://i.imgur.com/897e9wy.png", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="musica",VIDEO ROLA
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo_Top_Latino.png", Top latino
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Latinos_Up_TV_entretenimiento_online_en_New_York_y_el_mundo.png",LATINO UP
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_11/large.musictop_poster_-_copia.png.3681a31fef51ae9014cf64b2763b5f50.png",MUSICA TOP
+
+#EXTINF:-1 group-title="musica" tvg-logo="http://www.topmusic.com.mx/img/music-club-logo-1466528095.jpg",TOP MUSIC
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/TeleXitos_TV.png",TVEXITOS
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png",MUSICA POP
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png",MUSICA ROCK
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png",MUSICA HITS
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png",MUSICA REMEMBER
+
+#EXTINF:-1 group-title="musica" tvg-logo="https://hqm.es/wp-content/uploads/relax-hqm-logo.png",MUSICA RELAX
+#EXTINF:-1 group-title="musica" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="musica" tvg-logo="https://www.coolstreaming.us/img/ch/image17015105905.jpg", ibiza global tv
+https://nodo07-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
+
+
+*** DEPORTES ***
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN HD
+https://blackghost.live/play/totalp1-129.php?c=1049&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png", ESPN + 
+https://blackghost.live/play/totalp1-129.php?c=167&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN 
+https://blackghost.live/play/totalp1-129.php?c=168&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png", ESPN 2
+https://blackghost.live/play/totalp1-129.php?c=169&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3
+https://blackghost.live/play/totalp1-129.php?c=345&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png", FOX SPORTS
+https://blackghost.live/play/totalp1-129.php?c=170&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 HD
+https://blackghost.live/play/totalp1-129.php?c=172&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 
+https://blackghost.live/play/totalp1-129.php?c=178&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="ttps://image.roku.com/developer_channels/prod/f7414ac0674bae38158d34fd5fde3630f8e3be01aa74c4ba9168d1ca52450214.png",FUTBOL NETWORK
+
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg/1719px-DirecTV_Sports_Latin_America_-_2018_logo_v2.svg.png",DIRECTV SPORTS
+
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/DIRECTV_Sports_2_Latin_America_%282018%29.svg/1200px-DIRECTV_Sports_2_Latin_America_%282018%29.svg.png",DIRECTV SPORTS 2
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vw05dXK.jpg" group-title="deportes", DIRECTV SPORT PLUS
+
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", ADRENALINA SPORTS HD
+https://blackghost.live/play/totalp1-129.php?c=1799&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png", CLARO SPORTS HD  
+https://blackghost.live/play/totalp1-129.php?c=2564&p=3&k=black&f=.m3u8
+#EXTINF:-1  group-title="deportes" tvg-logo="https://deportesinc.com/depsite/wp-content/uploads/2017/01/Sky-Sports-Logos-CMYK.png",SKY SPORTS 1
+
+#EXTINF:-1  group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_2_HD_-_Logo_2015.svg/1200px-Sky_Sport_2_HD_-_Logo_2015.svg.png",SKY SPORTS 2
+
+#EXTINF:-1  group-title="deportes" tvg-logo="https://alacontra.es/wp-content/uploads/2018/02/Premier-League-Aug-Sep-TV-games-Sky-BT.png",SKY SPORTS PREMIER LEAGUE
+
+*** CULTURALES ***
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png", DISCOVERY ID
+https://blackghost.live/play/totalp1-129.php?c=68&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png", GARAGE TV 
+https://blackghost.live/play/totalp1-129.php?c=75&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png", DISCOVERY CHANNEL
+https://blackghost.live/play/totalp1-129.php?c=86&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD
+https://blackghost.live/play/totalp1-129.php?c=101&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
+https://blackghost.live/play/totalp1-129.php?c=95&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png", ANIMAL PLANET
+https://blackghost.live/play/totalp1-129.php?c=95&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", HISTORY
+https://blackghost.live/play/totalp1-129.php?c=89&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png", NAT GEO  
+https://blackghost.live/play/totalp1-129.php?c=91&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", NAT GEO WILD
+https://blackghost.live/play/totalp1-129.php?c=92&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/2560px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
+
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ6g0Lz4-Mh8PEtxdiT1wGNJmr86hIDk5XUkfjyLw=s900-c-k-c0x00ffffff-no-rj", H&H
+https://blackghost.live/play/totalp1-129.php?c=96&p=3&k=black&f=.m3u8https://blackghost.live/play/totalp1-129.php?c=96&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png", DISCOVERY SCIENCE  
+https://blackghost.live/play/totalp1-129.php?c=98&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD
+
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png", TVE
+https://blackghost.live/play/totalp1-129.php?c=198&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://logopond.com/logos/15be24c2faf8f1b9c023fdbe05b7967b.png", SHOPPING
+https://blackghost.live/play/totalp1-129.php?c=1943&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png", FOOD NETWORK 
+https://blackghost.live/play/totalp1-129.php?c=2145&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", STAR TVE 
+https://blackghost.live/play/totalp1-129.php?c=2375&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
+https://blackghost.live/play/totalp1-129.php?c=2379&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png", CURIOSITY STREAM
+https://blackghost.live/play/totalp1-129.php?c=2594&p=3&k=black&f=.m3u8
+#EXTINF:-1 group-title="Culturales", DISCOVERY CIVILIZATION
+https://blackghost.live/play/totalp1-129.php?c=99&p=3&k=black&f=.m3u8
