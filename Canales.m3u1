@@ -38,8 +38,8 @@ http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=340&tokennn=Regio&f=.m
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=111&tokennn=Regio&f=.m3u8 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-https://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo03.php?key=SrRegio&c=112&f=.m3u8
-#EXTINF:-1 group-title="Infantiles" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/2/22/CN2_Logo-0.png/revision/latest?cb=20160213024101", CARTOON NETWORK 2
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1037&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK 2
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=113&tokennn=Regio&f=.m3u8 
@@ -47,6 +47,8 @@ http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=113&tokennn=Regio&f=.m
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=118&tokennn=Regio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=110&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICKELODEON
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1041&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=2147&tokennn=Regio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR 
@@ -225,3 +227,20 @@ http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=2379&tokennn=Regio&f=.
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=2594&tokennn=Regio&f=.m3u8  
 #EXTINF:-1 group-title="Culturales", DISCOVERY CIVILIZATION
 http://regioplay.xyz/php/SR_REGIO_417022_/tpnuevo02.php?c=99&tokennn=Regio&f=.m3u8  
+
+#EXTINF:-1 group-title="Lista TV2", HBO
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1058&f=.m3u8
+#EXTINF:-1 group-title="Lista TV2", HBO 2
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1059&f=.m3u8
+#EXTINF:-1 group-title="Lista TV2", HBO Family
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1060&f=.m3u8
+#EXTINF:-1 group-title="Lista TV2", HBO Mundi
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1061&f=.m3u8
+#EXTINF:-1 group-title="Lista TV2", HBO Plus
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1062&f=.m3u8
+#EXTINF:-1 group-title="Lista TV2", HBO Signature
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1063&f=.m3u8
+#EXTINF:-1 group-title="Lista TV2", HBO Xtreme
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1064&f=.m3u8
+#EXTINF:-1 group-title="Lista TV2", HBO POP
+http://regioplay.xyz/php/SR_REGIO_417022_/nuevotv2.php?c=1065&f=.m3u8
