@@ -1,1121 +1,229 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png", AZTECA UNO
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=27&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=27&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=1784&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Principales"tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5 HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=1785&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2316&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Principales"tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=1942&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Principales"tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=184&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://1.bp.blogspot.com/-1JegKzPM66w/Xu6fHV_srpI/AAAAAAAAJ7o/XvFb74Lryj8u1TYUdv9kK2Ryx0j1TgL5gCLcBGAsYHQ/s1600/el-nueve.png", NU9VE HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=24&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png", TELEVISA PUEBLA
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=2312&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Principales"tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png", TELEFORMULA
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=32&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Glitz.svg/1200px-Logo_Glitz.svg.png", GLITZ
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=76&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=70&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Principales"tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg", TELEMUNDO INTERNACIONAL HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=85&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://televisa.brightspotcdn.com/dims4/default/9303414/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F1b%2Fb6%2F7effa3414704b1eb556f02c364e6%2Funicable.jpg", UNICABLE 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=66&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=83&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", DISTRITO COMEDIA 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=78&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Principales"tvg-logo="https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=340&tokennn=Regio&f=.m3u8 
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png", DISNEY XD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=111&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
+http://regioplay.xyz/php/SR_REGIO_019022_/nuevotv2.php?c=1037&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK 2
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=113&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=118&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=110&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=2147&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=117&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/2560px-Nicktoons_Network_logo_2009.svg.png", NICKTOONS 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=1708&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=115&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=108&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=109&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png", BABY TV 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=116&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png", BABY FIRST
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=1984&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1280px-Natgeo_Kids_logo.svg.png", NAT GEO KIDS  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=2373&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png", BIT ME  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=2591&tokennn=Regio&f=.m3u8
+
+
+
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/FOX_ESPA%C3%91A_LOGO.png", FOX HD 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=201&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/470px-Warner_Bros._%282019%29_logo.svg.png", WARNER HD 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=205&tokennn=Regio&f=.m3u8   
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://images.vectorhq.com/images/previews/8ea/universal-logo-psd-456169.png", UNIVERSAL HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=207&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg", STUDIO UNIRVESAL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=132&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=209&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=48&tokennn=Regio&f=.m3u
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=129&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=138&tokennn=Regio&f=.m3u8  
+
+
+
+#EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png", SYFY
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=59&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=62&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=64&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA + 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=121&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=123&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_12/large.5a3bc10e723a2_GoldenPlus.png.e3f131696adc926862a7a22e2fa2f108.png", GOLDEN + PLUS
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=122&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="http://k32.kn3.net/taringa/9/C/4/C/8/5/Alexbjm/06C.png", GOLDEN EDGE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=124&tokennn=Regio&f=.m3u8
+
+
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=126&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=71&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=128&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://i.pinimg.com/originals/98/c7/a2/98c7a27e08ffa9efd7cb0cc06089ef15.png", FOX MOVIES 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=146&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png", FOX SERIES
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=139&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_11/large.2428530_FoxPremiumCinema.png.9e13f022cada8ee9b258d5089390c951.png", FOX CINEMA 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=1729&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://www.pngkey.com/png/full/26-266061_fox-life-logo-fox-life-tv-logo.png", FOX LIFE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=77&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://3.bp.blogspot.com/-Q_uXu6K_tAQ/W6locnMlULI/AAAAAAAAAIA/CvL73g4tULIuIuxWyezLmx8wvsdh3OcpQCPcBGAYYCw/s1600/foxclassicpremium.png", FOX CLASSICS 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=336&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://i.imgur.com/O5IvT7k.png", FOX HITS
+
+#EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/A3Cine.png", A3CINE 
+
+#EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://brandemia.org/contenido/subidas/2015/11/tbs-cabecera-960x474.jpg", TBS 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=81&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Cinecanal_2016.svg/revision/latest/scale-to-width-down/350?cb=20200325142424&path-prefix=es", CINECANAL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=149&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=158&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=328&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_255.png", PARAMOUNT CHANNEL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1726&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png", AZ CINEMA 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1787&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2113&tokennn=Regio&f=.m3u8 
+
+*** MUSICA **
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=211&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png", MTV
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=212&tokennn=Regio&f=.m3u8   
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=213&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1200px-LOGO_VH1_CLASSIC.svg.png", VH1 CLASSIC 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=214&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Telehit_Urbano_Logo.png", TELEHIT URBANO
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=218&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="musica" tvg-logo="https://1.bp.blogspot.com/-qDqGC41GMxs/X07ayd7uyYI/AAAAAAAA6R4/b2nUxGj4x5IhqNVVNN2mbZGsU6DPXhD9QCLcBGAsYHQ/s400/telehit-2018.png", TELEHIT +
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=220&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="musica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Bandamax_2010.png/revision/latest/scale-to-width-down/250?cb=20150806182241", BANDAMAX
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=221&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png", VH1 HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=334&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="musica" tvg-logo="https://i.imgur.com/897e9wy.png", Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="musica" tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="musica" tvg-logo="https://www.coolstreaming.us/img/ch/image17015105905.jpg", ibiza global tv
+https://nodo07-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
+
+
+*** DEPORTES ***
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=174&tokennn=Regio&f=.m3u8
+
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png", ESPN + 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=167&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=168&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png", ESPN 2
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=169&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=345&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png", FOX SPORTS
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=170&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png", FOX SPORTS 2 HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=172&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/1200px-Fox_sports_3_logo.svg.png", FOX SPORTS 3 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=178&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png", ADRENALINA SPORTS HD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1799&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1280px-Claro_Sports_logo.svg.png", CLARO SPORTS HD  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2564&tokennn=Regio&f=.m3u8  
+
+*** CULTURALES ***
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png", DISCOVERY ID
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=68&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://www.foromedios.com/uploads/monthly_2020_09/large.1711030430_GarageTV-LogoPlateado2012-presente.png.f37a27872ff72560c8aba22efe0a0506.png", GARAGE TV 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=75&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png", DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=86&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1280px-World_Discovery_HD_logo.svg.png", DISCOVERY WORLD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=101&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png", DISCOVERY THEATER
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=95&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png", ANIMAL PLANET
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=88&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", HISTORY
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=89&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png", NAT GEO  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=91&tokennn=Regio&f=.m3u8 
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", NAT GEO WILD
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=92&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQ6g0Lz4-Mh8PEtxdiT1wGNJmr86hIDk5XUkfjyLw=s900-c-k-c0x00ffffff-no-rj", H&H
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=96&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png", DISCOVERY SCIENCE  
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=98&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png", TVE
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=198&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://logopond.com/logos/15be24c2faf8f1b9c023fdbe05b7967b.png", SHOPPING
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1943&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png", FOOD NETWORK 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2145&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", STAR TVE 
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2375&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2379&tokennn=Regio&f=.m3u8
+#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png", CURIOSITY STREAM
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=2594&tokennn=Regio&f=.m3u8  
+#EXTINF:-1 group-title="Culturales", DISCOVERY CIVILIZATION
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=99&tokennn=Regio&f=.m3u8  
 
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=1&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
 
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=734&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="HD",A&E HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=474&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico",A+
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=406&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="EspaÃ±a",A3Series
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=444&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias",ADN 40
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=447&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=878&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=426&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=183&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="EspaÃ±a",AMC ES
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=715&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="HD",AMC HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=475&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru",America
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=780&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=3&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="HD",Animal Planet HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=633&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=677&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Anime 24H
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=269&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="EspaÃ±a",Antena 3
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=298&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=146&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=804&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="EspaÃ±a",AXN (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=713&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="HD",AXN HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=476&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="EspaÃ±a",AXN WHITE (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=714&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes",AyM Sports
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=148&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Peliculas",Az Cinema
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=186&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento",Az Clic
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=165&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento",Az CorazÃ³n
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=166&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="HD",Az CorazÃ³n HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=834&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Mexico",Azteca 1
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=4&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="HD",Azteca 1 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=634&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Mexico",Azteca 7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=5&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="HD",Azteca 7 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=635&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantiles",Baby TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=7&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica",Bandamax
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=8&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="HD",Bandamax HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=833&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Barbie 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=788&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes",BeinSports
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=753&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="HD",BeinSports HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=9&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes",BeinSports Ã‘
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=761&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="HD",BeinSports Ã‘ HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=376&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7",Bleach 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=883&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=518&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Bolivia",Bolivision
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=783&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=846&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Brickleberry 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=789&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=427&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="Nicaragua",Canal 2 Televicentro
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=211&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Mexico",Canal 5
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=14&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Honduras",Canal 5 Honduras
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=773&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=411&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=736&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="HD",Canal de las Estrellas HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=636&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="Mexico",Canal Once
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=15&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="EspaÃ±a",Canal+ Accion
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=364&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes",Canal+ Toros
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=369&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Candy Candy 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=808&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=428&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="Musica",Capital TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=205&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=391&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento",Caracol Internacional
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=290&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=17&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=737&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="HD",Cartoon Network HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=637&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Infantiles",Cartoonito (Boomerang)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=11&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="HD",Cartoonito (Boomerang) HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=824&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantiles",Cartoonito Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=735&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/casocerrado.png" group-title="24/7",Caso Cerrado 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=907&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=785&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantiles",CBeebies
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=13&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes",CDF Premium
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=318&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdfpremium.png" group-title="HD",CDF Premium HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=725&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes",CDN Sportsmax
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=206&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="Deportes",CDO
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=513&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes",CDO Premium
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=401&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=418&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=417&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="Colombia",CHV Chilevision
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=198&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=699&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Accion HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=706&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Accion Sagas
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=700&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Accion Sagas HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=707&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 1
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=695&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 1 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=914&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=696&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Comedia 2 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=915&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Ficcion/Fantasia 1
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=709&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Ficcion/Fantasia 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=710&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Ficcion/Fantasia HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=712&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Infantil
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=687&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Infantil HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=702&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Infantil Sagas
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=694&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Infantil Sagas HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=703&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",Cine Latino
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=295&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Marvel
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=697&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Marvel HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=701&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Romance
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=689&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Romance HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=705&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Suspenso
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=912&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Terror
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=693&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="HD",Cine Terror HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=704&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Zombis
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=688&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cine247.png" group-title="Peliculas",Cine Zombis HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=917&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=18&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=738&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="HD",Cinecanal HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=479&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=20&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=739&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="HD",Cinemax HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=638&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes",Claro Sports
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=328&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="Noticias",CNN en EspaÃ±ol
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=136&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=135&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=740&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="EspaÃ±a",Comedy Central (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=719&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="HD",Comedy Central HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=480&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=519&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="EspaÃ±a",Crime Investigation (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=720&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/csi_miami.png" group-title="24/7",CSI: Miami 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=908&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Chile",CTNI
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=160&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Peliculas",De PelÃ­cula
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=21&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="HD",De Pelicula HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=481&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes",DeporTV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=139&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=844&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=670&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirectTV Sports
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=259&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Deportes",DirectTV Sports 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=667&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="HD",DirectTV Sports Peru HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=879&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=22&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=741&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="HD",Discovery Channel HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=639&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura",Discovery Civilization
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=23&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=24&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=742&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="HD",Discovery H&H HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=640&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles",Discovery Kids
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=25&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="HD",Discovery Kids HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=641&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura",Discovery SCI
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=26&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverytheater.png" group-title="Cultura",Discovery Theater HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=27&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura",Discovery Turbo
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=28&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="HD",Discovery Turbo HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=727&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura",Discovery World
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=187&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles",Disney Channel
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=29&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=30&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=743&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="HD",Disney Junior HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=826&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=31&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=744&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="HD",Disney XD HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=827&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=32&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="Musica",Djing Ibiza
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=277&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=521&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=425&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=520&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=424&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=329&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento",E!
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=33&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="HD",E! HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=483&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=319&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/efektotv.png" group-title="Noticias",Efekto TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=275&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Argentina",El 13 Argentina
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=239&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Ecuador",El Canal Del Futbol
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=892&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=790&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=400&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=429&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento",El Gallo Claudio 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=845&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Entretenimiento",El Gourmet
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=157&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=791&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina",El Nueve
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=772&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=525&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=430&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Entretenimiento",El SeÃ±or de los Cielos 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=820&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Chile",El Trece
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=765&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",El Trece
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=767&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace Juvenil
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=162&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=161&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=34&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=35&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="HD",ESPN 2 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=484&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=531&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="HD",ESPN 3 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=485&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=842&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="HD",ESPN HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=486&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=530&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=37&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="HD",ESPN Plus HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=487&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento",Estrella TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=177&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes",Eurosport
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=39&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="Religion",EWTN
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=38&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="HD",Film & Arts HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=149&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/filmarts.png" group-title="HD",Film & Arts HD (EN)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=729&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",FM Hot TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=731&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=192&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento",Fox Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=750&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=746&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=52&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=53&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 Argentina HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=770&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="HD",Fox Sports 2 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=494&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=528&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=54&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="HD",Fox Sports 3 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=839&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports Argentina HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=769&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="HD",Fox Sports HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=493&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=527&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=748&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=512&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="HD",Fox Sports Premium HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=658&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=402&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=410&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=511&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=793&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=42&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=749&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="HD",FX HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=495&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Peliculas",FXM
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=43&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="HD",FXM HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=488&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=56&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="HD",Gala TV HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=651&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador",Gamavision
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=891&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=515&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Garfield 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=812&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento",Glitz
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=158&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=686&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=287&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="HD",Gol TV HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=514&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",Golden
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=57&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas",Golden Edge
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=58&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="HD",Golden HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=496&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=61&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2 Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=760&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=62&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=723&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=300&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=724&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=732&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="HD",HBO 2 HD (EN)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=733&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=63&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="HD",HBO HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=654&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=64&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus (EN)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=722&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=655&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="HD",HBO Plus Oeste HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=728&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=814&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=841&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="Honduras",HCH
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=779&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=522&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="EspaÃ±a",Historia (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=718&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura",History Channel
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=67&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="HD",History Channel HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=642&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="Musica",Hit TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=201&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento",Hola TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=189&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica",HTV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=66&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas",I.Sat
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=153&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",Imagen Television
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=341&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="HD",Imagen TelevisiÃ³n HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=643&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura",Investigation Discovery
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=68&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="HD",Investigation Discovery HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=825&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=786&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/jorgeelcurioso.png" group-title="24/7",Jorge el Curioso 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=909&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Juce TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=263&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="24/7",La Casa de Papel 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=403&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lafamiliamonster.png" group-title="24/7",La Familia Monster 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=910&f=.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",La Familia PeLuche 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=811&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=887&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=671&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7",La PequeÃ±a Lulu 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=792&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=886&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="EspaÃ±a",La Sexta
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=326&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Entretenimiento",La Vaca y ElPollito 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=809&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Uruguay",Latina TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=782&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=888&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento",Lifetime
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=152&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=890&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=893&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=524&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=423&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Entretenimiento",Los AÃ±os Maravillosos 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=810&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Entretenimiento",Los Padrinos Magicos 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=813&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=669&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=794&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7",Los Pitufos 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=795&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=796&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 1-5) 24/7 
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=894&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 12-17) 24/7 
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=896&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 18-21) 24/7 
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=897&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 22-26) 24/7 
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=898&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 27-30) 24/7 
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=899&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson (Temporadas 6-11) 24/7 
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=895&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=357&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=797&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Entretenimiento",Los Vengadores Unidos 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=818&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",m2o TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=203&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=911&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm HD 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=798&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Entretenimiento",MÃ¡s chic
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=180&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="HD",Max Prime HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=730&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Entretenimiento",Max Steel 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=880&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="HD",Max Up HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=659&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Chile",Mega
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=766&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Puerto Rico",Mega
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=784&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="EspaÃ±a",Mega (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=352&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peliculas",MegaCine HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=517&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mimusicahd.png" group-title="Musica",Mi Musica HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=172&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Miami TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=251&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/milenio.png" group-title="Noticias",Milenio HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=140&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Deportes",MLB Network
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=293&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas",Movie Max
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=678&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="EspaÃ±a",Movistar Comedia
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=370&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes",Movistar Deportes
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=366&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes",Movistar Deportes 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=367&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_laliga.png" group-title="HD",Movistar LaLiga HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=916&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="EspaÃ±a",Movistar Xtra
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=372&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=431&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=69&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="EspaÃ±a",MTV (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=803&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="HD",MTV HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=828&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica",MTV Live
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=70&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV Sur
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=823&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Mexico",Multimedios
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=155&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Peliculas",MultiPremier
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=294&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Music Now
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=690&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="Musica",Music Top
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=691&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" group-title="Noticias",MVS Noticias
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=448&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=523&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",Nat Geo
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=76&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="HD",Nat Geo HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=644&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" group-title="Infantiles",Nat Geo Kids
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=412&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Cultura",Nat Geo Wild
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=77&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="HD",Nat Geo Wild HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=497&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="Deportes",NBA
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=838&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" group-title="EspaÃ±a",Neox (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=353&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes",NFL Network
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=204&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",Nick
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=78&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick2.png" group-title="HD",Nick 2 HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=646&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="HD",Nick HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=645&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles",Nick JR
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=79&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="HD",Nick JR HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=829&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantiles",Nick Toons
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=80&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Infantiles",Nickelodeon
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=184&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="EspaÃ±a",Nova (ES)
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=717&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=661&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",ORBE 21
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=242&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=416&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",Paramount
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=200&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="HD",Paramount HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=647&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pasiones.png" group-title="HD",Pasiones HD
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=755&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Entretenimiento",Patoaventuras 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=819&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Entretenimiento",Patrulla Canina 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=807&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=787&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Peru",PERU: AmÃ©rica TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=304&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Antares TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=451&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: BHTV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=399&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: La Luz
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=338&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru",PERU: Latina
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=317&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Plus TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=337&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: RBC
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=220&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="Peru",PERU: RPP
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=336&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: TV Peru
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=306&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Willax TV
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=334&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=721&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7",Pocoyo 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=799&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=420&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 1
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=847&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 10
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=856&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 11
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=858&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 12
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=859&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 13
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=860&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 14
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=862&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 15
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=863&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 16
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=864&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 17
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=865&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 18
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=866&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 19
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=861&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 2
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=848&f=.m3u8
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 20
-
-http://regioplay.xyz/php/SR_REGIO_526022_/nuevotv.php?c=867&f=.m3u8
