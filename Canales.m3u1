@@ -167,7 +167,8 @@ https://nodo07-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
 
 *** DEPORTES ***
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN HD
-http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=1049&tokennn=Regio&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo02.php?c=174&tokennn=Regio&f=.m3u8
+
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png", ESPN + 
 http://regioplay.xyz/php/SR_REGIO_019022_/tpnuevo01.php?c=167&tokennn=Regio&f=.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN 
