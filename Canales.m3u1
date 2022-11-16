@@ -42,7 +42,7 @@ http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?c=113&tokennn=Regio&f=.m
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR
 http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?c=118&tokennn=Regio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK 
-
+https://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo03.php?key=SrRegio&c=331&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png", NICK 2
 http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?c=2147&tokennn=Regio&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png", NICK JR 
