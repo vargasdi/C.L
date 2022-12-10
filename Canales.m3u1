@@ -15,7 +15,7 @@ https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=1825&f=
 #EXTINF:-1 group-title="Principales"tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
 https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=2&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://1.bp.blogspot.com/-1JegKzPM66w/Xu6fHV_srpI/AAAAAAAAJ7o/XvFb74Lryj8u1TYUdv9kK2Ryx0j1TgL5gCLcBGAsYHQ/s1600/el-nueve.png", NU9VE HD
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?c=24&tokennn=Regio&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=1922&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logotipo_de_Televisa.svg/1200px-Logotipo_de_Televisa.svg.png", TELEVISA PUEBLA
 https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=2312&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://www.radioformula.com.mx/wp-content/uploads/2019/01/favicon_RF_2x_02.png", TELEFORMULA
@@ -167,15 +167,12 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 https://nodo07-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
 
 
-*** DEPORTES ***
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png", TUDN HD
 https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=109&f=.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/1280px-ESPN_Plus.svg.png", ESPN + 
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?c=167&tokennn=Regio&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_502122_/tv1.php?key=SrRegio&c=37
 #EXTINF:-1 group-title="deportes" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png", ESPN 
 https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=561&f=.m3u8
-#EXTINF:-1 group-title="https://upload.wikimedia.org/wikipedia/commons/b/b9/Espn_extra_2015.PNG", ESPN XTRA
-https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=516&f=.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png", ESPN 2
 https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=558&f=.m3u8
 #EXTINF:-1 group-title="deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3
@@ -214,14 +211,6 @@ https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=377&f=.
 https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=374&f=.m3u8
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png", DISCOVERY SCIENCE  
 https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=381&f=.m3u8
-#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1200px-TVE.svg.png", TVE
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?c=198&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Culturales" tvg-logo="https://logopond.com/logos/15be24c2faf8f1b9c023fdbe05b7967b.png", SHOPPING
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?c=1943&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png", FOOD NETWORK 
-http://regioplay.xyz/php/SR_REGIO_611122_/tpnuevo02.php?c=2145&tokennn=Regio&f=.m3u8
-#EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png", STAR TVE 
-https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=651&f=.m3u8
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png", DISCOVERY TURBO
 https://regioplay.xyz/php/SR_REGIO_502122_/tpnuevo02.php?tokennn=Regio&c=2379&f=.m3u8
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CuriosityStreamBlack.svg/1200px-CuriosityStreamBlack.svg.png", CURIOSITY STREAM
