@@ -39,6 +39,8 @@ https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo02.php?tokennn=Regio&c=217&f=.
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
 https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo02.php?tokennn=Regio&c=320&f=.m3u8
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
+https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo01.php?tokennn=Regio&c=320&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
 https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo02.php?tokennn=Regio&c=312&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Disney_Junior_logo.png", DISNEY JR
@@ -54,7 +56,7 @@ https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo02.php?tokennn=Regio&c=314&f=.
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://1.bp.blogspot.com/-2DAy1JIn7Ls/YDB6VV3AnXI/AAAAAAAAE6M/6StLXR1QGOMtZxQXVbop1f-iKqckRGubwCLcBGAsYHQ/s1920/cartunito.jpg", CARTONCITO
-https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo02.php?tokennn=Regio&c=324&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo01.php?tokennn=Regio&c=324&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST  
 https://regioplay.xyz/php/SR_REGIO_201023_/tpnuevo02.php?tokennn=Regio&c=328&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
