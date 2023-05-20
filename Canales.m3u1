@@ -5,11 +5,11 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=250&f=.m3u8
+
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=52&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://televisa.brightspotcdn.com/dims4/default/abb340a/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F6d%2F8e%2F9cc24da34a0daf74c67826012b8a%2Fcanal-5.jpg", CANAL 5 HD
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=55&f=.m3u8
+https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=9
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnu8evo01.php?tokennn=Regio&c=55&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7
