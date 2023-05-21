@@ -4,11 +4,10 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1  group-title="Principales" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg", EL CHAVO TV
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
 #EXTINF:-1 group-title="Principales" tvg-logo="https://videorola.com/assets/image/vr_logo_x_org.png", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 group-title="Otros Canales" tvg-logohttps://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/1200x630/public/field/image/article/locomotiontv-radionica.jpg?itok=jwkxP08R", LOCOMOTION
+#EXTINF:-1 group-title="Otros Canales" tvg-logo"https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/1200x630/public/field/image/article/locomotiontv-radionica.jpg?itok=jwkxP08R", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
 
@@ -84,7 +83,7 @@ https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=207&f=.
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Studio_Universal_2010.svg/revision/latest/scale-to-width-down/300?cb=20200323005448&path-prefix=es, STUDIO UNIRVESAL
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=492&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY 
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=203&f=.m3u8
+http://regioplay.xyz/php/SR_REGIO_105023_/regiotv2.php?c=117&tokeen=SrRegio&f=.m3u8|user-agent=elmega
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=209&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
