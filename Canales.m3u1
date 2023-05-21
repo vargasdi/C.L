@@ -4,6 +4,12 @@
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://tvazteca.brightspotcdn.com/ce/0b/d308d0424aea9164ac7cbb813539/adn-40-cuadrado-2.png", ADN40 HD
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1  group-title="Principales""tvg-logo="https://m.media-amazon.com/images/M/MV5BZjM3ZmY2YzAtZjY1My00OTJjLWI5M2QtYmYxNDQ1OTBkY2E2XkEyXkFqcGdeQXVyMzQxNzU3NA@@._V1_FMjpg_UX1000_.jpg", EL CHAVO TV
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:-1 group-title="Principales",tvg-logo="https://videorola.com/assets/image/vr_logo_x_org.png" VIDEOROLA
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1 group-title="Otros Canales",tvg-logohttps://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/styles/1200x630/public/field/image/article/locomotiontv-radionica.jpg?itok=jwkxP08R" LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://cdn.mitvstatic.com/channels/mx_az-corazon_m.png", AZ CORAZON 
 
 #EXTINF:-1 group-title="Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png", LAS ESTRELLAS HD
@@ -13,7 +19,7 @@ https://regioplay.xyz/php/SR_REGIO_105023_/nuevotv.php?key=SrRegio&c=9
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/175px-Logo_a%2B_%28canal%29.svg.png", a mas +
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnu8evo01.php?tokennn=Regio&c=55&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png", AZTECA 7
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=107&f=.m3u8
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://raw.githubusercontent.com/mxabierto/assets/master/img/logos/canal-11.png", ONCE HD  
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=1825&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://1.bp.blogspot.com/-1JegKzPM66w/Xu6fHV_srpI/AAAAAAAAJ7o/XvFb74Lryj8u1TYUdv9kK2Ryx0j1TgL5gCLcBGAsYHQ/s1600/el-nueve.png", NU9VE HD
