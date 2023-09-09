@@ -31,13 +31,13 @@ https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=270&f=.
 #EXTINF:-1 group-title="Principales"tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/images/brand/promo/2018/09/26/10_telemundo_internacional_1920x1080_b2.jpg", TELEMUNDO INTERNACIONAL HD
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=85&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://televisa.brightspotcdn.com/dims4/default/9303414/2147483647/strip/true/crop/1200x675+0+0/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2F1b%2Fb6%2F7effa3414704b1eb556f02c364e6%2Funicable.jpg", UNICABLE 
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=218&f=.m3u8
+http://45.160.15.130:2909/play/149
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tlnovelas_2007_logo.svg/2560px-Tlnovelas_2007_logo.svg.png", TL NOVELAS
 http://204.199.120.34:16123/play/ch45
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", DISTRITO COMEDIA 
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=272&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo=8https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=217&f=.m3u8
+http://45.160.15.130:2909/play/a15s
 
 
 
@@ -59,7 +59,7 @@ https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=314&f=.
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://1.bp.blogspot.com/-2DAy1JIn7Ls/YDB6VV3AnXI/AAAAAAAAE6M/6StLXR1QGOMtZxQXVbop1f-iKqckRGubwCLcBGAsYHQ/s1920/cartunito.jpg", CARTONCITO
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo01.php?tokennn=Regio&c=324&f=.m3u8
+http://45.160.15.130:2909/play/a15m
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/1280px-Tooncast_logo.svg.png", TOONCAST  
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=328&f=.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/2327px-2016_Discovery_Kids_logo.svg.png", DISCOVERY KIDS
@@ -75,19 +75,29 @@ https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=2591&f=
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://i.blogs.es/f4fa98/star-channel-llega-a-mexico/1366_2000.jpg", STAR CHANNEL
 http://204.199.120.34:16123/play/ch07
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Warner_Bros._%282019%29_logo.svg/470px-Warner_Bros._%282019%29_logo.svg.png", WARNER HD 
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=205&f=.m3u8
+http://45.160.15.130:2909/play/081
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo.png", UNIVERSAL HD
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=207&f=.m3u8
+http://45.160.15.130:2909/play/088
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/Studio_Universal_2010.svg/revision/latest/scale-to-width-down/300?cb=20200323005448&path-prefix=es, STUDIO UNIRVESAL
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=492&f=.m3u8
+http://45.160.15.130:2909/play/098
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY 
-http://regioplay.xyz/php/SR_REGIO_105023_/regiotv2.php?c=117&tokeen=SrRegio&f=.m3u8|user-agent=elmega
+http://45.160.15.130:2909/play/085
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png", FX HD
 http://204.199.120.34:16123/play/ch08
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png", SPACE
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=445&f=.m3u8
+http://45.160.15.130:2909/play/119
 #EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png", FXM
 
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-Logo-1975.png", HBO
+http://45.160.15.130:2909/play/017
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/HBO_Family_logo.png/640px-HBO_Family_logo.png", HBO FAMILY
+http://45.160.15.130:2909/play/018
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png", HBO PLUS
+http://45.160.15.130:2909/play/019
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png", HBO xtreme
+http://45.160.15.130:2909/play/020
+#EXTINF:-1 group-title="Entrenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png?HBO_2152482606", HBO 2
+http://45.160.15.130:2909/play/021
 #EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png", DE PELICULA  
 http://204.199.120.34:16123/play/ch57
 #EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/De_Pel%C3%ADcula_HD_2012-2016.png/revision/latest?cb=20191216010400&path-prefix=es", DE PELICULA PLUS
@@ -101,11 +111,11 @@ http://204.199.120.34:16123/play/ch47
 #EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/Cinecanal_2016.svg/revision/latest/scale-to-width-down/350?cb=20200325142424&path-prefix=es", CINECANAL
 http://204.199.120.34:16123/play/ch10
 #EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png", CINEMAX 
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=481&f=.m3u8
+http://45.160.15.130:2909/play/112
 #EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png", AMC  
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=444&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://www.foromedios.com/uploads/gallery/category_2/gallery_5617_2_255.png", PARAMOUNT CHANNEL
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=1726&f=.m3u8
+http://45.160.15.130:2909/play/099
 #EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://dws.compradish.com/sites/compradish.com/pages/images/logo-ch-azteca-cinema.png", AZ CINEMA 
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=425&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png", A3SERIES
@@ -117,11 +127,11 @@ https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=257&f=.
 #EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/AE-logo-2-1.png", A&E
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=211&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/2560px-AXN_logo.svg.png", AXN
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=2507&f=.m3u8
+http://45.160.15.130:2909/play/087
 #EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1200px-TNT_TV_logo.svg.png", TNT 
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=435&f=.m3u8
+http://45.160.15.130:2909/play/109
 #EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/TNT_Serie_Logo_2016.png", TNT SERIES
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=266&f=.m3u8
+http://45.160.15.130:2909/play/108
 #EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png", TCM
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=496&f=.m3u8
 #EXTINF:-1 group-title="Entrenimiento 3" tvg-logo="https://i.pinimg.com/originals/98/c7/a2/98c7a27e08ffa9efd7cb0cc06089ef15.png", FOX MOVIES 
@@ -142,7 +152,7 @@ https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=273&f=.
 #EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/614px-MTV_Live_HD_2017_logo.svg.png", MTV LIVE
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=701&f=.m3u8
 #EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/1280px-MTV-Logo.svg.png", MTV 
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=726&f=.m3u8
+http://45.160.15.130:2909/play/132
 #EXTINF:-1 group-title="musica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png", MTV HITS 
 https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=727&f=.m3u8
 #EXTINF:-1 group-title="musica" tvg-logo="https://yt3.ggpht.com/rYDUvJgOVELMg4lk8VHKBCBS5OyxFf69yPaUiSVUkGEIEUPgh3Uab8ZBXC9SWkop5lSICyO7l3w=s900-c-k-c0x00ffffff-no-rj", MTV 00S
@@ -201,7 +211,7 @@ https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=351&f=.
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png", ANIMAL PLANET
 http://204.199.120.34:16123/play/ch29
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png", HISTORY
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=353&f=.m3u8
+http://45.160.15.130:2909/play/03
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/national-geographic-logo.png", NAT GEO  
-https://regioplay.xyz/php/SR_REGIO_105023_/tpnuevo02.php?tokennn=Regio&c=377&f=.m3u8
+http://45.160.15.130:2909/play/027
 #EXTINF:-1 group-title="Culturales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png", NAT GEO WILD
