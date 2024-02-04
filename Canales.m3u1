@@ -21,7 +21,7 @@ http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=421&pid=421&token=SrRegio&f
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", DISTRITO COMEDIA 
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo=8https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
-http://167.250.222.35:16000/play/a098/index.m3u8
+http://190.149.66.90:4000/play/a03q/index.m3u8
 
 
 
