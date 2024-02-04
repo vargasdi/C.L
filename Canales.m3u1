@@ -20,14 +20,14 @@ https://v-la.mybtv.net/live/267.m3u8
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=421&pid=421&token=SrRegio&f=.m3u8
 #EXTINF:-1 group-title="Principales"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png", DISTRITO COMEDIA 
 http://notabasica.com/php/SR_REGIO_601032_/vix.php?c=405&pid=405&token=SrRegio&f=.m3u8
-#EXTINF:-1 group-title="Principales"tvg-logo=8https://logos-marcas.com/wp-content/uploads/2021/02/Comedy-Central-Logo.png", COMEDY CENTRAL
+#EXTINF:-1 group-title="Principales" tvg-logo=o"https://1000marcas.net/wp-content/uploads/2022/01/Comedy-Central-Productions-Logo-1991.png", COMEDY CENTRAL
 http://190.149.66.90:4000/play/a03q/index.m3u8
 
 
 
 
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png", CARTOON NETWORK
-http://190.149.66.90:4000/play/a00o/index.m3u8
+http://notabasica.com/php/SR_REGIO_601032_/tv1.php?c=216
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png", DISNEY CHANNEL
 http://190.149.66.90:4000/play/a047/index.m3u8
 #EXTINF:-1 group-title="Infantiles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png", NICK 
